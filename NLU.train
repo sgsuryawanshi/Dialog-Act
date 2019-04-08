@@ -1,0 +1,6002 @@
+I took 523 a few years ago, which I think is similar without the SI ties.
+<class
+id=523
+taken=true>
+
+494 (game design) was also a very interesting class, although I took it the first semester it was offered.
+<class
+id=494
+name=game design
+link=Computer Game Design and Development
+taken=true>
+
+I was in EECS 579 last semester.
+<class
+id=579
+department=EECS
+taken=true
+semester=last semester>
+
+I took 995 in the winter.
+<class
+id=995
+taken=true
+semester=winter>
+
+I took 230 and passed!
+<class
+id=230
+taken=true
+passed=true>
+
+I passed EECS 230 in the winter.
+<class
+id=230
+department=EECS
+taken=true
+semester=winter>
+
+EECS 425 was the first class I took.
+<class
+id=425
+department=EECS
+taken=true>
+
+388 was the last class I took.
+<class
+id=388
+taken=true
+semester=last class I took>
+
+I took EECS 373.
+<class
+id=373
+department=EECS
+taken=true>
+
+I took both courses, electronic circuits and digital signal processing.
+<class
+name=electronic circuits
+link=Electronic Circuits
+taken=true>
+<class
+name=digital signal processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+I took 528 last year and thought it was an awesome class.
+<class
+id=528
+sentiment=positive
+taken=true
+semester=last year>
+
+I took 421 with Moralez last fall and I learned a lot, but the tests were way too hard.
+<class
+id=421
+taken=true
+instructor=Moralez
+semester=last fall
+difficulty=hard>
+<instructor
+name=Moralez
+link=Chuck Moralez
+sentiment=neutral>
+
+I haven't taken 520
+<class
+id=520
+taken=false>
+
+I haven't taken 523
+<class
+id=523
+taken=false>
+
+I have not taken EECS 588
+<class
+id=588
+department=EECS
+taken=false>
+
+I want to take EECS 494 but I have not yet.
+<class
+id=494
+department=EECS
+taken=false
+want-to-take=true>
+
+I never took EECS 523.
+<class
+id=523
+department=EECS
+taken=false>
+
+I wanted to take EECS 494 last year but I couldn't.
+<class
+id=494
+department=EECS
+want-to-take=true
+taken=false>
+
+I have not yet taken but am looking forward to EECS 494.
+<class
+id=494
+department=EECS
+taken=false
+want-to-take=true>
+
+I did not take EECS 583.
+<class
+id=583
+department=EECS
+taken=false>
+
+I didn't yet take 579.
+<class
+id=579
+taken=false>
+
+I would take EECS 216 but I don't need it for anything.
+<class
+id=216
+department=EECS
+taken=false
+want-to-take=true>
+
+I couldn't take EECS 421 because it conflicted with another class I had to take.
+<class
+id=421
+department=EECS
+taken=false>
+
+I would rather die than have to take Electronic Sensing Systems with Netherton again.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+instructor=Netherton
+sentiment=negative
+taken=true>
+<instructor
+name=Netherton
+link=Lisha Netherton
+sentiment=neutral>
+
+I'm not sure I actually learned anything from 767.
+<class
+id=767
+taken=true>
+
+It was EECS 528 that made me most interested in computer science.
+<class
+id=528
+department=EECS
+sentiment=positive
+taken=true>
+
+EECS 528 was one of the most interesting classes I've taken.
+<class
+id=528
+department=EECS
+sentiment=positive
+taken=true>
+
+The most interesting class I've taken was 528.
+<class
+id=528
+sentiment=positive
+taken=true>
+
+It was great learning from EECS 528 and I feel way more confident in my abilities thanks to the course.
+<class
+department=EECS
+id=528
+sentiment=positive
+taken=true>
+
+Although I found the course challenging at times, I loved EECS 528.
+<class
+id=528
+department=EECS
+sentiment=positive
+taken=true>
+
+I really liked EECS 528.
+<class
+id=528
+department=EECS
+sentiment=positive
+taken=true>
+
+Overall, I think EECS 230 was a very positive experience.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+
+I'm so glad I took EECS 542.
+<class
+id=542
+department=EECS
+taken=true
+sentiment=positive>
+
+I recommend EECS 230 to all of my friends.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+
+I had a good time in EECS 498 and it has easily been my favorite EECS class.
+<class
+id=498
+department=EECS
+taken=true
+sentiment=positive>
+
+Although EECS 230 is hard, I enjoyed this class.
+<class
+id=230
+department=EECS
+difficulty=hard
+sentiment=positive
+taken=true>
+
+I liked EECS 230.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+
+I liked 511 much more because it is a smaller class environment and everyone seemed to be more invested in the class.
+<class
+id=511
+sentiment=positive
+taken=true>
+
+I liked 528, even though I don't remember if Mclennan taught it or not.
+<class
+id=528
+sentiment=positive
+taken=true>
+<instructor
+name=Mclennan
+link=Russel Mclennan>
+
+EECS 523 made me love compsci.
+<class
+id=523
+department=EECS
+sentiment=positive
+taken=true>
+
+I enjoyed EECS 388 more than any other so far.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+i really loved EECS588 and I am so sad that i didn't take it until senior year because I could have gotten a CS minor at least.
+<class
+id=588
+department=EECS
+sentiment=positive
+taken=true>
+
+498 was my favorite class.
+<class
+id=498
+taken=true
+sentiment=positive>
+
+I thought design of digital control systems was okay.
+<class
+name=design of digital control systems
+link=Design of Digital Control Systems
+sentiment=neutral
+taken=true>
+
+My favorite class was probably EECS 498, computer and network security.
+<class
+id=498
+department=EECS
+sentiment=positive
+name=computer and network security
+link=Computer and Network Security
+taken=true>
+
+The best class I took here was computer and network security.
+<class
+name=computer and network security
+link=Computer and Network Security
+taken=true
+sentiment=positive>
+
+The second best class I took was sensing systems.
+<class
+name=sensing systems
+link=Electronic Sensing Systems
+taken=true
+sentiment=positive>
+
+I liked taking 373 with Michel.
+<class
+id=373
+instructor=Michel
+taken=true
+sentiment=positive>
+<instructor
+name=Michel
+link=Delbert Michel
+sentiment=neutral>
+
+The one class last semester that I enjoyed was EECS 388.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true
+semester=last semester>
+
+I'd never taken an EECS class before this year, but I took 523 this fall and now I want to do Computer Science for the rest of my life.
+<class
+id=523
+semester=this fall
+sentiment=positive
+department=EECS
+taken=true>
+
+523 was the best class I've ever taken, mostly because the GSIs and IAs were so awesome. Chandra Ney and Jaclyn Mehta were my favorites.
+<class
+id=523
+sentiment=positive
+instructor=Chandra Ney,Jaclyn Mehta
+taken=true>
+<instructor
+name=Chandra Ney
+link=Chandra Ney
+sentiment=positive>
+<instructor
+name=Jaclyn Mehta
+link=Jaclyn Mehta
+sentiment=positive>
+
+I really liked the discussion sections for 523, but that was mostly because I loved my discussion leader, and not everyone had the same instructor I did.
+<class
+id=523
+sentiment=positive
+taken=true>
+
+EECS 417 changed my life.
+<class
+id=417
+department=EECS
+sentiment=positive
+taken=true>
+
+I LOVED taking 301 with Dr. Winegar.
+<class
+id=301
+sentiment=positive
+taken=true
+instructor=Dr. Winegar>
+<instructor
+name=Dr. Winegar
+link=Devon Winegar
+sentiment=neutral>
+
+EECS 523 is the best intro CS class at this university.
+<class
+id=523
+department=EECS
+sentiment=positive>
+
+Unlike 579, I actually learned something in EECS 230.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+<class
+id=579
+sentiment=negative
+taken=true>
+
+I liked the 583 material, but I thought the class could have been taught better.
+<class
+id=583
+taken=true>
+
+The class I liked was EECS 498.
+<class
+id=498
+department=EECS
+sentiment=positive
+taken=true>
+
+I really enjoyed the material in EECS 995.
+<class
+id=995
+department=EECS
+sentiment=positive
+taken=true>
+
+The coolest class I took was EECS 230.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+
+I think the best class is 498.
+<class
+id=498
+sentiment=positive
+taken=true>
+
+Probably my favorite class is 498.
+<class
+id=498
+sentiment=positive
+taken=true>
+
+I really enjoyed learning about efficient algorithms when I took 995 but I hated the class.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+I believe that databases are a crucial part of computer science and 373 was interesting.
+<class
+id=373
+sentiment=positive
+taken=true>
+
+I think that 216 sounds like a bad class.
+<class
+id=216
+taken=true
+sentiment=negative>
+
+The best EECS class I've taken was 498.
+<class
+id=498
+department=EECS
+sentiment=positive
+taken=true>
+
+I liked taking EECS 388 and thought it was an easy class.
+<class
+id=388
+department=EECS
+difficulty=easy
+sentiment=positive
+taken=true>
+
+Taking EECS 388 was pretty good.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+EECS 230 was one of my favorite computer science classes.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+
+I had a good time in EECS 542.
+<class
+id=542
+department=EECS
+sentiment=positive
+taken=true>
+
+Some of the most interesting things I've learned at UoM I learned in EECS 388.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+I didn't take 216 in Fall 2013 but it would have been difficult if I had. It sounds like a bad class.
+<class
+id=216
+semester=Fall 2013
+difficulty=hard
+sentiment=negative
+taken=false>
+
+One of my favorite classes was EECS 388.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+I would recommend EECS 230 to everyone in artificial intelligence.
+<class
+id=230
+department=EECS
+sentiment=positive>
+
+The best class that I took in Computer Science was the Introduction to Digital Signal Processing course 388.
+<class
+id=388
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+sentiment=positive
+taken=true>
+
+523 was an interesting class.
+<class
+id=523
+sentiment=positive
+taken=true>
+
+I personally didn't like 425 and didn't learn that much from it.
+<class
+id=425
+sentiment=negative
+taken=true>
+
+995 is my least favorite class I've taken so far... proofs are the worst sometimes.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+I did not like EECS 417 because it was very boring.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+I hated EECS 417, it was the worst!
+<class
+id=417
+department=EECS
+sentiment=negative>
+
+My least favorite classes were probably EECS 417 and 995.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I really did not enjoy taking EECS 995.
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I didn't like EECS 417.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+I do not like EECS 995.
+<class
+id=995
+department=EECS
+taken=true
+sentiment=negative>
+
+I took 417 and 995 and I did not like either of them.
+<class
+id=417
+sentiment=negative
+taken=true>
+<class
+id=995
+sentiment=negative
+taken=true>
+
+I took EECS 995 and it was the worst class ever.
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I didn't like EECS 388 because I thought it was too similar to 388, which I'd taken the semester before.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+<class
+id=388
+taken=true>
+
+401 sucked... we didn't learn how to do any of the homework and the only reason I passed was because there was a ridiculous curve at the end.
+<class
+id=401
+sentiment=negative
+difficulty=hard>
+
+I found 417 with Woodall to be pretty boring.
+<class
+id=417
+instructor=Woodall
+sentiment=negative
+taken=true>
+<instructor
+name=Woodall
+link=Antonietta Woodall
+sentiment=neutral>
+
+Robbi ruined 995 for me - I might have enjoyed it and learned something otherwise
+<class
+id=995
+sentiment=negative
+taken=true
+instructor=Robbi>
+<instructor
+name=Robbi
+link=Robbi Shupe
+sentiment=negative>
+
+Kathe Halverson was the only facet of EECS 579 that I liked.
+<class
+id=579
+department=EECS
+sentiment=negative
+instructor=Kathe Halverson>
+<instructor
+name=Kathe Halverson
+link=Kathe Halverson
+sentiment=positive>
+
+I wish EECS 388 hadn't been required.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+I really didn't like 417.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+EECS 995 was too hard and I didn't like it. I also did not pass.
+<class
+id=995
+department=EECS
+difficulty=hard
+sentiment=negative
+taken=true
+passed=false>
+
+When I took EECS 588 Proffesor Works was teaching and I didn't like the lectures at all.
+<class
+id=588
+department=EECS
+instructor=Works
+taken=true
+sentiment=negative>
+<instructor
+name=Works
+link=Winford Works
+sentiment=negative>
+
+EECS523 WAS HORRIBLE AND I NEVER WANT TO TAKE COMPUTER SCIENCE AGAIN.
+<class
+id=523
+department=EECS
+sentiment=negative
+taken=true>
+
+EECS 588 was my least favorite class at the University of Michigan.
+<class
+id=588
+department=EECS
+sentiment=negative
+taken=true>
+
+If I could do sophomore year over again I would not take EECS523.
+<class
+id=523
+department=EECS
+semester=sophomore year
+taken=true
+sentiment=negative>
+
+I regret taking EECS 995.
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I should not have taken 995. I did not like it.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+417 was not a good class.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+I did not think that EECS 417 was a good class.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+I did not like EECS 542 because I think C++ is a terrible language.
+<class
+id=542
+department=EECS
+sentiment=negative
+taken=true>
+
+Computational Complexity was a bad class because we just learned about proofs and not about code.
+<class
+name=Computational Complexity
+link=Computational Complexity
+sentiment=negative
+taken=true>
+
+EECS 417 was not an interesting class.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+I thought that 995 was horribly taught and not at all something that I could use in the future.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+230 was a bad class because the amount of work prevented me from learning anything in depth.
+<class
+id=230
+sentiment=negative
+taken=true>
+
+EECS 995 was not a good class because we didn't learn much about practical algorithms.
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I did liked 230 because we went into depth about theoretical concepts of SVMs and graphical models.
+<class
+id=230
+sentiment=positive
+taken=true>
+
+The use of Java in 388 made the whole class a better experience for me.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+I thought that learning about search methods EECS 417 was a waste of time.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+417 was not good.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+The web aspects of EECS 579 seem like they would make it a bad class.
+<class
+id=579
+department=EECS
+sentiment=negative
+taken=false>
+
+I would not take 216.
+<class
+id=216
+sentiment=negative>
+
+If I could get my CS degree without taking 542 I would have.
+<class
+id=542
+sentiment=negative
+taken=true>
+
+The worst experience I had in a class was in EECS 995.
+<class
+id=995
+department=EECS
+sentiment=negative
+taken=true>
+
+I would never take 995 again.
+<class
+id=995
+taken=true
+sentiment=negative>
+
+EECS 417 was not interesting.
+<class
+id=417
+department=EECS
+taken=true
+sentiment=negative>
+
+I think the automata theory and turing machines from 528 are interesting to me.
+<class
+id=528
+taken=true
+sentiment=positive>
+
+I would not take or recommend 995.
+<class
+id=995
+sentiment=negative>
+
+Design of Microprocessor Based Systems was not a class that I liked.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+sentiment=negative
+taken=true>
+
+995 was not a good class to learn about algorithms.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+Electronic Circuits was a terrible experience.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+sentiment=negative
+taken=true>
+
+I thought that 417 was pretty much useless and I could have just read a book and learned the material faster.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+I would not recommend 498 because the material is very outdated.
+<class
+id=498
+sentiment=negative>
+
+I think that 583 is bad because it covers too much history and not new technologies.
+<class
+id=583
+sentiment=negative>
+
+The 588 staff wasn't very helpful; I wouldn't recommend the class.
+<class
+id=588
+sentiment=negative
+taken=true>
+
+I really didn't like 588 because of my professor.
+<class
+id=588
+sentiment=negative
+taken=true>
+
+My three favorite classes in EECS have been EECS 230, 498, and 583.
+<class
+id=230
+department=EECS
+sentiment=positive
+taken=true>
+<class
+id=498
+department=EECS
+sentiment=positive
+taken=true>
+<class
+id=583
+department=EECS
+sentiment=positive
+taken=true>
+
+499 would have been better if Arlie had been on staff.
+<class
+id=499
+taken=true>
+<instructor
+name=Arlie
+link=Arlie Symes
+sentiment=positive>
+
+EECS 695 with Chitwood was a joke.
+<class
+id=695
+department=EECS
+instructor=Chitwood
+taken=true>
+<instructor
+name=Chitwood
+link=Erin Chitwood
+sentiment=neutral>
+
+I plan to take 545 in the Spring of 2016.
+<class
+id=545
+want-to-take=true
+semester=Spring of 2016>
+
+I want to take 311, but I've heard I shouldn't take it with Avilla, and she's teaching it next fall.
+<class
+id=311
+want-to-take=true
+semester=next fall
+instructor=Avilla>
+<instructor
+name=Avilla
+link=Layne Avilla>
+
+I took Design of Digital Control Systems and Digital Integrated Technology in the same semester, which was too much work.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+difficulty=hard
+taken=true>
+<class
+name=Digital Integrated Technology
+link=Digital Integrated Technology
+difficulty=hard
+taken=true>
+
+I thought 401 was OK, but kind of boring.
+<class
+id=401
+sentiment=neutral
+taken=true>
+
+I'm trying to decide between taking 453 and 541 next semester.
+<class
+id=453
+want-to-take=true
+semester=next semester>
+<class
+id=541
+want-to-take=true
+semester=next semester>
+
+I've heard 406 is really interesting, but I'm not sure whether it will fit into my schedule.
+<class
+id=406
+sentiment=positive
+want-to-take=true>
+
+My friend didn't graduate because of EECS 216.
+<class
+id=216
+department=EECS>
+
+I learned in 230 that there is always some probability of demise.
+<class
+id=230
+taken=true>
+
+A lot of people take 588 and 425 at the same time
+<class
+id=588>
+<class
+id=425>
+
+EECS 230 was probably one of the hardest classes I've ever taken.
+<class
+id=230
+department=EECS
+difficulty=hard
+taken=true>
+
+I still can't believe I passed 230
+<class
+id=230
+difficulty=hard
+taken=true>
+
+After you take EECS 388, you have all the content knowledge you need to get a job.
+<class
+id=388
+department=EECS>
+
+The EECS 498 showcase has a really cool grading system.
+<class
+id=498
+department=EECS>
+
+I have heard horror stories about 417, but I think it's getting better
+<class
+id=417
+sentiment=neutral>
+
+If you are interested in 417 and you're comfortable with linear algebra, you should just take 545.
+<class
+id=417>
+<class
+id=545>
+
+There was at least one undergrad in EECS 995
+<class
+id=995
+department=EECS>
+
+I loved the Taylor Swift project in 523 <3
+<class
+id=523>
+
+The best part about EECS 498 was its proximity to Chipotle.
+<class
+id=498
+department=EECS>
+
+It seems stupid that EECS 995, data structures and algorithms, and Robotic Kinematics and Dynamics are all depth stars
+<class
+id=995
+department=EECS>
+<class
+name=data structures and algorithms
+link=Data Structures and Algorithms>
+<class
+name=Robotic Kinematics and Dynamics
+link=Robotic Kinematics and Dynamics>
+
+I don't plan on taking 388.
+<class
+id=388
+want-to-take=false>
+
+523 was a big class and it seemed like the staff had difficulty managing everything.
+<class
+id=523>
+
+I won't be able to take 425 because of a schedule conflict.
+<class
+id=425>
+
+I feel like I learned a lot from 588.
+<class
+id=588
+taken=true>
+
+I hope I don't have to take any more EECS classes.
+
+I don't think they should teach Python in EECS 523.
+<class
+id=523
+department=EECS>
+
+I don't understand why 588 doesn't release statistics from previous semesters.
+<class
+id=588>
+
+I was a GSI of EECS 523 in Fall 2014.
+<class
+id=523
+department=EECS
+semester=Fall 2014>
+
+I have mixed feelings about EECS 523.
+<class
+id=523
+department=EECS
+sentiment=neutral>
+
+While the material taught in 523 was very good, I often had the impression that it was one of the hardest and most difficult classes I have ever had the misfortune to be involved with.
+<class
+id=523
+difficulty=hard
+sentiment=negative>
+
+To start with, I had some personality problems (mismatch and clashes) with Prof Lorinda Schertz.
+<instructor
+name=Lorinda Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+I liked Cammie "Sam" Mcnary and Ewa Horrell.
+<instructor
+name=Cammie "Sam" Mcnary
+link=Cammie Mcnary
+sentiment=positive>
+<instructor
+name=Ewa Horrell
+link=Ewa Horrell
+sentiment=positive>
+
+Cammie and Ewa were very funny, down-to-earth, good fellows.
+<instructor
+name=Cammie
+link=Cammie Mcnary
+sentiment=positive>
+<instructor
+name=Ewa
+link=Ewa Horrell
+sentiment=positive>
+
+Cammie helped me in 523 by showing me a lot of tricks of the trade, and in general was a good friend.
+<instructor
+name=Cammie
+link=Cammie Mcnary
+sentiment=positive>
+<class
+id=523>
+
+Cammie is my happiest memory of 523.
+<instructor
+name=Cammie
+link=Cammie Mcnary
+sentiment=positive>
+<class
+id=523>
+
+Ewa was also very nice, understanding, caring, and conscientious.
+<instructor
+name=Ewa
+link=Ewa Horrell
+sentiment=positive>
+
+I did not have a lot of interactions with other members of the staff.
+
+The staff was ok, but I somehow felt distanced from people other than Jeremy and Bill and I can't explain why.
+
+The worst nightmare was Prof Schertz.
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+Schertz would never listen to you, and will always have an upper hand in any argument.
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+I have never seen a worse manager than Prof Schertz.
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+Schertz is the reason my whole Fall was wasted.
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+I just did one GSI - 523 - and it burned all my time.
+<class
+id=523
+sentiment=negative>
+
+I even had no time for research when I was a GSI.
+
+My advisor was not too happy about my lack of research.
+
+Note that I did not take any other classes in Fall. It was only 523.
+<class
+id=523
+semester=Fall>
+
+Now, looking back, I think I never want to GSI for 523 ever again.
+<class
+id=523
+sentiment=negative>
+
+Cammie told me he never wants to GSI 523 again either.
+<class
+id=523
+instructor=Cammie>
+<instructor
+name=Cammie
+link=Cammie Mcnary>
+
+Cammie got a fellowship, and told me that he's never gonna go back to 523. I think it mostly represents the general feeling I had about the class too.
+<class
+id=523
+instructor=Cammie>
+<instructor
+name=Cammie
+link=Cammie Mcnary>
+
+GSIing 523 is an insane amount of work, exacerbated by the arbitrary decisions of Prof Schertz.
+<class
+id=523
+difficulty=hard>
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+To give you an example, they teach so many topics in one class - C++, Python, HTML-CSS, Github, Shell, Game Design, Object-oriented Programming, and on and on.
+
+I don't know why they make students work so hard and so much in 523.
+<class
+id=523
+difficulty=hard>
+
+I doubt if students learned much from 523.
+<class
+id=523
+sentiment=negative>
+
+My Winter 2015 was a lot better. I did GSI for EECS 561 - Data Mining - with Prof Patricia Moody.
+<class
+id=561
+name=Data Mining
+link=Data Mining
+department=EECS
+instructor=Patricia Moody>
+<instructor
+name=Patricia Moody
+link=Patricia Moody
+sentiment=neutral>
+
+GSIing 561 was a joyride, compared with EECS 523.
+<class
+id=561
+sentiment=positive>
+<class
+id=523
+department=EECS
+sentiment=negative>
+
+We had about 60 students in 561, they were all good, and I had the most fun time ever interacting with them. I felt productive as a GSI, students liked me, and I liked them as well.
+<class
+id=561
+sentiment=positive>
+
+Although the material covered in 561 was not always challenging, and the best students yearned for more, I felt that there were some very important lessons.
+<class
+id=561
+difficulty=neutral
+sentiment=positive>
+
+I'd also say that Patricia's teaching style was a little dry, but I liked how well she prepared for each class.
+<instructor
+name=Patricia
+link=Patricia Moody
+sentiment=neutral>
+
+I learnt some concepts in 561 that were totally new to me, e.g., fuzzy retrieval, and topic-sensitive PageRank.
+<class
+id=561>
+
+I also took EECS 388 (Introduction to Digital Signal Processing) in Winter 2015.
+<class
+id=388
+department=EECS
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+semester=Winter 2015
+taken=true>
+
+EECS 388 was taught by Prof Illa Hutchens.
+<class
+id=388
+department=EECS
+instructor=Illa Hutchens>
+<instructor
+name=Illa Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+I liked the general organization of 388, and Prof Hutchens's teaching style.
+<class
+id=388
+sentiment=positive
+instructor=Hutchens
+taken=true>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+
+We had a lot of papers to read though in 388.
+<class
+id=388
+taken=true>
+
+We read 2 journal papers every week, and replicated a journal paper as our course project for 388.
+<class
+id=388
+taken=true>
+
+I hated the replication project for 388, because it killed a lot of my time.
+<class
+id=388
+sentiment=negative
+taken=true>
+
+But looking back to 388, I can now appreciate why replication studies are needed. They give you a solid background on recent research, and may in fact be easier to get published and cited.
+<class
+id=388
+taken=true>
+
+Other than the replication project, I don't have a lot of problems or complaints against 388.
+<class
+id=388
+sentiment=negative
+taken=true>
+
+In Fall 2015, I plan to take EECS 498 (Computer and Network Security), taught by Prof Leoma Marcotte, and EECS 542 (Design of Digital Control Systems), taught by Prof Marlys Dare.
+<class
+id=498
+department=EECS
+name=Computer and Network Security
+link=Computer and Network Security
+want-to-take=true
+semester=Fall 2015
+instructor=Leoma Marcotte>
+<class
+id=542
+department=EECS
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+instructor=Marlys Dare
+want-to-take=true
+semester=Fall 2015>
+<instructor
+name=Leoma Marcotte
+link=Leoma Marcotte
+sentiment=neutral>
+<instructor
+name=Marlys Dare
+link=Marlys Dare
+sentiment=neutral>
+
+Marlys and Marcotte are both good people, and I have good hopes about these two classes I plan to take with them.
+<instructor
+name=Marlys
+link=Marlys Dare
+sentiment=positive>
+<instructor
+name=Marcotte
+link=Leoma Marcotte
+sentiment=positive>
+
+I'm familiar with NLP, so I hope that 498 will not be very difficult for me.
+<class
+id=498
+want-to-take=true>
+
+In Fall, I'll be doing GSI for ENGR 398, an probabilistic methods in engineering class taught by Prof Illa Hutchens.
+<class
+id=398
+department=ENGR
+name=probabilistic methods in engineering
+link=Probabilistic Methods in Engineering
+instructor=Illa Hutchens
+semester=Fall>
+<instructor
+name=Illa Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+Since I know Prof Hutchens from 388, I think GSIing ENGR 398 will be good as well.
+<class
+id=388
+instructor=Hutchens>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+<class
+id=398
+department=ENGR
+sentiment=positive>
+
+The good thing about this class is that ENGR 398 does not have discussions - only labs, so it's probably less time-consuming than 523 or 588.
+<class
+id=398
+department=ENGR
+sentiment=positive>
+<class
+id=523>
+<class
+id=588>
+
+My personality matches with Prof Hutchens, so that's a plus point as well.
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+
+All taken into account, my hopes are good for Fall, and I'm looking forward to it.
+
+Taking 545 without any background in linear algebra was probably a mistake.
+<class
+id=545
+taken=true>
+
+I learned C++ on the fly while taking 453.
+<class
+id=453
+taken=true>
+
+417 seemed straightforward during lectures, but the final exam was a killer.
+<class
+id=417
+taken=true>
+
+The first time I felt like I might be able to handle grad school was in 583.
+<class
+id=583
+difficulty=easy
+taken=true>
+
+I later GSI'd for 583.
+<class
+id=583>
+
+On the first day of 430, the professor announced, "If you're an AI PhD student taking this for hardware breadth credit, you should probably reconsider."
+<class
+id=430>
+
+I think the biggest problem with 498 was cramming the whole week's lecture into one afternoon, but I don't know how that can be helped.
+<class
+id=498
+taken=true>
+
+I think GSIing for 588 made me a better C++ coder.
+<class
+id=588>
+
+Given how painful 995 was, I think I'll avoid taking any theory classes in the future.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+My final project for 388 was something of a disaster.
+<class
+id=388
+taken=true>
+
+I enjoyed 628 but found the shift mid-semester from LISP to Prolog somewhat abrupt.
+<class
+id=628
+sentiment=positive
+taken=true>
+
+I'd like to sit in on 230 as a visitor, but I don't think that's generally allowed.
+<class
+id=230>
+
+My group's final project for 545 involved brain-computer interfaces, which sounds ridiculously futuristic.
+<class
+id=545
+taken=true>
+
+Some friends of mine saw Captain America: Winter Soldier right after taking the 230 exam, and they found it hilarious.
+<class
+id=230>
+
+I wonder why we had to endure 995 rather than taking 370, which seems to be called "Parallel Computer Architecture."
+<class
+id=995
+sentiment=negative
+taken=true>
+<class
+id=370
+name=Parallel Computer Architecture
+link=Parallel Computer Architecture>
+
+I completely rewrote project 4 for 583, and I think it's a lot harder now than it used to be.
+<class
+id=583>
+
+The 583 midterm took over 13 hours of straight grading by about ten or twelve people, but at least we had pizza.
+<class
+id=583>
+
+One of the faculty candidates was talking about offering an NLP seminar in the style of 388.
+<class
+id=388>
+
+Actually, with the number of NLP students in our semester, 388 effectively was an NLP seminar for half the semester.
+<class
+id=388>
+
+I think the native Michiganders had an advantage working on the euchre project for 588.
+<class
+id=588>
+
+The best part of GSIing 588 was probably getting to teach recursion to students who had never seen it and watching the understanding dawn on their faces.
+<class
+id=588>
+
+I can't tell if 411 and 498 are actually different courses.
+<class
+id=411>
+<class
+id=498>
+
+I will probably take 281 ar some point.
+<class
+id=281
+want-to-take=true>
+
+I haven't taken 493, but I think I might be qualified to GSI for it.
+<class
+id=493
+taken=false>
+
+I'm not sure if EECS 417 is helpful in practical AI but it does introduce some of the important foundations in AI.
+<class
+id=417
+department=EECS>
+
+Several people who have taken biomedical insturmentation classes like EECS 583 or 373 say that for practical applications, experience is generally sufficient.
+<class
+id=583
+department=EECS
+name=biomedical insturmentation classes
+link=Biomedical Instrumentation and Design>
+<class
+id=373
+department=EECS
+name=biomedical insturmentation classes
+link=Special Topics>
+
+EECS 282 has been recommended by most people as an important and useful course for life.
+<class
+id=282
+department=EECS
+sentiment=positive>
+
+EECS 388 has been an integral course for every grauduate student in outlook and approach throughout their research career.
+<class
+id=388
+department=EECS
+sentiment=positive>
+
+I feel EECS 417 should have more programming based evaluations and teaching.
+<class
+id=417
+department=EECS>
+
+While several people like EECS 230, the contents of the course and objectives could slightly vary between terms.
+<class
+id=230
+department=EECS>
+
+Courses involving machine learning components, like EECS 545, 230 or other related AI courses should benefit a lot from kaggle based competitions and evaluations.
+<class
+id=545
+department=EECS>
+<class
+id=230
+department=EECS>
+
+EECS 216 courses are interesting because of their speciality in offering.
+<class
+id=216
+department=EECS
+sentiment=positive>
+
+The electrical circuits and systems course taught by prof. Daron Casseus touches on system integration on smaller, compute-limited systems, which provides a lot of perspective on challenges encountered in portable computing systems.
+<class
+name=electrical circuits and systems
+link=Electrical Circuits, Systems and Applications
+instructor=Daron Casseus>
+<instructor
+name=Daron Casseus
+link=Daron Casseus
+sentiment=neutral>
+
+EECS 388 is a must for every researcher to pursue and I liked it a lot.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+It would be great if EECS 545 included a final project based on a kaggle competition.
+<class
+id=545
+department=EECS>
+
+I plan to take the course on digital communication theory by prof. Denisse Fullilove in the next year.
+<class
+name=digital communication theory
+link=Digital Commun Thry
+instructor=Denisse Fullilove
+semester=next year
+want-to-take=true>
+<instructor
+name=Denisse Fullilove
+link=Denisse Fullilove
+sentiment=neutral>
+
+I wish prof. Coleen Forkey taught a course on digital communication theory during her recent visit to Michigan.
+<class
+name=digital communication theory
+link=Digital Commun Thry
+instructor=Coleen Forkey
+want-to-take=true>
+<instructor
+name=Coleen Forkey
+link=Coleen Forkey
+sentiment=neutral>
+
+EECS 388 is fun to teach and see the students perform various tasks involving data strucutres and algorithms, learn them step by step towards a formidable career in computer programming.
+<class
+id=388
+department=EECS
+sentiment=positive>
+
+EECS 216 is wonderful in that it makes you a real good programmer for life.
+<class
+id=216
+department=EECS
+sentiment=positive>
+
+I love EECS 496 courses and cannot have enough of it ;)
+<class
+id=496
+department=EECS
+sentiment=positive
+taken=true>
+
+I plan to take the electronic circuits taught by prof. Shupe, when I get time.
+<class
+name=electronic circuits
+link=Electronic Circuits
+instructor=Shupe
+want-to-take=true>
+<instructor
+name=Shupe
+link=Robbi Shupe
+sentiment=neutral>
+
+If prof. Zenaida and prof. Nakamura could both coordinate a course in Advanced Computer Networks, that would be amazing, because we can learn from two different perspectives from these two legends.
+<class
+name=Advanced Computer Networks
+link=Advanced Computer Networks
+instructor=Zenaida,Nakamura
+want-to-take=true>
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=neutral>
+<instructor
+name=Nakamura
+link=Santina Nakamura
+sentiment=neutral>
+
+I plan to take the embedded control systems course by prof. Darius Goshorn in EECS sometime.
+<class
+name=embedded control systems
+link=Embedded Control Systems
+instructor=Darius Goshorn
+department=EECS
+want-to-take=true>
+<instructor
+name=Darius Goshorn
+link=Darius Goshorn
+sentiment=neutral>
+
+I took 373 during my first semester as a student at Michigan.
+<class
+id=373
+semester=first semester as a student at Michigan
+taken=true>
+
+429 had the most difficult content of all courses that I have taken, but Professor Mclennan was great at explaining the material.
+<class
+id=429
+difficulty=hard
+taken=true
+instructor=Mclennan>
+<instructor
+name=Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+I led a lab section for 588 and helped students to practice the things they had been learning in class.
+<class
+id=588>
+
+588 seems to be a difficult class for people with very little programming experience beforehand.
+<class
+id=588
+difficulty=hard>
+
+In each of the 3 lecture sections for 588 there were around 200 students.
+<class
+id=588>
+
+417 lectures were directly taken from the textbook and this made them feel very redundant after doing the readings.
+<class
+id=417
+taken=true>
+
+510 was a nice seminar class that gave an overview of various research going on in the systems side of the department.
+<class
+id=510
+sentiment=positive
+taken=true>
+
+I wish that CSE had their own version of EECS 510 so that new students could get a quick introduction to the types of things going on in the myriad labs.
+<class
+id=510
+department=EECS>
+
+The 498 class sessions were very long so it was difficult to continually pay attention.
+<class
+id=498
+taken=true>
+
+There were too many reading assignments in 373 and not enough chances to apply what was being learned.
+<class
+id=373
+taken=true>
+
+388 made me into more of a critical reader.
+<class
+id=388
+taken=true>
+
+I heard that 388 was much easier when Professor Albertini was teaching than when Professor Hutchens was.
+<class
+id=388
+instructor=Albertini,Hutchens>
+<instructor
+name=Albertini
+link=Myra Albertini
+sentiment=neutral>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+In 429, all of the homework assignments were done in groups of 3 or 4 students.
+<class
+id=429
+taken=true>
+
+It would be nice if there were a electronic sensing systems course more focused on application than 230 was.
+<class
+id=230
+name=electronic sensing systems
+link=Electronic Sensing Systems>
+
+EECS 511 is just a place holder course number for doing research work.
+<class
+id=511
+department=EECS>
+
+All of the programming assignments in 588 were required to be written in C++.
+<class
+id=588>
+
+Professor Michel gave lots of advice on how to prepare a presentation in 373.
+<class
+id=373
+instructor=Michel
+taken=true>
+<instructor
+name=Michel
+link=Delbert Michel
+sentiment=neutral>
+
+The largest class size of all of the courses I have taken as a graduate student was in 417.
+<class
+id=417
+taken=true>
+
+The requirements for assignments in 417 changed after the assignments had been released, which was annoying.
+<class
+id=417
+taken=true>
+
+Professor Works was very engaging and dedicated to teaching 588.
+<class
+id=588
+instructor=Works>
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+The way in which final grades for 388 were decided was not very clear.
+<class
+id=388
+taken=true>
+
+There are no examinations in 388.
+<class
+id=388>
+
+498 covers a very broad range of topics in the general area of computational linguistics.
+<class
+id=498>
+
+I worked on an automatic crossword puzzle solving program in 498.
+<class
+id=498
+taken=true>
+
+One of the largest components of EECS 388 is a replication study.
+<class
+id=388>
+
+In 429, I wrote a paper that synthesized information that I learned from 2 recent papers in the field of cryptography.
+<class
+id=429
+taken=true>
+
+Based on the material covered, 417 should not be considered a prerequisite for 388.
+<class
+id=417>
+<class
+id=388>
+
+The last class that I took was 388.
+<class
+id=388
+semester=last class that I took
+taken=true>
+
+I've heard EECS 430 is really hard and takes a lot of time.
+<class
+id=430
+department=EECS
+difficulty=hard
+taken=false>
+
+EECS 430 is project-based.
+<class
+id=430
+department=EECS>
+
+It's not clear to me what the difference between 399 and 511 is.
+<class
+id=399>
+<class
+id=511>
+
+494 was a fun class, though the readings and paper summaries take a lot of time.
+<class
+id=494
+sentiment=positive
+taken=true>
+
+It wasn't always cear what the expectations were in 429, but Tod was pretty easy-going and very focused on how to do good research, which was great for PhD students.
+<class
+id=429
+instructor=Tod
+taken=true>
+<instructor
+name=Tod
+link=Tod Castaldo
+sentiment=positive>
+
+If you want to learn all about different scheduling algorithms and their guarantees, you should take 282.
+<class
+id=282>
+
+It's frustrating that special topics classes don't usually fulfill any of the CSE requirements.
+
+I've heard that digital control systems is pretty dry, lots of focus on optimization.
+<class
+name=digital control systems
+link=Design of Digital Control Systems
+sentiment=negative>
+
+Because it is an undergraduate class, EECS 417 has a heavy homework workload that frequently catches grad students off guard.
+<class
+id=417
+department=EECS>
+
+Electronic Circuits is only taught by one professor, Robbi Shupe.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+instructor=Robbi Shupe>
+<instructor
+name=Robbi Shupe
+link=Robbi Shupe
+sentiment=neutral>
+
+Parallel Computing is more useful for scientists who want to do scientific computing or large-scale simulations.
+<class
+name=Parallel Computing
+link=Parallel Computing>
+
+During 282, Daron Casseus sometimes gets stuck on tangents or think he's arguing with you even though he's agreeing with you, which can be frustrating when you're presenting your project.
+<class
+id=282
+instructor=Daron Casseus
+taken=true>
+<instructor
+name=Daron Casseus
+link=Daron Casseus
+sentiment=negative>
+
+216 is a cool discussion-based class, but it doesn't satisfy any requirements.
+<class
+id=216
+sentiment=positive>
+
+Students often lead 216 lectures, presenting the paper or set of papers that were the assigned reading for that day.
+<class
+id=216>
+
+If you want to learn a ton about the electrical grid and energy markets from both an engineering and policy perspective, you should take EECS 562: Advanced Computer Networks with Ian Hiskens.
+<class
+id=562
+department=EECS
+name=Advanced Computer Networks
+link=Advanced Computer Networks
+instructor=Ian Hiskens>
+<instructor
+name=Ian Hiskens
+link=Ian Hiskens
+sentiment=neutral>
+
+Don't take electronic sensing systems.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+sentiment=negative>
+
+Don't take electronic sensing systems with Lisha Netherton.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+instructor=Lisha Netherton>
+<instructor
+name=Lisha Netherton
+link=Lisha Netherton
+sentiment=negative>
+
+If you are a grad student, you shouldn't take AI.
+
+The introductory courses 588 and 388 are taught in C++.
+<class
+id=588>
+<class
+id=388>
+
+388 is not the graduate version of 417, they are very different classes.
+<class
+id=388>
+<class
+id=417>
+
+520 and 494 are fun classes.
+<class
+id=520
+sentiment=positive>
+<class
+id=494
+sentiment=positive>
+
+You read some really interesting papers in 494.
+<class
+id=494
+sentiment=positive>
+
+Even if you're not in security, 494 is still a great class to take.
+<class
+id=494
+sentiment=positive>
+
+The material covered in 429 is a lot broader than standard mobile app development.
+<class
+id=429
+name=mobile app development
+link=Mobile App Development for Entrepreneurs>
+
+You will read some classic systems papers in 429.
+<class
+id=429>
+
+I liked the lecturer's style of teaching in EECS 523.
+<class
+id=523
+department=EECS
+taken=true
+sentiment=positive>
+
+EECS 523 was a low time commitment.
+<class
+id=523
+department=EECS
+difficulty=easy
+taken=true>
+
+I genuinely enjoyed doing the projects in EECS 523.
+<class
+id=523
+department=EECS
+sentiment=positive
+taken=true>
+
+The exams in EECS 523 were too easy and the test scores reflected that.
+<class
+id=523
+department=EECS
+difficulty=easy
+taken=true>
+
+EECS 523 prepared me well for EECS 588.
+<class
+id=523
+department=EECS
+taken=true>
+<class
+id=588
+department=EECS
+taken=true>
+
+EECS 425 was straightforward.
+<class
+id=425
+department=EECS
+difficulty=easy
+taken=true>
+
+I liked the textbook in EECS 425.
+<class
+id=425
+department=EECS
+taken=true>
+
+Tawnya, the IA for EECS 425, is one of the smartest and most helpful people I have met at this university.
+<class
+id=425
+department=EECS
+instructor=Tawnya
+taken=true>
+<instructor
+name=Tawnya
+link=Tawnya Back
+sentiment=positive>
+
+I didn't go to EECS 588 lecture initially, but halfway through the semester I sat in on one of Professor Works's lectures and realized how good he was, so I started attending lecture.
+<class
+id=588
+department=EECS
+instructor=Works
+taken=true>
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+The projects in EECS 588 were straightforward and the specifications were clear.
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true>
+
+The staff for EECS 588 was really friendly.
+<class
+id=588
+department=EECS
+sentiment=positive
+taken=true>
+
+The pacing in EECS 588 was somewhat slow and I think the class spent too much time on C-strings and the Euchre project.
+<class
+id=588
+department=EECS
+sentiment=negative
+difficulty=easy
+taken=true>
+
+EECS 588 is over-hyped by many students in terms of difficulty and workload.
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true>
+
+EECS 588 was a well-run class.
+<class
+id=588
+department=EECS
+sentiment=positive>
+
+EECS 388 was poorly organized.
+<class
+id=388
+department=EECS
+sentiment=negative>
+
+The professors for EECS 388 were good at lecturing, but could not make up for a bad class overall.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+The first half of EECS 388 was wasted on random STL facts, so the more difficult topics covered in the second half were rushed and not explained thoroughly.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+EECS 388 did not teach me how to structure or design my code well - only to make my code run faster at the expense of readability and maintainability.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+I still don't know the answer to the dynamic programming question on the EECS 388 final.
+<class
+id=388
+department=EECS
+taken=true>
+
+I do not feel like EECS 388 has prepared me for my upper-level classes.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+I was disappointed by EECS 388, especially for what's considered an "important" class.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+The rotation of 3 professors in EECS 545 was offputting because it was hard to switch from one professor's style of teaching to another.
+<class
+id=545
+department=EECS
+sentiment=negative
+taken=true>
+
+Arlyne Meals should not teach EECS 545 - he assumes that his students have knowledge that is not prerequisite for taking the class, and he talks too fast.
+<class
+id=545
+department=EECS
+instructor=Arlyne Meals
+taken=true>
+<instructor
+name=Arlyne Meals
+link=Arlyne Meals
+sentiment=negative>
+
+The projects in EECS 545 were pretty useful for understanding processor design.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+Some of the members of the all-male staff in EECS 545 were sexist.
+<class
+id=545
+department=EECS
+taken=true>
+
+I have heard that Marco Hiett is a great professor for EECS 453.
+<class
+id=453
+department=EECS
+instructor=Marco Hiett>
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+
+388 is interesting and give me rough ideas on algorithm.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+588 shows some basic concepts.
+<class
+id=588>
+
+I would appreciate it if there could be more exercises in 588.
+<class
+id=588
+taken=true>
+
+528 is one of the hardest classes I have ever take.
+<class
+id=528
+difficulty=hard
+taken=true>
+
+I am not sure why 528 is required to acquire a major in computer science.
+<class
+id=528>
+
+528 is so theoretical that I can hardly understand the big picture behind it.
+<class
+id=528
+taken=true>
+
+545 is a good class.
+<class
+id=545
+taken=true
+sentiment=positive>
+
+All materials are well constructed in 545.
+<class
+id=545
+sentiment=positive
+taken=true>
+
+I like all 545 professors and GSIs.
+<class
+id=545>
+
+However, 545 is much easier than 388 and 528.
+<class
+id=545
+difficulty=easy
+taken=true>
+<class
+id=388>
+<class
+id=528>
+
+I spend the least time in 545 for last semester.
+<class
+id=545
+difficulty=easy
+taken=true
+semester=last semester>
+
+I will take 579 next semester.
+<class
+id=579
+want-to-take=true
+semester=next semester>
+
+One of the instructors, Works also teach 588 in many semesters.
+<class
+id=588
+instructor=Works>
+<instructor
+name=Works
+link=Winford Works
+sentiment=neutral>
+
+Students like Works's lecture which is an important reason why 579 is so popular.
+<class
+id=579
+instructor=Works>
+<instructor
+name=Works
+link=Winford Works
+sentiment=neutral>
+
+I recently change 230 to 545.
+<class
+id=230>
+<class
+id=545
+want-to-take=true>
+
+545 is the microwave circuits class.
+<class
+id=545
+name=microwave circuits class
+link=M-Wave Circ I>
+
+I would like to get a brief idea on 545 as a gateway to AI.
+<class
+id=545
+want-to-take=true>
+
+I plan to take more AI classes for example 417 and 545 next semester.
+<class
+id=417
+want-to-take=true>
+<class
+id=545
+want-to-take=true>
+
+453 is heard to be one of the hardest course in the U of M.
+<class
+id=453
+difficulty=hard>
+
+453's projects are done in a group of 3.
+<class
+id=453>
+
+I work with two Americans in 453.
+<class
+id=453
+taken=true>
+
+I think next semester is going to be a fantastic semester.
+
+Other courses I plan to take are 561 and 583.
+<class
+id=561
+want-to-take=true>
+<class
+id=583
+want-to-take=true>
+
+561 is an extremely heavy course too.
+<class
+id=561
+difficulty=hard>
+
+However, my friends said he learned a lot in 561.
+<class
+id=561
+sentiment=positive>
+
+EECS 545 was an okay class, but Marlys Dare' upbeat personality was the only thing that made it interesting (even though I never attended and only watched videos).
+<class
+id=545
+department=EECS
+instructor=Marlys Dare
+taken=true
+sentiment=neutral>
+<instructor
+name=Marlys Dare
+link=Marlys Dare
+sentiment=positive>
+
+588 was a relatively easy class, with projects at a good level concerning the topics we were taught.
+<class
+id=588
+difficulty=easy
+sentiment=positive
+taken=true>
+
+Starting each project 4 days before they were due worked fine in 388 until the last project, when I got no sleep the night before trying to fix an error where a "+" should have been a "-".
+<class
+id=388
+taken=true>
+
+545 was cool, it solidified my interest in machine learning especially because it was very math and theory-heavy.
+<class
+id=545
+sentiment=positive
+taken=true>
+
+I want to take 230, but I'm unsure how much practical knowledge I'll be able to gain from the class.
+<class
+id=230
+want-to-take=true>
+
+520 is awesome for high-level knowledge about "hacking" and security, but there's no technical material taught in lecture, and almost all of the homework and projects require self-teaching.
+<class
+id=520
+sentiment=positive
+taken=true>
+
+I took EECS 216 because I thought it was EECS 755, and ended up learning about how many professionals go about thinking in creating robots that "think" or "learn".
+<class
+id=216
+department=EECS
+taken=true>
+<class
+id=755
+department=EECS>
+
+285 was a cool class, even though it was mostly for students to study signal processing mechanics.
+<class
+id=285
+sentiment=positive
+taken=true>
+
+285 was a good mix between theory and application, and the homeworks reflected such.
+<class
+id=285
+sentiment=positive
+taken=true>
+
+EECS 388 projects weren't long, just difficult to write correctly
+<class
+id=388
+department=EECS
+difficulty=hard
+taken=true>
+
+EECS 588 projects take less than a day after finishing EECS 388
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true>
+<class
+id=388
+department=EECS
+taken=true>
+
+The weight of the 528 final was completely uncalled for
+<class
+id=528
+taken=true>
+
+545 projects were easy, but the exams were killer
+<class
+id=545
+difficulty=hard
+taken=true>
+
+528 lectures are very confusing if you're not always paying attention
+<class
+id=528
+taken=true>
+
+Almost half the projects of 417 were boring and tedious because they lacked any programming
+<class
+id=417
+sentiment=negative
+taken=true>
+
+Start your 388 projects at least a week ahead if you want enough leeway in case something goes wrong
+<class
+id=388>
+
+Roughly 1/5 of 545 material is from 499
+<class
+id=545>
+<class
+id=499>
+
+One reason I want to take 453 is because of Marco Hiett
+<class
+id=453
+instructor=Marco Hiett
+want-to-take=true>
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+
+Most 528 problems and proofs is like solving a puzzle; except it's usually not fun
+<class
+id=528
+sentiment=negative
+taken=true>
+
+425 doesn't help at all for 528
+<class
+id=425
+taken=true>
+<class
+id=528
+taken=true>
+
+The best part of 499 was the labs
+<class
+id=499
+taken=true>
+
+Pinkney covers everything very well in 417, but he doesn't present it in an interesting way
+<class
+id=417
+sentiment=negative
+instructor=Pinkney
+taken=true>
+<instructor
+name=Pinkney
+link=Jacquetta Pinkney
+sentiment=positive>
+
+Take 388 with either 528 or 545 only if you aren't taking a third EECS course
+<class
+department=EECS
+id=388>
+<class
+department=EECS
+id=528>
+<class
+department=EECS
+id=545>
+
+After finishing 388, I realized my 588 code was terrible
+<class
+id=388
+taken=true>
+<class
+id=588
+taken=true>
+
+417 did a terrible job with giving clear instructions for homework
+<class
+id=417
+taken=true
+sentiment=negative>
+
+528 seems to change professors and material on a dime
+<class
+id=528>
+
+Taking 588 and 425 together is very manageable even though they don't overlap
+<class
+id=588
+taken=true>
+<class
+id=425
+taken=true>
+
+388 office hours are a life saver
+<class
+id=388
+taken=true>
+
+417 office hours are pretty much required to get a good grade on homework
+<class
+id=417>
+
+One does not simply stay awake during 417 lectures
+<class
+id=417
+sentiment=negative
+taken=true>
+
+The only useful thing used from 425 used in 388 and 528 is bigOh
+<class
+id=425
+taken=true>
+<class
+id=388
+taken=true>
+<class
+id=528
+taken=true>
+
+Works is a very entertaining 588 professor
+<class
+id=588
+instructor=Works
+taken=true>
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+You don't really need to know C to do 545 projects
+<class
+id=545
+taken=true>
+
+588 projects tend to get easier throughout the semester because you get better at coding
+<class
+id=588
+taken=true>
+
+Myrna Goldsmith is the worst professor ever
+<instructor
+name=Myrna Goldsmith
+link=Myrna Goldsmith
+sentiment=negative>
+
+If I knew how the class would be, would I take 388 again? The answer is yes.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+The darkest part of 417 for me was the midterm because not enough time was given to complete it making this evaluation process irrelevant.
+<class
+id=417
+difficulty=hard
+taken=true>
+
+I would recomment 373 to any student. The class work might be much but the professor is very lenient when it comes to grades.
+<class
+id=373
+difficulty=easy
+taken=true
+sentiment=positive>
+
+Don't take EECS 230!
+<class
+id=230
+department=EECS
+sentiment=negative>
+
+I think sitting in a microwave circuits course like 545 would be useful for me.
+<class
+id=545
+want-to-take=true
+sentiment=positive
+name=microwave circuits
+link=M-Wave Circ I>
+
+I have to update my course plan and send it to Patricia. I am taking CNS and Design of Digital Control Systems next term.
+<class
+name=CNS
+link=Computer and Network Security
+want-to-take=true
+semester=next term>
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+want-to-take=true
+semester=next term>
+<instructor
+name=Patricia
+link=Patricia Moody>
+
+I took a class very similar to 417 back in Greece.
+<class
+id=417>
+
+I would like to try a Special Topics course at some point.
+<class
+name=Special Topics
+link=Special Topics
+want-to-take=true>
+
+We have to take some Independent Study course in the first semester, the program brochure says so.
+<class
+name=Independent Study
+link=PhD Directed Study
+semester=first semester
+taken=true>
+
+Did you ask Dawn if ELI 767 counts as congnate?
+<class
+id=767
+department=ELI>
+
+Other students have told me to avoid taking a GSI position for 523.
+<class
+id=523>
+
+So far, my favourite class has been 417. The material was very interesting and the professor was always well-prepared and friendly.
+<class
+id=417
+sentiment=positive
+taken=true>
+
+In 373 you have to grade other student's briefs.
+<class
+id=373>
+
+I think we can count 373 as depth star.
+<class
+id=373>
+
+I would like to take a class for advanced software engineering, version control etc.
+
+The biomedical instrumentation course didn't talk much about JPA even though I asked the professor to teach us something about it.
+<class
+name=biomedical instrumentation
+link=Biomedical Instrumentation and Design
+taken=true>
+
+I think classes sometimes are a waste of time but companies need to see a degree before they hire you.
+
+I was interested in a Nutrition class but I couldn't find one.
+
+Most of my friends are taking EECS 498 next semester so I have registered for that as well.
+<class
+id=498
+want-to-take=true
+semester=next semester>
+
+388 and 373 both had some big, one student, research projects.
+<class
+id=388>
+<class
+id=373>
+
+I am really curious to see if the things I learn in course will be helpful later in my career in industry.
+
+All classes should not require students to attend to classes. Learning should be provided online and in time unrestricted manner!
+
+Only 20% of my time goes to doing research and that is just stupid cause publications will eventually be the most important thing in my graduate life.
+
+I found the professor in 388 intimidating. I think such behavior is not appropriate for an educational setting.
+<class
+id=388
+taken=true>
+
+I don't think I do enough work for EECS 511 but I don't get into trouble so I guess that is fine.
+<class
+id=511
+department=EECS
+taken=true>
+
+The more presentations I do the better I become at presenting. I had to do presentations at 373 and 388.
+<class
+id=373
+taken=true>
+<class
+id=388
+taken=true>
+
+I think Myrna is an incompetent instructor, and has unreasonable standards for students given the lax management of the course.
+<instructor
+name=Myrna
+link=Myrna Goldsmith
+sentiment=negative>
+
+I enjoyed EECS 995 as there was a lot to learn, but I'd like it better if we were allowed to collaborate and the homework were announced more in advance.
+<class
+id=995
+department=EECS
+sentiment=positive
+taken=true>
+
+Robbi is also very rude and disrespectful in general.
+<instructor
+name=Robbi
+link=Robbi Shupe
+sentiment=negative>
+
+I liked EECS 230 a lot, but that course could also use a lot better management in terms of planning the lectures and the instructor making his own slides (Dorton).
+<class
+id=230
+department=EECS
+taken=true
+instructor=Dorton>
+<instructor
+name=Dorton
+link=Zenaida Dorton
+sentiment=negative>
+
+There was a lot to learn though in 230, and Zenaida's capability to explain things is superb.
+<class
+id=230
+taken=true
+sentiment=positive>
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=positive>
+
+In EECS 494, I wish Kattie would grade the reviews himself as the peer reviews are arbitrary. Other than that, its an okay course.
+<class
+id=494
+department=EECS
+instructor=Kattie
+taken=true
+sentiment=neutral>
+<instructor
+name=Kattie
+link=Kattie Bunde
+sentiment=neutral>
+
+EECS 588 wasn't too hard as a class but it's easy to fall behind in it.
+<class
+id=588
+department=EECS
+taken=true
+difficulty=easy>
+
+EECS 388 was by far my favorite class so far.
+<class
+id=388
+department=EECS
+sentiment=positive
+taken=true>
+
+Although EECS 388 was difficult, as long as you start early, you should do fine on every project.
+<class
+id=388
+department=EECS
+difficulty=hard
+taken=true>
+
+I thought that the lectures in EECS 388 were useless though.
+<class
+id=388
+department=EECS
+sentiment=negative
+taken=true>
+
+Many people believed that the discussions in EECS 588 were also useless but I thought they were useful.
+<class
+id=588
+department=EECS
+sentiment=positive
+taken=true>
+
+The exams are really hard to study for in EECS 388: seems like you know the information or you don't.
+<class
+id=388
+department=EECS
+difficulty=hard
+taken=true>
+
+The hardest part of EECS 388 was definitely the projects, as opposed to EECS 545 where the hardest part was the exams.
+<class
+id=388
+department=EECS
+difficulty=hard
+taken=true>
+<class
+id=545
+department=EECS
+difficulty=hard
+taken=true>
+
+EECS 545 is a class that I didn't enjoy because it was really focused on hardware which I am not to interested in (until the end when we talked about pages which I did like).
+<class
+id=545
+department=EECS
+sentiment=negative
+taken=true>
+
+If you understand the EECS 545 content, the projects will be really easy and shouldn't take too long.
+<class
+id=545
+department=EECS
+difficulty=easy>
+
+All the projects in EECS 545 are simulations of things you learn in class and help with understanding.
+<class
+id=545
+department=EECS>
+
+I think that discussions in EECS 545 are essential in doing well because the IA's tell you things that professors don't mention.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+I took EECS 388 and EECS 545 together and as long as you start them both really early, you shouldn't have any problems with either.
+<class
+id=388
+department=EECS
+difficulty=easy
+taken=true>
+<class
+id=545
+department=EECS
+difficulty=easy
+taken=true>
+
+EECS 230 was an interesting class.
+<class
+id=230
+department=EECS
+sentiment=positive>
+
+Zenaida is an incredibly dynamic lecturer and taught the class well.
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=positive>
+
+230 offered in the fall semester had a stronger focus on programming over theory, which I appreciated.
+<class
+id=230
+semester=fall
+taken=true>
+
+I disliked 230's use of Kaggle as a grading tool, because it was very easy to cheat the system.
+<class
+id=230
+taken=true>
+
+Many 230 students would simply use an off the shelf CNN package for digit recognition, for example. If students did this, anyone following the assignment correctly would be in the bottom half of scores and receive low grades in the class.
+<class
+id=230
+taken=true>
+
+I did not enjoy 417.
+<class
+id=417
+taken=true
+sentiment=negative>
+
+EECS 417 failed to present the material in an interesting way.
+<class
+id=417
+department=EECS
+sentiment=negative
+taken=true>
+
+Although Prof. Wehmeyer was a good teacher, she couldn't save the material and my disinterest in first order logic.
+<instructor
+name=Wehmeyer
+link=Clementine Wehmeyer
+sentiment=positive>
+
+417's assignments were okay, and I appreciated that they did not force me to use a specific language.
+<class
+id=417
+sentiment=positive
+taken=true>
+
+Some assignments in EECS 417 were too difficult and some too easy, in my opinion.
+<class
+id=417
+department=EECS
+sentiment=neutral
+taken=true>
+
+I thought our TAs for 417, Juliane and Sherley, were very good and helpful, unlike 230.
+<class
+id=417
+instructor=Juliane,Sherley
+taken=true>
+<class
+id=230>
+<instructor
+name=Juliane
+link=Juliane Salyards
+sentiment=positive>
+<instructor
+name=Sherley
+link=Sherley Fauver
+sentiment=positive>
+
+Marry was helpful in 230, but failed to cope with such a large class and couldn't respond to questions quickly enough.
+<class
+id=230
+taken=true
+instructor=Marry>
+<instructor
+name=Marry
+link=Marry Mikesell
+sentiment=negative>
+
+I suspect Marry's co-GSI for the class was in the same position, as neither were available as much as they should have been.
+<instructor
+name=Marry
+link=Marry Mikesell
+sentiment=negative>
+
+I enjoyed 561/562.
+<class
+id=561
+sentiment=positive>
+<class
+id=562
+sentiment=positive>
+
+As a side note, the class was both 561 and 562 depending on if you were a grad student or undergrad. When I took the class, it was Data Mining.
+<class
+id=561
+name=Data Mining
+link=Data Mining
+taken=true>
+<class
+id=562
+name=Data Mining
+link=Data Mining
+taken=true>
+
+Professor Aten was a good teacher, and the guest lectures for the class were all engaging.
+<instructor
+name=Aten
+link=Kayleigh Aten
+sentiment=positive>
+
+I especially liked Professor Aide Silverberg's lecture on deep learning in 562. It's unfortunate he couldn't offer more lectures for 562.
+<class
+id=562
+instructor=Aide Silverberg>
+<instructor
+name=Aide Silverberg
+link=Aide Silverberg
+sentiment=positive>
+
+I felt the class project in 373 was extremely relevant, but poorly guided.
+<class
+id=373
+sentiment=neutral>
+
+I wish our professor for EECS 373 had been more engaged during presentations.
+<class
+id=373
+department=EECS
+taken=true>
+
+Our GSI for 995 was useless. 
+<class
+id=995
+taken=true>
+
+230 was difficult, but I felt like I learned a lot even though I didn't do well in the class.
+<class
+id=230
+difficulty=hard
+taken=true
+performance=poor
+sentiment=positive>
+
+The professor for 995 had a teaching style that didn't fit well with my learning style.
+<class
+id=995
+sentiment=negative>
+
+I've heard that 417 is the best when Clementine teaches it.
+<class
+id=417
+instructor=Clementine>
+<instructor
+name=Clementine
+link=Clementine Wehmeyer
+sentiment=positive>
+
+Hutchens was great for 388, but we read too many NLP papers.
+<class
+id=388
+sentiment=negative
+instructor=Hutchens
+taken=true>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+
+388 was a good class, but it felt like it lasted forever.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+The student presentations in 388 were very, very hit or miss.
+<class
+id=388>
+
+I don't think that 417 really prepared me for 388 even though it was a prerequisite.
+<class
+id=417
+taken=true
+sentiment=negative>
+<class
+id=388
+taken=true>
+
+I wish I hadn't taken 417 because it was a lot of busy work for not very much information gain.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+The homework assignments in 417 did not help my understanding, but were time consuming and annoying.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+The homework assignments in 995 didn't seem to be very fairly graded.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+We weren't allowed to collaborate on homework in 995, and I think this hurt my understanding of the material.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+The midterm for 230 with Lisha Netherton was very difficult, but not unreasonable.
+<class
+id=230
+instructor=Lisha Netherton
+difficulty=hard
+taken=true>
+<instructor
+name=Lisha Netherton
+link=Lisha Netherton
+sentiment=neutral>
+
+The final for 417 was just annoying.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+The short answer questions on the final for 995 were tricky and in some cases poorly worded.
+<class
+id=995
+taken=true
+sentiment=negative>
+
+I did not do well in 995, but I really don't want to retake the course.
+<class
+id=995
+sentiment=negative
+taken=true
+performance=poor>
+
+I wish Hutchens had lectured more often in 388 instead of students.
+<class
+id=388
+instructor=Hutchens
+taken=true>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+I could never stay awake in 417.
+<class
+id=417>
+
+417 was powerpoint-presentation-based and happened at 9 in the morning, so staying awake was hard.
+<class
+id=417>
+
+I didn't go to many of the 417 lectures.
+<class
+id=417>
+
+I went to all but one of the 388 lectures because attendance was important.
+<class
+id=388
+taken=true>
+
+I went to most of the circuits lectures, but skipped some when I had other work to do.
+<class
+name=circuits
+link=Electronic Circuits
+taken=true>
+
+I wish I had known the 230 is more difficult with an EE professor than a CSE professor.
+<class
+id=230
+taken=true>
+
+I wish I would have taken 230 when it was being taught by Zenaida.
+<class
+id=230
+instructor=Zenaida
+taken=false>
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=neutral>
+
+The final project in 230 was undirected and didn't turn out too well for my group.
+<class
+id=230
+taken=true>
+
+My final project for 388 did not have reasonable results. 
+<class
+id=388
+taken=true>
+
+EECS 216 was very challenging, but taught me a lot about programming practices and design patterns.
+<class
+id=216
+department=EECS
+difficulty=hard
+taken=true>
+
+EECS 453 was a lot easier with a smart partner who knows how to use git.
+<class
+id=453
+department=EECS
+taken=true>
+
+My EECS 388 professor was so good at explaining the algorithms, that class was the best!
+<class
+id=388
+department=EECS
+taken=true
+sentiment=positive>
+
+I have heard that EECS 520 has interesting projects, but I have not taken the class.
+<class
+id=520
+department=EECS
+taken=false
+sentiment=positive>
+
+I would take any class that is taught by Professor Works.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+I wish that there was a class that teaches python.
+
+EECS 995 is very challenging, I would recommend EECS 370 if you don't need 995 as a requirement.
+<class
+id=995
+department=EECS
+difficulty=hard>
+<class
+id=370
+sentiment=positive>
+
+EECS 545 was one of my favorite classes, the final project helped me get an internship.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+EECS 545 was a great introduction to Machine Learning, but it does require a familiarity with Linear Algebra.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+I thought EECS 545 was really hard, but the material was really helpful for future classes.
+<class
+id=545
+department=EECS
+difficulty=hard
+sentiment=positive
+taken=true>
+
+ENGR 418 got me interested in Computer Science.
+<class
+id=418
+department=ENGR
+sentiment=positive
+taken=true>
+
+EECS 541 is a great way to do research with a professor for class credit.
+<class
+id=541
+department=EECS
+sentiment=positive>
+
+Do not wait until your last year to get flexible technical electives.
+
+EECS 579 was a great class that teaches how the internet works, but there is a lot that you must teach yourself.
+<class
+id=579
+department=EECS
+sentiment=positive
+taken=true>
+
+Digital Communication Signals and Systems classes are a great way to learn more about something interesting in computer science.
+<class
+name=Digital Communication Signals and Systems
+link=Digital Communication Signals and Systems
+sentiment=positive>
+
+The projects in EECS 388 take longer than you expect, start early!
+<class
+id=388
+department=EECS
+difficulty=hard>
+
+Do not take EECS 388 with other classes that have programming projects.
+<class
+id=388
+department=EECS>
+
+I wish I would have taken EECS 545, the material is difficult to learn on your own.
+<class
+id=545
+department=EECS
+want-to-take=true>
+
+If there is a professor that you want to work with then go to their office hours and ask about their research.
+
+I did very well in EECS 498.
+<class
+id=498
+taken=true
+department=EECS
+performance=good>
+
+I did not pass EECS 417.
+<class
+id=417
+department=EECS
+passed=false
+taken=true>
+
+I failed EECS 995.
+<class
+id=995
+department=EECS
+performance=poor
+passed=false
+take=true>
+
+I did poorly in EECS 995.
+<class
+id=995
+department=EECS
+taken=true
+performance=poor>
+
+My performance in EECS 417 was quite bad.
+<class
+id=417
+department=EECS
+taken=true
+performance=poor>
+
+I took EECS 417 in Winter 2014 and did quite bad.
+<class
+id=417
+department=EECS
+semester=Winter 2014
+performance=poor
+taken=true>
+
+I did not pass EECS 417 in Winter 2014.
+<class
+id=417
+department=EECS
+semester=Winter 2014
+taken=true
+passed=false>
+
+I did okay in EECS 373.
+<class
+id=373
+department=EECS
+performance=fair
+taken=true>
+
+I didn't do excellent in EECS 373, but I didn't do horrible either.
+<class
+id=373
+department=EECS
+taken=true
+performance=fair>
+
+In EECS 995 last semester I received a failing grade.
+<class
+id=995
+department=EECS
+semester=last semester
+taken=true
+passed=false>
+
+EECS 230 was really hard, but I still passed.
+<class
+id=230
+department=EECS
+difficulty=hard
+taken=true
+passed=true>
+
+I thought that EECS 995 was very hard. I also didn't do very well.
+<class
+id=995
+department=EECS
+taken=true
+difficulty=neutral
+performance=fair>
+
+When I took EECS 571 last semester I thought it was easy.
+<class
+id=571
+department=EECS
+semester=last semester
+difficulty=easy
+taken=true>
+
+I thought that EECS 571 was really easy and I got a very high grade.
+<class
+id=571
+department=EECS
+taken=true
+difficulty=easy
+performance=good>
+
+I did better in 498 than any of my other EECS classes.
+<class
+id=498
+department=EECS
+performance=good
+taken=true>
+
+I want to take EECS 216 in Spring 2015.
+<class
+id=216
+department=EECS
+semester=Spring 2015
+want-to-take=true>
+
+It would be great if I could take EECS 494 in Fall 2015.
+<class
+id=494
+department=EECS
+want-to-take=true
+semester=Fall 2015>
+
+It would be great if I could have EECS 373 done soon.
+<class
+id=373
+department=EECS
+want-to-take=true>
+
+I would love to take EECS 494. It looks like a great class!
+<class
+id=494
+department=EECS
+want-to-take=true
+sentiment=positive>
+
+I want to take EECS 373 but I don't think I will enjoy it.
+<class
+id=373
+department=EECS
+want-to-take=true
+sentiment=negative>
+
+Probably I should take EECS 373 but I'm not sure.
+<class
+id=373
+department=EECS>
+
+I really don't want to take EECS 373.
+<class
+id=373
+department=EECS
+want-to-take=false>
+
+I hope I do not have to take EECS 494.
+<class
+id=494
+department=EECS
+want-to-take=false>
+
+I did not pass EECS 417.
+<class
+id=417
+department=EECS
+passed=false
+taken=true>
+
+I failed EECS 417.
+<class
+id=417
+department=EECS
+passed=false
+taken=true>
+
+I tried really hard but still failed EECS 995.
+<class
+id=995
+department=EECS
+difficulty=hard
+taken=true
+passed=false>
+
+I thought that EECS 995 was really hard and that's why I failed.
+<class
+id=995
+department=EECS
+difficulty=hard
+passed=false
+taken=true>
+
+I took EECS 230 and I thought I was going to fail but I just barely passed.
+<class
+id=230
+department=EECS
+taken=true
+passed=true>
+
+I took EECS 230 in Winter 2014 and was afraid of failing because of the faster pace. I passed!
+<class
+id=230
+department=EECS
+taken=true
+semester=Winter 2014
+difficulty=hard
+passed=true>
+
+I feared that I would fail EECS 230 after the first exam but I worked harder and passed the class.
+<class
+id=230
+department=EECS
+passed=true
+taken=true
+difficulty=hard>
+
+Theory is not an easy subject in computer science and I realized that after I failed EECS 995.
+<class
+id=995
+department=EECS
+difficulty=hard
+passed=false
+taken=true>
+
+EECS 230 was so hard! I did really well though.
+<class
+id=230
+department=EECS
+difficulty=hard
+performance=good
+taken=true>
+
+I managed to get an A- in EECS 230 even though I thought it was difficult.
+<class
+id=230
+department=EECS
+performance=good
+difficulty=hard
+taken=true>
+
+I thought that EECS 230 was really hard but I still got an A-.
+<class
+id=230
+department=EECS
+difficulty=hard
+performance=good
+taken=true>
+
+EECS 498 was not too difficult and I think was a great experience.
+<class
+id=498
+department=EECS
+difficulty=fair
+sentiment=positive
+taken=true>
+
+EECS 417 was terrible. It was easy but I still didn't pass.
+<class
+id=417
+department=EECS
+sentiment=negative
+difficulty=easy
+passed=false
+taken=true>
+
+I thought that EECS 388 was an okay difficulty. Not too challenging of a class.
+<class
+id=388
+department=EECS
+difficulty=fair
+taken=true>
+
+I loathe circuits. EECS 995 was a nightmare and I didn't pass.
+<class
+id=995
+name=circuits
+link=Electronic Circuits
+department=EECS
+taken=true
+sentiment=negative
+passed=false>
+
+I wanted to learn about AI but taking 417 was not a good experience. It wasn't difficult but it was graded very harsh.
+<class
+id=417
+sentiment=negative
+difficulty=fair
+taken=true>
+
+I'm not going to take a theory course again. 995 was not good.
+<class
+id=995
+sentiment=negative
+taken=true>
+
+I didn't think that 528 was too easy but I got an A.
+<class
+id=528
+difficulty=fair
+performance=good
+taken=true>
+
+I got an A- in EECS 230 because I worked really hard.
+<class
+id=230
+department=EECS
+difficulty=hard
+performance=good
+taken=true>
+
+It wasn't too much work to get an A in EECS 498.
+<class
+id=498
+department=EECS
+difficulty=easy
+performance=good
+taken=true>
+
+I thought that EECS 571 was okay in difficulty.
+<class
+id=571
+department=EECS
+difficulty=fair
+taken=true>
+
+EECS 528 was hard but I still passed.
+<class
+id=528
+department=EECS
+difficulty=hard
+passed=true>
+
+EECS 216 seems really difficult.
+<class
+id=216
+department=EECS
+difficulty=hard
+taken=false>
+
+I took EECS 230 and thought I was going to have to drop out of college.
+<class
+id=230
+department=EECS
+difficulty=hard
+taken=true>
+
+EECS 498 was not too hard and I enjoyed the material.
+<class
+id=498
+department=EECS
+difficulty=fair
+sentiment=positive
+taken=true>
+
+EECS 498 was okay and mild in difficulty.
+<class
+id=498
+department=EECS
+difficulty=fair
+taken=true>
+
+EECS 542 was mild in difficulty but I managed to get a good grade.
+<class
+id=542
+department=EECS
+difficulty=fair
+performance=good
+taken=true>
+
+The hardest class I took was EECS 995.
+<class
+id=995
+department=EECS
+difficulty=hard
+taken=true>
+
+My favorite instructor is Chi Fincher
+<instructor
+name=Chi Fincher
+link=Chi Fincher
+sentiment=positive>
+
+I wanted to take the microarchitecture class but it doesn't count for any of my requirements.
+<class
+name=microarchitecture
+link=Microarchitecture
+want-to-take=true
+taken=false>
+
+I think that the Electronic Sensing Systems course was much more difficult than Electronic Circuits
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true
+difficulty=hard>
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+taken=true>
+
+I have heard great things about Granville and the Advanced Computer Networks course
+<class
+name=Advanced Computer Networks
+link=Advanced Computer Networks
+instructor=Granville
+taken=false>
+<instructor
+name=Granville
+link=Granville Cheney>
+
+Patricia's Digital Communication Signals and Systems course in information retrieval was different from any course I've seen at Michigan.
+<instructor
+name=Patricia
+link=Patricia Moody>
+<class
+instructor=Patricia
+name=Digital Communication Signals and Systems
+link=Digital Communication Signals and Systems
+taken=true>
+
+I pulled five all-nighters in Electronic Circuits and still failed the course
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+difficulty=hard
+performance=poor
+passed=false
+taken=true>
+
+Someone I know passed Computational Complexity thanks to the help of my amazing GSI Arlie Symes.
+<class
+name=Computational Complexity
+link=Computational Complexity
+instructor=Arlie Symes>
+<instructor
+name=Arlie Symes
+link=Arlie Symes
+sentiment=positive>
+
+Professor Horrell gives amazing lectures in Introduction to Digital Coding and in 498.
+<instructor
+name=Horrell
+link=Ewa Horrell
+sentiment=positive>
+<class
+name=Introduction to Digital Coding
+link=Introduction to Digital Communication and Coding
+instructor=Horrell
+sentiment=positive>
+<class
+id=498
+instructor=Horrell
+sentiment=positive>
+
+My girlfriend loved advanced solid state microwave circuits and got a 100 on the final!
+<class
+name=advanced solid state microwave circuits
+link=Adv Sol St Mw Cir
+sentiment=positive>
+
+Even though I got an A in Electronic Sensing Systems I did not enjoy the course.
+<class
+name=Electronic Sensing Systems
+performance=good
+link=Electronic Sensing Systems
+sentiment=negative
+taken=true>
+
+Bhatia puts me to sleep every single day
+<instructor
+name=Bhatia
+link=Jenice Bhatia
+sentiment=negative>
+
+I wish that advanced solid state microwave circuits had more support on North Campus.
+<class
+name=advanced solid state microwave circuits
+link=Adv Sol St Mw Cir>
+
+I should have waited to take Parallel Computing with Angeline Calvin.
+<class
+name=Parallel Computing
+link=Parallel Computing
+taken=false
+instructor=Angeline Calvin>
+<instructor
+name=Angeline Calvin
+link=Angeline Calvin>
+
+I have heard that Mclennan's lectures in Computational Complexity were every bit as good as his talk after The Imitation Game
+<class
+name=Computational Complexity
+link=Computational Complexity
+instructor=Mclennan
+sentiment=positive>
+<instructor
+name=Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+Mobile App Development for Entrepreneurs is such a difficult course that many students consider quitting CS during the course.
+<class
+link=Mobile App Development for Entrepreneurs
+name=Mobile App Development for Entrepreneurs
+difficulty=hard>
+
+I could listen to Leoma Marcotte talk for hours.
+<instructor
+name=Leoma Marcotte
+link=Leoma Marcotte
+sentiment=positive>
+
+Zenaida did not use his own slides to teach electronic sensing systems and this contributed to my poor performance.
+<instructor
+name=Zenaida
+link=Zenaida Dorton>
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+performance=poor
+taken=true
+instructor=Zenaida>
+
+Works teaches us about function pointers, which are my favorite programming construct.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+I feel like EECS 578 is a complete waste of time.
+<class
+id=578
+department=EECS
+sentiment=negative>
+
+I feel like engineering 418 does not prepare students at all for Computational Complexity.
+<class
+id=418
+sentiment=negative>
+<class
+name=Computational Complexity
+link=Computational Complexity
+taken=true>
+
+I cried more times thanks to Robbi Shupe than my parents' divorce.
+<instructor
+name=Robbi Shupe
+link=Robbi Shupe
+sentiment=negative>
+
+Ewa Horrell is one of the best instructors I have ever heard lecture.
+<instructor
+name=Ewa Horrell
+link=Ewa Horrell
+sentiment=positive>
+
+My girlfriend was the only girl in her Software Engineering class and the staff made her feel very uncomfortable.
+<class
+name=Software Engineering
+link=Introduction to Machine Learning
+sentiment=negative>
+
+I learned the most in Biomedical Instrumentation and Design from my friend Elfriede Mize, who later became a GSI for the course.
+<class
+name=Biomedical Instrumentation and Design
+link=Biomedical Instrumentation and Design
+instructor=Elfriede Mize
+taken=true>
+<instructor
+name=Elfriede Mize
+link=Elfriede Mize
+sentiment=positive>
+
+Kathe Halverson was the only aspect of Parallel Computing that I liked
+<instructor
+name=Kathe Halverson
+link=Kathe Halverson
+sentiment=positive>
+<class
+name=Parallel Computing
+link=Parallel Computing
+sentiment=negative
+taken=true
+instructor=Kathe Halverson>
+
+I once watched one of Chandra Ney's 523 recordings a second time just because it was so sad.
+<instructor
+name=Chandra Ney
+link=Chandra Ney
+sentiment=negative>
+<class
+id=523
+instructor=Chandra Ney>
+
+Thanks to all of Lorinda's hard work, a few students got a summer internship just after taking her class.
+<instructor
+name=Lorinda
+link=Lorinda Schertz
+sentiment=positive>
+
+I took 2 EECS courses last semester and hated them - 995 and 579.
+<class
+id=995
+department=EECS
+sentiment=negative
+semester=last semester
+taken=true>
+<class
+id=579
+department=EECS
+sentiment=negative
+semester=last semester
+taken=true>
+
+I did very poorly in 995 because I put very little effort in.
+<class
+id=995
+department=EECS
+performance=poor
+taken=true>
+
+My high performance in Computer and Network Security was largely due to the fact that I already knew 90% of the material.
+<class
+name=Computer and Network Security
+link=Computer and Network Security
+performance=good
+taken=true>
+
+Directed Study is a great course for people who are completely new to data science or are simply bad at it - more advanced students should not waste their time.
+<class
+name=Directed Study
+link=Directed Study
+sentiment=positive>
+
+I wish I could just keep taking Introduction to Digital Communication and Coding; it is so easy and the staff members are so helpful.
+<class
+name=Introduction to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding
+sentiment=positive
+taken=true
+want-to-take=true
+difficulty=easy>
+
+I regret my choice to take Electronic Circuits.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+sentiment=negative
+taken=true>
+
+The material in Theory and Practice of Data Compression is interesting, but abstract.
+<class
+name=Theory and Practice of Data Compression
+link=Theory and Practice of Data Compression
+sentiment=positive>
+
+A friend of mine knew they were going to fail Theory and Practice of Data Compression so on their last homework they turned nothing. They hated 528.
+<class
+name=Theory and Practice of Data Compression
+link=Theory and Practice of Data Compression
+id=528>
+
+Shantel Mullarkey changed my life for the better.
+<instructor
+name=Shantel Mullarkey
+link=Shantel Mullarkey
+sentiment=positive>
+
+I had never been afraid of a professor until Robbi Shupe.
+<instructor
+name=Robbi Shupe
+link=Robbi Shupe
+sentiment=negative>
+
+Adv Natural Language Processing and Information Retrieval is a very organized, well-taught class
+<class
+name=Adv Natural Language Processing and Information Retrieval
+link=Advanced Natural Language Processing and Information Retrieval
+sentiment=positive>
+
+Intro to Digital Communication and Coding taught me a lot, but I felt it could have taught much more
+<class
+name=Intro to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding
+sentiment=neutral
+taken=true>
+
+523 is a gaudy class that indoctrinates its students to settle for less.
+<class
+id=523
+sentiment=negative>
+
+Computational Complexity improved my analytical thinking skills and understanding of infinity.
+<class
+name=Computational Complexity
+link=Computational Complexity
+taken=true
+sentiment=positive>
+
+Patricia taught Digital Communication Signals and Systems and it was many of the students' favorite class.
+<class
+name=Digital Communication Signals and Systems
+link=Digital Communication Signals and Systems
+instructor=Patricia
+sentiment=positive>
+<instructor
+name=Patricia
+link=Patricia Moody>
+
+Russel Mclennan is a handsome, eloquent man who I had the honor of being taught by.
+<instructor
+name=Russel Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+I wish Ewa Horrell could give other Michigan professors a master class in teaching.
+<instructor
+name=Ewa Horrell
+link=Ewa Horrell
+sentiment=positive>
+
+The course material for Computer and Network Security was hopelessly out of date and I would love to retake a more modern version of the course.
+<class
+name=Computer and Network Security
+link=Computer and Network Security
+taken=true
+want-to-take=true
+sentiment=negative>
+
+Lorinda Schertz is terrifying.
+<instructor
+name=Lorinda Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+Taking 230 is like waking up from a nightmare and realizing you are still in the nightmare. Then, you wake up again and Zenaida tells you to manage your time better. It was crushingly difficult.
+<class
+id=230
+sentiment=negative
+instructor=Zenaida>
+<instructor
+name=Zenaida
+link=Zenaida Dorton>
+
+I took Electronic Circuits, but I didn't do very well.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+performance=poor
+taken=true>
+
+Computational complexity was a great class when I took it in 2009.
+<class
+name=Computational complexity
+link=Computational Complexity
+sentiment=positive
+taken=true
+semester=2009>
+
+The advanced solid state microwave circuits course was an okay introduction to some of the core concepts in computer science.
+<class
+name=advanced solid state microwave circuits
+link=Adv Sol St Mw Cir
+taken=true>
+
+Last semester I taught computational complexity with Mclennan.
+<class
+name=computational complexity
+link=Computational Complexity
+instructor=Mclennan
+semester=Last semester>
+<instructor
+name=Mclennan
+link=Russel Mclennan
+sentiment=neutral>
+
+Electronic Sensing Systems was a tough class but I made it through.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+difficulty=hard
+passed=true
+taken=true>
+
+The computer and network security class was okay.
+<class
+name=computer and network security
+link=Computer and Network Security
+taken=true>
+
+I took the Design of Microprocessor Based Systems EECS 417 course in my first semester.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+id=417
+department=EECS
+semester=first semester
+taken=true>
+
+Theory and practice of data compression was very theoretical but I liked it.
+<class
+name=Theory and practice of data compression
+link=Theory and Practice of Data Compression
+sentiment=positive
+taken=true>
+
+I thought that intro machine learning would be a great course to prepare me for the real world.
+<class
+name=intro machine learning
+link=Introduction to Machine Learning>
+
+I took intro machine learning to prepare for interviews.
+<class
+name=intro machine learning
+link=Introduction to Machine Learning
+taken=true>
+
+The introduction to cryptography course looks great! You learn how to control robots and drive them around.
+<class
+name=introduction to cryptography
+link=Introduction to Cryptography
+sentiment=positive
+taken=false>
+
+The advanced natural language processing and information retrieval course was easy and I think it was worth it.
+<class
+name=advanced natural language processing and information retrieval
+link=Advanced Natural Language Processing and Information Retrieval
+difficulty=easy
+taken=true
+sentiment=positive>
+
+Digital communications theory looks like a pretty good class. You get to learn more about image and video processing.
+<class
+link=Digital Commun Thry
+name=Digital communications theory
+sentiment=positive
+taken=false>
+
+The microwave circuits I course was very hard! I need to work on my linear algebra skills.
+<class
+name=microwave circuits I
+link=M-Wave Circ I
+difficulty=hard
+taken=true>
+
+Foundations of computer science looks difficult but useful and insightful.
+<class
+name=Foundations of computer science
+link=Foundations of Computer Science
+difficulty=hard
+sentiment=positive
+taken=false>
+
+Introduction to Machine Learning taught me a lot about design concepts.
+<class
+name=Introduction to Machine Learning
+link=Introduction to Machine Learning
+taken=true>
+
+Java was a language I often used before introduction to machine learning.
+<class
+name=introduction to machine learning
+link=Introduction to Machine Learning
+taken=true>
+
+The micro electronic processing technology course looks a pretty boring cs technical elective.
+<class
+name=micro electronic processing technology
+link=M-Elec Proc Tech
+sentiment=negative
+taken=false>
+
+The design of micro systems course was not worth taking. I could have just read the textbook.
+<class
+name=design of micro systems
+link=Design of Microprocessor Based Systems
+sentiment=negative
+taken=true>
+
+Machine Learning looks like a lot of work but I think it would serve me well.
+<class
+name=Machine Learning
+link=Machine Learning
+difficulty=hard
+sentiment=positive
+taken=false>
+
+The electronic sensing systems course took me a ton of time each week. I'm still not sure I understand many of the things we were taught.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+difficulty=hard
+taken=true>
+
+The semi-optoelectric devices course looks great. It's really cool that Shannon attended this school.
+<class
+name=semi-optoelectric devices
+link=Semi Optoelec Dev
+taken=false>
+
+The advanced lasers lab course had a lot of assignments I heard.
+<class
+name=advanced lasers lab
+link=Adv Lasers Lab
+difficulty=hard>
+
+Data Structures and Algorithms looks challenging but probably the easiest of the grad level theory courses.
+<class
+name=Data Structures and Algorithms
+link=Data Structures and Algorithms
+difficulty=hard
+taken=false>
+
+Computer and network security was a pretty good course but I would have liked to not use finite automata.
+<class
+name=Computer and network security
+link=Computer and Network Security
+sentiment=positive
+taken=true>
+
+I thought that computer and network security should have used more recent techniques.
+<class
+name=computer and network security
+link=Computer and Network Security
+sentiment=negative
+taken=true>
+
+Computational Complexity was probably my least favorite class when I was an undergrauate.
+<class
+name=Computational Complexity
+sentiment=negative
+link=Computational Complexity
+taken=true>
+
+The first computer science course I took was computational complexity. It seemed more like a math class but it had the CS department code.
+<class
+name=computational complexity
+link=Computational Complexity
+taken=true>
+
+Special topics seems like a good course.
+<class
+name=Special topics
+link=Special Topics
+sentiment=positive>
+
+Michel is a respectful and interesting speaker.
+<instructor
+name=Michel
+link=Delbert Michel
+sentiment=positive>
+
+Design of digital control systems was not a very interesting course and the material was often not clear.
+<class
+name=Design of digital control systems
+link=Design of Digital Control Systems
+sentiment=negative
+taken=true>
+
+I'm pretty sure I don't remember anything from design of digital control systems.
+<class
+name=design of digital control systems
+link=Design of Digital Control Systems
+taken=true>
+
+My electronic circuits course was uninteresting, not useful, and really harshly graded.
+<class
+name=electronic circuits
+link=Electronic Circuits
+sentiment=negative
+taken=true>
+
+I don't think that the design of microprocessor based systems class is worth taking.
+<class
+name=design of microprocessor based systems
+link=Design of Microprocessor Based Systems
+sentiment=negative>
+
+I would not take directed study again because it didn't count for any of my credits.
+<class
+name=directed study
+link=Directed Study
+sentiment=negative
+taken=true>
+
+Directed Study was a great class and I don't know why it doesn't count for AI credit. It's basically applied ML and a few other concepts.
+<class
+name=Directed Study
+link=Directed Study
+sentiment=positive
+taken=true>
+
+I would have liked to take the information visualization course but I didn't have room in my schedule.
+<class
+name=information visualization
+link=Advanced Computer Networks
+want-to-take=true>
+
+My class on stochastic processes meets twice a week.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true>
+
+My stochastic processes class makes me very tired sometimes.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true
+sentiment=negative>
+
+I would probably have taken Data Structures and Algorithms if I was a masters student.
+<class
+name=Data Structures and Algorithms
+link=Data Structures and Algorithms
+taken=false>
+
+I should have not taken circuits and chosen not to fulfill my theory requirement.
+<class
+name=circuits
+link=Electronic Circuits
+taken=true
+sentiment=negative>
+
+I wish I would not have taken as many classes at the same time as electronic sensing systems.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+taken=true>
+
+I could have gotten a lot more out of electronic sensing systems if I had not also been taking Design of Microprocessor Based Systems, CNS and been teaching and doing research.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+taken=true>
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+taken=true>
+<class
+name=CNS
+link=Computer and Network Security
+taken=true>
+
+I am glad I took Introduction to Digital Signal Processing with Hutchens.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+instructor=Hutchens
+taken=true
+sentiment=positive>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+I think that Introduction to Digital Signal Processing taught me a lot about reviewing, reading, and being critical of papers.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+sentiment=positive
+taken=true>
+
+The computer and network security course mostly taught me about which subfields exist and how they evaluate their methods.
+<class
+name=computer and network security
+link=Computer and Network Security
+taken=true>
+
+I would have liked if computer and network security had a deep learning component.
+<class
+name=computer and network security
+link=Computer and Network Security
+taken=true>
+
+I think that the electronic sensing systems course could have been more insightful if it also included a week or so material on deep learning.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+taken=true>
+
+Electronic sensing systems was a good course overall.
+<class
+name=Electronic sensing systems
+link=Electronic Sensing Systems
+taken=true
+sentiment=positive>
+
+Design of Microprocessor Based Systems was not a good course.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+sentiment=negative
+taken=true>
+
+I hate Design of Digital Control Systems. I took it because I hear it was an easy way to get your hardware requirement settled but it turned out to be an incredible amount of work.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+taken=true
+sentiment=negative
+difficulty=hard>
+
+Overall I like the course Design of Microprocessor Based Systems because, even though it covered a lot of material, it gave me a nice perspective of what work is been done in AI in a broader sense.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+taken=true
+sentiment=positive>
+
+The Stochastic Processes course was scary at first but it turned out to be an easy to handle course.
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+difficulty=easy
+taken=true>
+
+The Design of Digital Control Systems first homework was way more difficult than what the GSIs told us it would be.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+difficulty=hard
+taken=true>
+
+The course project in the Introduction to Digital Signal Processing class could be interesting only if you could relate it to your research work else it was kind of useless.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+I think the best course I have taken so far was the Design of Microprocessor Based Systems.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+sentiment=positive
+taken=true>
+
+Professor Pinkney in the Design of Microprocessor Based Systems class was a great lecturer! Always extremely well prepared, polite and such a fluent and nice speaker!
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+instructor=Pinkney
+taken=true>
+<instructor
+name=Pinkney
+link=Jacquetta Pinkney
+sentiment=positive>
+
+I heard that the easiest hardware class to take is the Design of Digital Control Systems class.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+difficulty=easy>
+
+The Principles of Photonics course can be the easiest or the hardest one depending on your advisor.
+<class
+name=Principles of Photonics
+link=Princ of Photonics>
+
+I would like to take the Advanced Computer Networks class but unfortunately I do not have enough time for it.
+<class
+name=Advanced Computer Networks
+link=Advanced Computer Networks
+want-to-take=true>
+
+I tried taking the graduate level Electronic Sensing Systems course but the professor was very bad. His slides were all messed up with errors and the first homework was full of typos, inconsistencies and mistakes.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+sentiment=negative>
+
+The class that had the most reading was the Stochastic Processes course.
+<class
+name=Stochastic Processes
+link=Stochastic Processes>
+
+I did all my studying by watching YouTube videos for the Design of Microprocessor Based Systems class.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+taken=true>
+
+The Design of Digital Control Systems class has over 90 students so I do not know how we are going to manage to do individuals presentations.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+taken=true>
+
+I wanted to take the Computational Complexity class but the professor assumed a ton of prior knowledge so I couldn't keep up.
+<class
+name=Computational Complexity
+link=Computational Complexity>
+
+I would like to become a GSI in some introductory course in programming like the Introduction to Digital Communication and Coding course.
+<class
+name=Introduction to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding>
+
+I think that Leoma Marcotte was an interesting teacher in computer and network security.
+<class
+name=computer and network security
+link=Computer and Network Security
+taken=true
+instructor=Leoma Marcotte>
+<instructor
+name=Leoma Marcotte
+link=Leoma Marcotte
+sentiment=positive>
+
+Black is a funny guy.
+<instructor
+name=Black
+link=Lourie Black
+sentiment=positive>
+
+I heard that Black likes to sing to his students.
+<instructor
+name=Black
+link=Lourie Black>
+
+Kayleigh Aten works for Google and is not around very often.
+<instructor
+name=Kayleigh Aten
+link=Kayleigh Aten>
+
+Granville Cheney' electronic sensing systems course seemed interesting and more useful than the more theoretical course that is usually offered.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+sentiment=positive
+instructor=Granville Cheney>
+<instructor
+name=Granville Cheney
+link=Granville Cheney
+sentiment=neutral>
+
+I think I would have enjoyed taking Design of Microprocessor Based Systems with Clementine more than when I took it with Pinkney.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+instructor=Clementine,Pinkney
+taken=true>
+<instructor
+name=Clementine
+link=Clementine Wehmeyer
+sentiment=positive>
+<instructor
+name=Pinkney
+link=Jacquetta Pinkney
+sentiment=neutral>
+
+I'm glad I did not take electronic sensing systems with Lisha Netherton.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+instructor=Lisha Netherton>
+<instructor
+name=Lisha Netherton
+link=Lisha Netherton
+sentiment=negative>
+
+I took electronic sensing systems with Zenaida Dorton.
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems
+instructor=Zenaida Dorton
+taken=true>
+<instructor
+name=Zenaida Dorton
+link=Zenaida Dorton
+sentiment=neutral>
+
+Myrna Goldsmith taught Design of Digital Control Systems and I thought the class was not very difficult.
+<class
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+instructor=Myrna Goldsmith
+difficulty=easy
+taken=true>
+<instructor
+name=Myrna Goldsmith
+link=Myrna Goldsmith
+sentiment=neutral>
+
+Shantel Mullarkey taught the electronic sensing systems class that I took. He was an amazing teacher and I wish that he would teach machine learning.
+<class
+name=data mining
+link=Data Mining
+instructor=Shantel Mullarkey
+taken=true>
+<instructor
+name=Shantel Mullarkey
+link=Shantel Mullarkey
+sentiment=positive>
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems>
+
+I took electronic circuits with Robbi Shupe and I thought the class was uninteresting and that he was not a very good teacher.
+<class
+name=electronic circuits
+link=Electronic Circuits
+taken=true
+instructor=Robbi Shupe
+sentiment=negative>
+<instructor
+name=Robbi Shupe
+link=Robbi Shupe
+sentiment=negative>
+
+My Introduction to Digital Signal Processing class with Hutchens was better but also a frustrating class.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+instructor=Hutchens
+taken=true
+sentiment=negative>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=neutral>
+
+I think that Marlys Dare would be a great teacher and I hope to take a class with him at some point.
+<instructor
+name=Marlys Dare
+link=Marlys Dare
+sentiment=positive>
+
+Adv Sol St Mw Cir is a huge class and it is hard to get personal attention.
+<class
+name=Adv Sol St Mw Cir
+link=Adv Sol St Mw Cir
+sentiment=negative>
+
+Data structures and algorithms required a lot of high level math but Prof. Mclennan was great at explaining things.
+<class
+name=Data structures and algorithms
+link=Data Structures and Algorithms
+taken=true
+instructor=Mclennan
+difficulty=hard>
+<instructor
+name=Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+PhD Directed Study is a popular course and focuses on computer hardware.
+<class
+name=PhD Directed Study
+link=PhD Directed Study>
+
+The final exam in data structures and algo was pretty tough.
+<class
+name=data structures and algo
+link=Data Structures and Algorithms
+difficulty=hard
+taken=true>
+
+One of the major components of the stochastic processes class was a group project.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true>
+
+The CNS course met for three hours at a time.
+<class
+name=CNS
+link=Computer and Network Security>
+
+One of the homework assignments in the computer and network security class involved automatic language generation.
+<class
+name=computer and network security
+link=Computer and Network Security>
+
+Prof. Marcotte liked to show us NACLO problems as examples of linguistic challenges.
+<instructor
+name=Marcotte
+link=Leoma Marcotte
+sentiment=neutral>
+
+Students are very concerned about the grades that they receive in advanced solid state microwave circuits.
+<class
+name=advanced solid state microwave circuits
+link=Adv Sol St Mw Cir>
+
+CNS is a very interdisciplinary course.
+<class
+name=CNS
+link=Computer and Network Security>
+
+The vacuum world and wumpus world examples were used to explain some concepts in Design of Microprocessor Based Systems.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems>
+
+In intro to digital signal processing, some of the first lectures were dedicated to teaching us how to perform research in the field.
+<class
+name=intro to digital signal processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+Professor Works likes to talk about his chickens.
+<instructor
+name=Works
+link=Winford Works
+sentiment=neutral>
+
+The paper reviews in Introduction to Digital Signal Processing were sometimes graded harshly.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+difficulty=hard
+taken=true>
+
+In stochastic processes, the students graded each other's paper reviews.
+<class
+name=stochastic processes
+link=Stochastic Processes>
+
+In the systems science seminar, the main requirements were attendance each week and a final paper summarizing the learnings from the course.
+<class
+name=systems science seminar
+link=Advanced Computer Networks>
+
+Stochastic processes had only a midterm and no final examination.
+<class
+name=Stochastic processes
+link=Stochastic Processes
+taken=true>
+
+For a large portion of the student presentations, prof. Michel was on his computer.
+<instructor
+name=Michel
+link=Delbert Michel
+sentiment=neutral>
+
+Electronic Sensing Systems is a popular yet challenging course.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+difficulty=hard>
+
+When prof Dorton was not present for class, one of his students would present in his place.
+<instructor
+name=Dorton
+link=Zenaida Dorton
+sentiment=neutral>
+
+Electronic Circuits was a difficult course to take.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+difficulty=hard
+taken=true>
+
+In electronic circuits, I don't think Shupe's expectations for collaboration were reasonable.
+<class
+name=electronic circuits
+link=Electronic Circuits
+instructor=Shupe>
+<instructor
+name=Shupe
+link=Robbi Shupe
+sentiment=negative>
+
+In Introduction to Digital Signal Processing we read lots of current research papers.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+Professor Hutchens was tough, but he helped develop our presentation skills.
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+
+In Introduction to Digital Signal Processing, we had to write paper reviews for every class.
+<class
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+We have to write even more paper reviews for stochastic processes.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true>
+
+In stochastic processes, we read 3-4 research papers every week.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true>
+
+The papers for stochastic processes are not always current and it can be hard to contextualize things.
+<class
+name=stochastic processes
+link=Stochastic Processes
+taken=true
+difficulty=hard>
+
+Electronic Sensing Systems was the hardest class I took last year.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+difficulty=hard
+taken=true>
+
+In Electronic Sensing Systems, we had to write code in MATLAB.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true>
+
+On Electronic Sensing Systems homeworks we had to write lots of proofs and write difficult MATLAB functions.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true
+difficulty=hard>
+
+In Design of Microprocessor Based Systems, we had to do lots of busy work for problem sets.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+taken=true
+sentiment=negative>
+
+Clementine Wehmeyer was a good instructor, but the material was still boring a lot of the time.
+<instructor
+name=Clementine Wehmeyer
+link=Clementine Wehmeyer
+sentiment=positive>
+
+Clementine incorporated good animations into her slides to explain concepts.
+<instructor
+name=Clementine
+link=Clementine Wehmeyer
+sentiment=positive>
+
+There are two student presentations in each Stochastic Processes class.
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+taken=true>
+
+The student presentations in Stochastic Processes are not as good as the ones in intro to Digital Signal Processing.
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+sentiment=negative
+taken=true>
+<class
+name=intro to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+sentiment=positive
+taken=true>
+
+The final project for Stochastic Processes is hard, because the idea has to be novel.
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+taken=true
+difficulty=hard>
+
+In intro to Digital Signal Processing, we did a replication project for our final class project, but mine did not work.
+<class
+name=intro to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+taken=true>
+
+In Electronic Circuits, we had a final exam instead of a final project.
+<class
+name=Electronic Circuits
+link=Electronic Circuits
+taken=true>
+
+In Electronic Sensing Systems we had a late-semester midterm so that we could basically have a final exam and a final project for the class.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true>
+
+Professor Michel was a pretty good instructor for Stochastic Processes.
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+taken=true
+instructor=Michel>
+<instructor
+name=Michel
+link=Delbert Michel
+sentiment=positive>
+
+The student presentations were a good idea in Stochastic Processes, but I wish Delbert would have spent more time talking about the paper(s) himself, as he clearly knows more about this material than we do!
+<class
+name=Stochastic Processes
+link=Stochastic Processes
+taken=true
+sentiment=negative
+instructor=Delbert>
+<instructor
+name=Delbert
+link=Delbert Michel
+sentiment=neutral>
+
+The fact that Design of Microprocessor Based Systems groups graduate students and undergraduate students together does a disservice to both groups of students.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+sentiment=negative>
+
+Graduate students shouldn't have to do busy work because we have research responsibilities.
+
+Design of Microprocessor Based Systems has a lot of busy work that isn't helpful when it comes to learning the material, as a lot of the busy work deals with reinventing the wheel over and over again.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+sentiment=negative>
+
+The most interesting material for Design of Microprocessor Based Systems comes at the end of the semester; this material is not only more interesting, but is more practical in real-world usage, so I wish Clementine Wehmeyer would have spent less time on the boring introductory stuff.
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+take=true
+instructor=Clementine Wehmeyer>
+<instructor
+name=Clementine Wehmeyer
+link=Clementine Wehmeyer
+sentiment=negative>
+
+If there are both grad and undergrad students in Design of Microprocessor Based Systems, it'd be great if the instructor (Clementine) used separate grading scales because grad students can't spend as much time on the programming work/studying for exams that undergrads can!
+<class
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+taken=true
+instructor=Clementine>
+<instructor
+name=Clementine
+link=Clementine Wehmeyer
+sentiment=negative>
+
+Clementine was decent at lecturing, but if the examples on the lecture slides didn't work, she couldn't really figure out how to solve the problem in real-time; to her credit, she would post the solutions up after class.
+<instructor
+name=Clementine
+link=Clementine Wehmeyer
+sentiment=neutral>
+
+Data Structures and Algorithms was easily the hardest class I've taken in school.
+<class
+name=Data Structures and Algorithms
+link=Data Structures and Algorithms
+difficulty=hard
+taken=true>
+
+Professor Russel Mclennan is incredibly nice and helpful, but the material was a bit too abstract to grasp.
+<instructor
+name=Russel Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+I wish that Russel Mclennan would have had his TA go through example problems with us in class, as they would have helped us a lot in not only understanding the material, but also would have helped us on the homeworks.
+<instructor
+name=Russel Mclennan
+link=Russel Mclennan
+sentiment=neutral>
+
+The exams in Data Structures and Algorithms were actually a decent reflection on what we learned in class, so that was really nice to see.
+<class
+name=Data Structures and Algorithms
+link=Data Structures and Algorithms
+taken=true
+sentiment=positive>
+
+Information Theory was probably the best class I've taken at Michigan.
+<class
+name=Information Theory
+link=Information Theory
+sentiment=positive
+taken=true>
+
+Working on projects in Information Theory with partners was a fun experience, as there were a lot of different projects to choose from. 
+<class
+name=Information Theory
+link=Information Theory
+taken=true>
+
+Kattie Bunde is really good at lecturing, although we didn't really cover as much material as I thought we would've.
+<instructor
+name=Kattie Bunde
+link=Kattie Bunde
+sentiment=positive>
+
+The GSIs for Information Theory were not too helpful/available for students, so I wish that's not the case for the course moving forward.
+<class
+name=Information Theory
+link=Information Theory
+taken=true
+sentiment=negative>
+
+Advanced Embedded Systems was a pretty decent class, but there's nothing to write home about.
+<class
+name=Advanced Embedded Systems
+link=Advanced Embedded Systems
+taken=true
+sentiment=neutral>
+
+Advanced Embedded Systems had a lot of focus on software-defined networks, which got pretty boring after like the third paper.
+<class
+name=Advanced Embedded Systems
+link=Advanced Embedded Systems
+taken=true
+sentiment=negative>
+
+Geri Grady did a good job lecturing about difficult concepts in the class, so that made it easier to understand the material. 
+<instructor
+name=Geri Grady
+link=Geri Grady
+sentiment=positive>
+
+The discussion sections for Adv Embedded Systems weren't too well-attended, so the GSI couldn't do much with that.
+<class
+name=Adv Embedded Systems
+link=Advanced Embedded Systems
+taken=true>
+
+I wish we had more practical examples of using some of the technologies we read about in Adv Embedded Systems because reading papers over and over again got pretty dull.
+<class
+name=Adv Embedded Systems
+link=Advanced Embedded Systems
+taken=true
+sentiment=negative>
+
+Advanced Computer Networks seemed like it would be a great class in theory, but in practice, it was a bit too high-level for us to have learned anything concrete from it.
+<class
+name=Advanced Computer Networks
+link=Advanced Computer Networks
+sentiment=negative
+taken=true>
+
+There was a lot of emphasis on working on a project on ourselves, which was antithetical to my expectations for the Advanced Networks course.
+<class
+name=Advanced Networks
+link=Advanced Computer Networks
+taken=true
+sentiment=negative>
+
+Kayleigh Aten is a really nice professor, but his lectures were too high level for some things; I wish he had gone through practical examples rather than just mention topics on his slide.
+<instructor
+name=Kayleigh Aten
+link=Kayleigh Aten
+sentiment=negative>
+
+Kayleigh is really good about caring for his students, so it was helpful that he set up project checkpoint meetings.
+<instructor
+name=Kayleigh
+link=Kayleigh Aten
+sentiment=positive>
+
+The computer networks course would have benefited vastly if the collaborators communicated on a regular interval; since a few of them were in industry, it was hard for us to pin down times for project meetings.
+<class
+name=computer networks
+link=Advanced Computer Networks
+taken=true
+sentiment=negative>
+
+The projects in computer networks were really great and had scope for real-world impact.
+<class
+name=computer networks
+link=Advanced Computer Networks
+taken=true
+sentiment=positive>
+
+Electronic Sensing Systems was probably the second-hardest class I've taken at Michigan, by virtue of the fact that it was a bit too proof heavy.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true
+difficulty=hard>
+
+Programming in Matlab was really difficult for those with non-mathematical backgrounds, as it was difficult to understand the math at times.
+
+Prof. Dorton, to his credit, did a good job of making sure that we understood the material and frequently checkpointed us.
+<instructor
+name=Dorton
+link=Zenaida Dorton
+sentiment=positive>
+
+However, at the same time, a lot of Zenaida's slides had math on them and he would just cycle through them, which isn't helpful for, you know, actually learning or going through the proofs in class; this wasn't too big an issue most times though.
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=negative>
+
+I wish that Zenaida would have had his GSIs hold discussion section-style sessions where they would go through sample problems from the textbook.
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=neutral>
+
+The AI department really needs to have a ESS course for non-ESS folks so that it can fill up our breadth requirements, because this course is a bit much unless you want to do research in ESS.
+<class
+name=ESS
+link=Electronic Sensing Systems
+sentiment=negative>
+
+The solutions to the homework problems were not explained well at all, so that was a significant drawback for the Electronic Sensing Systems course.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+taken=true
+sentiment=negative>
+
+I though Introduction to Digital Communication and Coding with Schertz was a fun and engaging class.
+<class
+name=Introduction to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding
+instructor=Schertz
+sentiment=positive
+taken=true>
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=neutral>
+
+I really enjoyed doing the projects for Introduction to Digital Communication and Coding.
+<class
+name=Introduction to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding
+sentiment=positive
+taken=true>
+
+Professor Schertz is a slightly intimidating professor but she is a good speaker.
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=positive>
+
+In general, Introduction to Digital Communication and Coding was straightforward.
+<class
+name=Introduction to Digital Communication and Coding
+link=Introduction to Digital Communication and Coding
+difficulty=easy
+taken=true>
+
+Professor Works is an amazing lecturer - I started going to class after realizing he was really good.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+My favorite CS class at Michigan was adv solid state microwave circuits.
+<class
+name=adv solid state microwave circuits
+link=Adv Sol St Mw Cir
+sentiment=positive
+taken=true>
+
+I learned a lot about pointers in my second computer science class, adv solid state microwave circuits.
+<class
+link=Adv Sol St Mw Cir
+name=adv solid state microwave circuits
+taken=true>
+
+Professors Hollinger and Meza were good but their class was not well run.
+<instructor
+name=Hollinger
+link=Alton Hollinger
+sentiment=positive>
+<instructor
+name=Meza
+link=Suellen Meza
+sentiment=positive>
+
+I left Electromagnetics II feeling like I knew very little.
+<class
+name=Electromagnetics II
+link=Electromagnetics II
+taken=true>
+
+Electromagnetics II probably made me a worse programmer.
+<class
+name=Electromagnetics II
+link=Electromagnetics II
+taken=true
+sentiment=negative>
+
+The only thing I learned in Electromagnetics II was how to make my code run fast at the expense of readability and good structure.
+<class
+name=Electromagnetics II
+link=Electromagnetics II
+taken=true
+sentiment=negative>
+
+The IAs for Hollinger and Meza's class were pretty useless and also kind of mean.
+<instructor
+name=Hollinger
+link=Alton Hollinger
+sentiment=neutral>
+<instructor
+name=Meza
+link=Suellen Meza
+sentiment=neutral>
+
+The IAs for Computer Organization were straight up terrible.
+<class
+name=Computer Organization
+link=Introduction to Computer Organization
+taken=true>
+
+Arlyne Meals was the worst - he assumed we had all this knowledge of circuits and stuff that we would never have known.
+<instructor
+name=Arlyne Meals
+link=Arlyne Meals
+sentiment=negative>
+
+Regardless of my dislike of the professors, I liked the material in Software Engineering.
+<class
+name=Software Engineering
+link=Software Engineering
+taken=true
+sentiment=positive>
+
+Carlena Plumer is way too excited about error-correcting codes and he's skipped out on other important concepts in Theory and Practice of Data Compression because of this.
+<class
+name=Theory and Practice of Data Compression
+link=Theory and Practice of Data Compression
+taken=true
+instructor=Carlena Plumer>
+<instructor
+name=Carlena Plumer
+link=Carlena Plumer
+sentiment=negative>
+
+Theory and Practice of Data Compression is confusing but at least the IAs are nice.
+<class
+name=Theory and Practice of Data Compression
+link=Theory and Practice of Data Compression
+taken=true
+sentiment=negative>
+
+Marco Hiett is probably the best EECS professor I have had, besides Works.
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+Marco Hiett does not use slides, he just writes on the board - it's awesome.
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+
+I have learned more in one month of Mobile App Development for Entrepreneurs than I learned in all of Electromagnetics II.
+<class
+name=Mobile App Development for Entrepreneurs
+link=Mobile App Development for Entrepreneurs
+taken=true>
+<class
+name=Electromagnetics II
+link=Electromagnetics II
+taken=true
+sentiment=negative>
+
+Project 2 is Mobile App Development for Entrepreneurs is super cool even though it takes a lot of thought and work.
+<class
+name=Mobile App Development for Entrepreneurs
+link=Mobile App Development for Entrepreneurs
+sentiment=positive
+difficulty=hard
+taken=true>
+
+I am terrified for the midterm in Mobile App Development but at least I'm learning a lot in this class.
+<class
+name=Mobile App Development
+link=Mobile App Development for Entrepreneurs
+difficulty=hard
+taken=true>
+
+Professor Works is very funny and keeps me interested in lecture.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+EECS 588 projects are really good, but I wish they would refer to real world examples more.
+<class
+id=588
+department=EECS
+taken=true
+sentiment=positive>
+
+EECS 388 is a scary proposition and I hope it doesn't eat me alive.
+<class
+id=388
+department=EECS
+difficulty=hard
+taken=false>
+
+Instructor Steffanie Casady is a very smart guy but his lectures can get dull.
+<instructor
+name=Steffanie Casady
+link=Steffanie Casady
+sentiment=negative>
+
+I thought ENGR 418 was good until Professor Works made me realize we learned bad habits.
+<class
+id=418
+department=ENGR
+taken=true
+sentiment=negative>
+<instructor
+name=Works
+link=Winford Works
+sentiment=neutral>
+
+EECS 588 really helps me understand the importance of good habits in programming.
+<class
+id=588
+department=EECS
+sentiment=positive
+taken=true>
+
+Professor Works explains concepts really well and is a cool dude.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+Professor Works links programming concepts to real world examples really well
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+My friends seem to get confused about real world applications of Data Structures in EECS 588.
+<class
+id=588
+department=EECS
+taken=true>
+
+The labs in EECS 588 aren't very engaging or challenging in my opinion.
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true
+sentiment=negative>
+
+The professor in EECS 499 is unpopular with most students in the class.
+<class
+id=499
+department=EECS>
+
+EECS 499 labs are really fun, the problems are like brain teasers, I really enjoy the logic.
+<class
+id=499
+department=EECS
+sentiment=positive
+taken=true>
+
+EECS 425 is a class most students take to just get out of the way, no one enjoys it.
+<class
+id=425
+department=EECS
+sentiment=negative>
+
+EECS 425 is the bane of every students' existence.
+<class
+id=425
+department=EECS
+sentiment=negative>
+
+EECS 425 fails to motivate students by linking concepts to real world applications.
+<class
+id=425
+department=EECS
+sentiment=negative>
+
+EECS 523 was difficult, but the final project was surprisingly fun.
+<class
+id=523
+department=EECS
+difficulty=hard
+taken=true
+sentiment=positive>
+
+I had difficulty understanding classes when taking EECS 523.
+<class
+id=523
+department=EECS
+difficulty=hard
+taken=true>
+
+The first two projects were relatively easy in EECS 523.
+<class
+id=523
+department=EECS
+difficulty=easy
+taken=true>
+
+The exams in EECS 523 are tricky.
+<class
+id=523
+department=EECS
+difficulty=hard>
+
+The first project in EECS 588 should be easy if you had prior CS experience.
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true>
+
+It's important to go to the 12-hour long study session by Vidal.
+<instructor
+name=Garrett
+link=Garrett Seyfried
+sentiment=neutral>
+
+It's important to go to Professor Works's lecture.
+<instructor
+name=Works
+link=Winford Works
+sentiment=neutral>
+
+Prof. Works's lecture recordings help a lot.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+The staff for the EECS courses have been nothing but wonderful. 
+
+EECS 523 was a lot of work, but one of my favorite classes.
+<class
+id=523
+department=EECS
+sentiment=positive
+taken=true
+difficulty=hard>
+
+I have been liking 588 so far.
+<class
+id=588
+sentiment=positive
+taken=true>
+
+If you study the concepts, exams in 523 are less challenging.
+<class
+id=523>
+
+I can't wait to take EECS 388.
+<class
+id=388
+department=EECS
+want-to-take=true
+taken=false>
+
+I hope to take Electronic Sensing Systems.
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+want-to-take=true
+taken=false>
+
+Don't take EECS 425 in the Spring.
+<class
+id=425
+department=EECS
+semester=Spring>
+
+Garrett is good at explaining 588 concepts.
+<instructor
+name=Garrett
+link=Garrett Seyfried
+sentiment=positive>
+<class
+id=588
+instructor=Garrett>
+
+I find the inconsistency between 588 lectures to be jarring and unhelpful.
+<class
+id=588
+taken=true
+sentiment=negative>
+
+My goal is to take EECS 498.
+<class
+id=498
+department=EECS
+want-to-take=true
+taken=false>
+
+Start projects in any EECS class, early, for 588, 388, 216, 545, 523, any of them.
+<class
+id=588
+department=EECS>
+<class
+id=388
+department=EECS>
+<class
+id=216
+department=EECS>
+<class
+id=545
+department=EECS>
+<class
+id=523
+department=EECS>
+
+There should be more consistency between ENG 418/398 and EECS523, we learned things they didn't and vice versa.
+<class
+id=418
+department=ENG>
+<class
+id=398
+department=ENG>
+<class
+id=523
+department=EECS>
+
+I love Computer Science
+
+I was a GSI for EECS 523, and I did not like Prof Schertz at all; I thought she was condescending and rude.
+<class
+id=523
+department=EECS
+instructor=Schertz>
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+I am currently enrolled in Design of Digital Control Systems (EECS 542), and I like the class a lot - Prof Dare makes it fun!
+<class
+id=542
+department=EECS
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+sentiment=positive
+taken=true
+instructor=Dare>
+<instructor
+name=Dare
+link=Marlys Dare
+sentiment=positive>
+
+I am doing Computer and Network Security (EECS 498) this semester, and the class is interesting, but I find it somewhat difficult too.
+<class
+id=498
+department=EECS
+name=Computer and Network Security
+link=Computer and Network Security
+semester=this semester
+sentiment=positive
+difficulty=hard
+taken=true>
+
+I think Prof Marcotte makes some of the materials in his CNS class (EECS 498) harder than they need to be.
+<class
+id=498
+department=EECS
+name=CNS
+link=Computer and Network Security
+instructor=Marcotte
+difficulty=hard>
+<instructor
+name=Marcotte
+link=Leoma Marcotte
+sentiment=negative>
+
+I'm currently a GSI for EECS 417 (Design of Microprocessor Based Systems), and while the class is indeed difficult (which UM class isn't, really?), I did learn a lot of things.
+<class
+id=417
+department=EECS
+name=Design of Microprocessor Based Systems
+link=Design of Microprocessor Based Systems
+difficulty=hard
+taken=false>
+
+I like Prof Albertini and his teaching style - in EECS 417.
+<class
+id=417
+department=EECS
+instructor=Albertini>
+<instructor
+name=Albertini
+link=Myra Albertini
+sentiment=positive>
+
+I did GSI for EECS 561 (Digital Communication Signals and Systems) with Prof Moody, and it was a wonderful experience - one of the best GSIs ever; I learned so many new things.
+<class
+id=561
+department=EECS
+name=Digital Communication Signals and Systems
+link=Digital Communication Signals and Systems
+instructor=Moody
+sentiment=positive
+taken=false>
+<instructor
+name=Moody
+link=Patricia Moody
+sentiment=neutral>
+
+Although I do feel that the course material for EECS 561 (Digital Communication Signals and Systems) was somewhat dry and un-interesting considering UM EECS standard, I feel there need to be some courses like this where students can be freer and more themselves than stressed out and unforgiving.
+<class
+id=561
+department=EECS
+name=Digital Communication Signals and Systems
+link=Digital Communication Signals and Systems
+sentiment=negative>
+
+When selecting courses, I tend to choose the ones where Prof's personality matches mine; otherwise, there can be a lot of friction and subsequent unhappiness, as was the case in EECS 523 with Prof Schertz.
+<class
+id=523
+department=EECS
+instructor=Schertz
+sentiment=negative>
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+I took EECS 388 (Introduction to Digital Signal Processing) with Prof Hutchens; he was nice and articulate, but the class was very demanding.
+<class
+id=388
+department=EECS
+name=Introduction to Digital Signal Processing
+link=Introduction to Digital Signal Processing
+taken=true
+instructor=Hutchens
+sentiment=negative>
+<instructor
+name=Hutchens
+link=Illa Hutchens
+sentiment=positive>
+
+When I compare among all classes I took so far at UM, I feel that EECS 542 (Design of Digital Control Systems) has so far been the best experience (probably because I studied compilers in summer).
+<class
+id=542
+department=EECS
+name=Design of Digital Control Systems
+link=Design of Digital Control Systems
+sentiment=positive
+taken=true>
+
+I think classes should have a component where students get to present, and/or discuss their own ideas/thoughts; I perceived a distinct lack of such activities in EECS 523 lectures and discussions.
+<class
+id=523
+department=EECS
+sentiment=negative>
+
+Overall, EECS 523 turned out to be one of the most disappointing, disgusting, depressing, and disastrous experiences of my time at UM.
+<class
+id=523
+department=EECS
+sentiment=negative>
+
+I feel so relieved and happy that I'm not in EECS 523 any more; I simply couldn't tolerate Prof Schertz.
+<class
+id=523
+department=EECS
+instructor=Schertz
+sentiment=negative>
+<instructor
+name=Schertz
+link=Lorinda Schertz
+sentiment=negative>
+
+Although I didn't want to be a GSI this Fall, I do feel happy that I'm GSI'ing for Prof Albertini in 417; our personalities match up nicely.
+<class
+id=417
+instructor=Albertini
+sentiment=neutral>
+<instructor
+name=Albertini
+link=Myra Albertini
+sentiment=positive>
+
+I like EECS 388.
+<class
+id=388
+department=EECS
+sentiment=positive>
+
+I think I need to take 453 again, or at least do the projects.
+<class
+id=453
+taken=true
+want-to-take=true>
+
+EECS583 is ... interesting, The instructor, less so.
+<class
+id=583
+department=EECS
+sentiment=positive>
+
+I learned a lot from data structure and algorithms.
+<class
+name=data structure and algorithms
+link=Data Structures and Algorithms
+taken=true>
+
+I wanna take 216 next semester.
+<class
+id=216
+semester=next semester
+want-to-take=true>
+
+I like Meza's 388.
+<class
+id=388
+instructor=Meza
+sentiment=positive
+taken=true>
+<instructor
+name=Meza
+link=Suellen Meza
+sentiment=neutral>
+
+I don't like Albertini's 417, it's not really interesting.
+<class
+id=417
+instructor=Albertini
+sentiment=negative>
+<instructor
+name=Albertini
+link=Myra Albertini
+sentiment=neutral>
+
+I actually enjoy 498(CNS), and I met some grad students.
+<class
+id=498
+name=CNS
+link=Computer and Network Security
+sentiment=positive
+taken=true>
+
+I think 588 is ok.
+<class
+id=588
+sentiment=neutral>
+
+545 is ok i guess.
+<class
+id=545
+sentiment=neutral>
+
+579 is fun, but tough since I do projects mostly on my own.
+<class
+id=579
+difficulty=hard
+sentiment=positive
+taken=true>
+
+I like 579, but I wish i have 48 hours a day.
+<class
+id=579
+sentiment=positive
+taken=true>
+
+417 is so-so, very boring material i think.
+<class
+id=417
+sentiment=negative
+taken=true>
+
+Works is very fun, but he's sometimes not the most knowledgable one, but the most funny one.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+419 is sooooo hard, despite the fact that prof Hargreaves is really smart and he looks like the bad guy in ant man.
+<class
+id=419
+difficulty=hard
+taken=true
+instructor=Hargreaves>
+<instructor
+name=Hargreaves
+link=Garnett Hargreaves
+sentiment=positive>
+
+Professor Marcotte is organizing the course clearly
+<instructor
+name=Marcotte
+link=Leoma Marcotte
+sentiment=positive>
+
+I had a great time taking EECS 545.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+Projects of EECS 388 are really time-consuming
+<class
+id=388
+department=EECS
+taken=true>
+
+I wish I had taken EECS528 because it gives theory foundations of computer science
+<class
+id=528
+department=EECS
+taken=false>
+
+Biomedical Instrumentation is not as practical as I thought
+<class
+name=Biomedical Instrumentation
+link=Biomedical Instrumentation and Design>
+
+We don't need 417 to do well in electronic sensing systems course although it is a prerequisite
+<class
+id=417>
+<class
+name=electronic sensing systems
+link=Electronic Sensing Systems>
+
+I think EECS692 and EECS561 are both heavy courses and it is not recommended to take them simultaneously
+<class
+id=692
+department=EECS
+difficulty=hard>
+<class
+id=561
+department=EECS
+difficulty=hard>
+
+I think EECS 388 should be taken as early as possible
+<class
+id=388
+department=EECS>
+
+I don't like EECS 282 because the homework is far more difficult than the material in the lecture
+<class
+id=282
+department=EECS
+sentiment=negative
+difficulty=hard>
+
+Profssor Sharyl Trees is always helpful in debugging OS projects
+<instructor
+name=Sharyl Trees
+link=Sharyl Trees
+sentiment=positive>
+
+EECS 430 and EECS 453 are both indispensable if you want to do computer architecture
+<class
+id=430
+department=EECS>
+<class
+id=453
+department=EECS>
+
+The material of EECS 417 varies a lot depending on the instructor
+<class
+id=417
+department=EECS>
+
+The lecture of EECS 230 is dry but it is really relevant to the homework
+<class
+id=230
+department=EECS>
+
+Marco Hiett is a great lecturer
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+
+The grading of EECS 561 is strigent
+<class
+id=561
+department=EECS>
+
+EECS 434 has a heavy workload.
+<class
+id=434
+department=EECS
+difficulty=hard>
+
+I don't like Dr. Albertini's lecturing style.
+<instructor
+name=Albertini
+link=Myra Albertini
+sentiment=negative>
+
+EECS 388 should be really useful in the future.
+<class
+id=388
+department=EECS
+sentiment=positive>
+
+I heard that many people spend a great chunk of their time working on EECS 216.
+<class
+id=216
+department=EECS
+difficulty=hard>
+
+I like Dr. Wingate.
+<instructor
+name=Wingate
+link=Jacquelynn Wingate
+sentiment=positive>
+
+This year's EECS 417 sucks.
+<class
+id=417
+department=EECS
+sentiment=negative>
+
+Dr Netherton's lectures are joyful, I like taking Dr Netherton's lectures.
+<instructor
+name=Netherton
+link=Lisha Netherton
+sentiment=positive>
+
+EECS 545 is interesting.
+<class
+id=545
+department=EECS
+sentiment=positive>
+
+When will the Thriving in a Digital World class be offered?
+<class
+name=Thriving in a Digital World
+link=Thriving in a Digital World>
+
+EECS 425 homework is really hard.
+<class
+id=425
+department=EECS
+difficulty=hard>
+
+Many people do not like Dr Meals.
+<instructor
+name=Meals
+link=Arlyne Meals
+sentiment=negative>
+
+I heard EECS 498 is interesting.
+<class
+id=498
+department=EECS
+sentiment=positive>
+
+I heard that EECS 591 is too easy to be a 400-level class.
+<class
+id=591
+department=EECS
+difficulty=easy>
+
+EECS 583's projects are really frustrating.
+<class
+id=583
+department=EECS>
+
+Many people drop EECS 388.
+<class
+id=388
+department=EECS>
+
+I was scared to take EECS 216 because it seemed difficult.
+<class
+id=216
+department=EECS
+difficulty=hard
+taken=true>
+
+EECS 388 was not fun.
+<class
+id=388
+department=EECS
+sentiment=negative>
+
+Professor Calvin was a great professor.
+<instructor
+name=Calvin
+link=Angeline Calvin
+sentiment=positive>
+

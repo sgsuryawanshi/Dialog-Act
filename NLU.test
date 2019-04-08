@@ -1,0 +1,1171 @@
+Professor Bunde was the best professor I have ever had.
+<instructor
+name=Bunde
+link=Kattie Bunde
+sentiment=positive>
+
+EECS 520 was a thrilling class.
+<class
+id=520
+department=EECS
+sentiment=positive>
+
+I enjoyed my independent study courses.
+
+I don't like C++ as a language.
+
+I met my girlfriend in an engineering class.
+
+I didn't find data structures and algorithms to be useful in my career.
+<class
+name=data structures and algorithms
+link=Data Structures and Algorithms
+sentiment=negative
+taken=true>
+
+I struggled in my Mobile App Development class.
+<class
+name=Mobile App Development
+link=Mobile App Development for Entrepreneurs
+difficulty=hard
+taken=true>
+
+I wish I had taken more humanities courses.
+
+I thought EECS 579 was easy for the first half and very hard for the second half.
+<class
+id=579
+department=EECS
+difficulty=hard
+taken=true>
+
+I wish the EECS department had a more diverse staff.
+
+I liked the classes where I was given more creative freedom.
+
+I enjoyed the LC2K portions of EECS 545.
+<class
+id=545
+department=EECS
+sentiment=positive
+taken=true>
+
+Data mining is a very interesting and useful course.
+<class
+name=Data mining
+link=Data Mining
+sentiment=positive>
+
+Professor Moody is my favorite teacher that I've had so far.
+<instructor
+name=Moody
+link=Patricia Moody
+sentiment=positive>
+
+Professor Shawnna is a very nice and patient teacher.
+<instructor
+name=Shawnna
+link=Shawnna Tyrrell
+sentiment=positive>
+
+Biomedical Instrumentation and Design is a core course that everyone should take because it is fundamental for data science.
+<class
+name=Biomedical Instrumentation and Design
+link=Biomedical Instrumentation and Design
+sentiment=positive>
+
+Design of microprocessor based systems is not very useful in job hunting but covers a lot in artificial intelligence history.
+<class
+name=Design of microprocessor based systems
+link=Design of Microprocessor Based Systems
+sentiment=negative>
+
+Digital communication theory is a cool course but it is very hard.
+<class
+name=Digital communication theory
+link=Digital Commun Thry
+sentiment=positive
+difficulty=hard>
+
+EECS 545 requires that you have a very solid math background.
+<class
+id=545
+department=EECS>
+
+EECS 541 is the foundation for signal processing and it is very useful.
+<class
+id=541
+department=EECS
+sentiment=positive>
+
+The learning curve for EECS 541 is not very deep but requires a lot of practice.
+<class
+id=541
+department=EECS
+difficulty=neutral>
+
+EECS 282 is an awesome class that teaches you the power of SVD and EVD.
+<class
+id=282
+department=EECS
+sentiment=positive>
+
+Darius is a very good professor and he is very clear about what he is teaching and he is a math genius.
+<instructor
+name=Darius
+link=Darius Goshorn
+sentiment=positive>
+
+EECS 314 is very useful if you want to pursue an advanced degree in signal processing.
+<class
+id=314
+department=EECS
+sentiment=positive>
+
+Electronic Sensing Systems is a very hot topic and the courses taught here is very interesting because you can get a good understanding of the math behind
+<class
+name=Electronic Sensing Systems
+link=Electronic Sensing Systems
+sentiment=positive>
+
+Professor Zenaida is a little bit fast when he is teaching EECS 230 and his research area is reinforcement learning
+<class
+id=230
+department=EECS
+instructor=Zenaida>
+<instructor
+name=Zenaida
+link=Zenaida Dorton
+sentiment=neutral>
+
+EECS 453 is very hard and takes a lot of time to complete the projects.
+<class
+id=453
+department=EECS
+difficulty=hard
+taken=true>
+
+Eecs 545 was the bomb!
+<class
+id=545
+department=Eecs
+taken=true
+sentiment=positive>
+
+I thought 453 was interesting but difficult.
+<class
+id=453
+difficulty=hard
+sentiment=positive
+taken=true>
+
+I want to take 561 but I heard it is very time consuming.
+<class
+id=561
+want-to-take-true
+difficulty=hard
+taken=false>
+
+Eecs 498 seems like a cool class.
+<class
+id=498
+department=Eecs
+sentiment=positive>
+
+Eecs 388 was a lot of fun.
+<class
+id=388
+department=Eecs
+sentiment=positive>
+
+I thought 583 was boring but useful.
+<class
+id=583
+sentiment=neutral>
+
+I have really enjoyed eecs 520 so far.
+<class
+id=520
+department=eecs
+sentiment=positive
+taken=true>
+
+The eecs 520 professors really care.
+<class
+id=520
+department=eecs>
+
+I hate eecs 545.
+<class
+id=545
+department=eecs
+sentiment=negative>
+
+Bunde is so funny and so smart
+<instructor
+name=Bunde
+link=Kattie Bunde
+sentiment=positive>
+
+I want to taste the bread that Caroyln Bravo bakes
+<instructor
+name=Caroyln Bravo
+link=Caroyln Bravo
+sentiment=neutral>
+
+Granville Cheney was the coolest professor ever
+<instructor
+name=Granville Cheney
+link=Granville Cheney
+sentiment=positive>
+
+Im debating whether or not I should take 417
+<class
+id=417>
+
+I don't know much about eecs 230
+<class
+id=230
+department=eecs>
+
+I did not enjoy eecs 588
+<class
+id=588
+department=eecs
+taken=true
+sentiment=negative>
+
+EECS 528 was a super hard class.
+<class
+id=528
+department=EECS
+difficulty=hard
+taken=true>
+
+I really struggled to understand the concepts in 528.
+<class
+id=528
+difficulty=hard
+taken=true>
+
+EECs 388 was challenging but I learned A LOT.
+<class
+id=388
+department=EECs
+difficulty=hard
+taken=true>
+
+You want Professor Mclennan for 528.
+<class
+id=528
+instructor=Mclennan>
+<instructor
+name=Mclennan
+link=Russel Mclennan
+sentiment=positive>
+
+EECS 579 was my favorite class.
+<class
+id=579
+department=EECS
+sentiment=positive
+taken=true>
+
+I thought 579 gives you a lot of practical knowledge. 
+<class
+id=579>
+
+Works was a cool professor.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+EECS 388 takes up a lot of time.
+<class
+id=388
+department=EECS
+difficulty=hard>
+
+Prepare to not have a social life when you take 388.
+<class
+id=388
+difficulty=hard>
+
+EECS 578 wasn't well structured.
+<class
+id=578
+department=EECS
+sentiment=negative>
+
+The professor for 578 didn't seem very well prepared.
+<class
+id=578
+sentiment=negative>
+
+The group project in 695 was pretty hard.
+<class
+id=695
+difficulty=hard
+taken=true>
+
+I thought 588 was a waste of time.
+<class
+id=588
+taken=true
+sentiment=negative>
+
+Don't bother going to 388 lecture.
+<class
+id=388
+sentiment=negative>
+
+388 was a very useful class but the exams were a little unrealistic.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+EECS 230 with Lisha Netherton was very helpful and I could learn lot of Math in it.
+<class
+id=230
+department=EECS
+taken=true
+instructor=Lisha Netherton>
+<instructor
+name=Lisha Netherton
+link=Lisha Netherton
+sentiment=positive>
+
+I personally felt that EECS 995 could be taught much better and could be made easy to understand.
+<class
+id=995
+department=EECS
+taken=true
+sentiment=negative>
+
+EECS 373 is not super heavy in work load and is doable.
+<class
+id=373
+department=EECS
+difficulty=easy>
+
+EECS 388 is a very useful course to develop presentation skills and paper writing.
+<class
+id=388
+department=EECS
+sentiment=positive>
+
+EECS 542 assignments could be much clearer than they are now.
+<class
+id=542
+department=EECS
+sentiment=negative>
+
+EECS 498 is more about linguistics and its study.
+<class
+id=498
+department=EECS>
+
+Assignments for EECS 995 very really really difficult and I expected them to be solved in groups.
+<class
+id=995
+department=EECS
+difficulty=hard
+taken=true>
+
+Grading for EECS 995 was harsh I felt.
+<class
+id=995
+department=EECS
+sentiment=negative
+difficulty=hard>
+
+The office hours for EECS 230 very really really useful.
+<class
+id=230
+department=EECS
+taken=true>
+
+The GSI for EECS 230 was very helpful and clear in his tutorial classes.
+<class
+id=230
+department=EECS
+taken=true>
+
+There were a bit more paper readings in EECS 373 and I think they can be reduced in number.
+<class
+id=373
+department=EECS
+taken=true>
+
+I feel EECS 995 was meant for graduate students in Electronic Circuits and not for others.
+<class
+id=995
+name=Electronic Circuits
+link=Electronic Circuits
+department=EECS>
+
+The instructor for EECS 388 was excellent and informative.
+<class
+id=388
+department=EECS
+taken=true>
+
+EECS 995 is super tough for students who haven't pursued algorithms in depth.
+<class
+id=995
+department=EECS
+difficulty=hard>
+
+The instructor for EECS 373 was very enthusiastic and developed the same among the students.
+<class
+id=373
+department=EECS>
+
+Professor Works and Marco Hiett are very interactive and engaging professors
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+<instructor
+name=Marco Hiett
+link=Marco Hiett
+sentiment=positive>
+
+EECS 579 is a great buffer course if you're familiar with the web and it gives you upper level credit
+<class
+id=579
+department=EECS
+difficulty=easy>
+
+EECS 453 and EECS 216 are two of the toughest classes. Their time commitments are huge so beware.
+<class
+id=453
+department=EECS
+difficulty=hard>
+<class
+id=216
+department=EECS
+difficulty=hard>
+
+Professor Winter Viviano teaches in a mono-tone about incredibly tough topics (machine learning) so be prepared to a learn a lot of it yourself
+<instructor
+name=Winter
+link=Winter Viviano
+sentiment=negative>
+
+EECS 425 is not taught well and topics are complex
+<class
+id=425
+department=EECS
+sentiment=negative
+difficulty=hard>
+
+EECS 528 has by far been the most useless class I have taken since I didn't learn anything or applied it anywhere
+<class
+id=528
+department=EECS
+sentiment=negative
+taken=true>
+
+EECS 520 is an awesome class taught by Caroyln Bravo and Kattie Bunde, who are also great
+<class
+id=520
+department=EECS
+instructor=Caroyln Bravo,Kattie Bunde
+sentiment=positive
+taken=true>
+<instructor
+name=Caroyln Bravo
+link=Caroyln Bravo
+sentiment=positive>
+<instructor
+name=Kattie Bunde
+link=Kattie Bunde
+sentiment=positive>
+
+Always check out EECS 561 special topics listing for some really cool courses
+<class
+id=561
+department=EECS>
+
+EECS 588 and 388 should be taken as soon as possible because they're the gateway courses to a lot of upper level classes
+<class
+id=588
+department=EECS>
+<class
+id=388
+department=EECS>
+
+Rosita Willeford is a great professor who teaches robotics and other cool stuff
+<instructor
+name=Rosita Willeford
+link=Rosita Willeford
+sentiment=positive>
+
+Professor Patricia Moody is a really nice and knowledgeable person and her information retrieval class was great 
+<class
+name=information retrieval
+link=Special Topics
+sentiment=positive
+instructor=Patricia Moody>
+<instructor
+name=Patricia Moody
+link=Patricia Moody
+sentiment=positive>
+
+Professor Clementine Wehmeyer is one of the nicest professors I've had at Michigan. Take her classes
+<instructor
+name=Clementine Wehmeyer
+link=Clementine Wehmeyer
+sentiment=positive>
+
+EECS 578 is an extremely easy class about user interface design and can serve as a great buffer course
+<class
+id=578
+department=EECS
+difficulty=easy
+sentiment=positive
+taken=true>
+
+EECS 453 may be incredibly tough but its a very enlightening class that teaches you a lot about advanced programming
+<class
+id=453
+department=EECS
+difficulty=hard
+taken=true
+sentiment=positive>
+
+I haven't taken EECS 216 but I've learned that you become a C++ god if you take it and get all the jobs you want aftterwards
+<class
+id=216
+department=EECS
+taken=false
+sentiment=positive>
+
+Engr 398 has good material, but it was way below my level.
+<class
+id=398
+department=Engr
+sentiment=positive
+difficulty=easy
+taken=true>
+
+The engr 398 prof, Hulda Grief, didn't really seem to care about the class at all.
+<class
+id=398
+department=engr
+instructor=Hulda Grief>
+<instructor
+name=Hulda Grief
+link=Hulda Grief
+sentiment=negative>
+
+Hulda Grief wasn't very helpful during office hours.
+<instructor
+name=Hulda Grief
+link=Hulda Grief
+sentiment=negative>
+
+I felt like 398 was really poorly taught.
+<class
+id=398
+sentiment=negative>
+
+I didn't want to take ENGR 100, but it turned out to be really great.
+<class
+id=100
+department=ENGR
+sentiment=positive
+want-to-take=false
+taken=true>
+
+Ema Pillar was my professor for engr 100.
+<class
+id=100
+department=engr
+instructor=Ema Pillar>
+<instructor
+name=Ema Pillar
+link=Ema Pillar>
+
+Professor Pillar teaches engr 100 really great.  He is a great lecturer and he is really passionate about the class material.
+<class
+id=100
+department=engr
+instructor=Ema Pillar>
+<instructor
+name=Ema Pillar
+link=Ema Pillar
+sentiment=positive>
+
+Prof Pillar is a really cool guy.
+<instructor
+name=Ema Pillar
+link=Ema Pillar
+sentiment=positive>
+
+EECS 588 was way too easy.
+<class
+id=588
+department=EECS
+difficulty=easy
+taken=true>
+
+I had Professor Bravo for EECS 588.
+<class
+id=588
+department=EECS
+taken=true
+instructor=Bravo>
+<instructor
+name=Bravo
+link=Caroyln Bravo>
+
+Caroyln Bravo was a good lecturer during EECS588, but he wasn't helpful at all during office hours.
+<class
+id=588
+department=EECS
+taken=true
+instructor=Bravo>
+<instructor
+name=Bravo
+link=Caroyln Bravo>
+
+Professor Bravo seems arrogant.
+<instructor
+sentiment=negative
+name=Bravo
+link=Caroyln Bravo>
+
+EECS 588 was a really miserable experience.
+<class
+id=588
+department=EECS
+sentiment=negative
+taken=true>
+
+the 588 homework was pointless
+<class
+id=588
+sentiment=negative
+taken=true>
+
+I had to take eecs 588 even though I didn't want to.
+<class
+id=588
+department=eecs
+want-to-take=false
+taken=true>
+
+The projects in eecs 588 were really lame.
+<class
+id=588
+department=eecs
+sentiment=negative
+taken=true>
+
+I like the material in eecs 499, but the course progressed way too slowly.
+<class
+id=499
+department=eecs
+sentiment=negative
+taken=true>
+
+Owen Saad is a good teacher who is very knowledgeable, but he is not a good lecturer.
+<instructor
+name=Owen Saad
+link=Owen Saad
+sentiment=negative>
+
+Owen Saad was my professor for eecs 499.
+<class
+id=499
+department=eecs
+instructor=Owen Saad
+taken=true>
+<instructor
+name=Owen Saad
+link=Owen Saad>
+
+Professor Saad seems grumpy at first, but he is a really nice guy.
+<instructor
+name=Saad
+link=Owen Saad
+sentiment=positive>
+
+eecs 499 has really great hands on portions.
+<class
+id=499
+department=eecs
+sentiment=positive
+taken=true>
+
+The labs for eecs 499 probably the coolest labs for any 200 level class.
+<class
+id=499
+department=eecs
+sentiment=positive
+taken=true>
+
+The exams for 499 were too difficult.
+<class
+id=499
+sentiment=negative
+difficulty=hard
+taken=true>
+
+I enjoyed eecs 421, but most of my classmates didn't.
+<class
+id=421
+department=eecs
+sentiment=positive
+taken=true>
+
+The labs in EECS 421 were fun, but they weren't educational at all.
+<class
+id=421
+department=EECS
+sentiment=positive
+taken=true>
+
+Letty Ludlum, my eecs 421 professor, was helpful during office hours, but his lectures were really slow.
+<class
+id=421
+department=eecs
+instructor=Letty Ludlum>
+<instructor
+name=Letty Ludlum
+link=Letty Ludlum
+sentiment=positive>
+
+The lectures for EECS 421 weren't very good.
+<class
+id=421
+department=EECS
+sentiment=negative
+taken=true>
+
+421 prepared me well for upper level classes
+<class
+id=421
+sentiment=positive
+taken=true>
+
+There is a huge amount of homework in eecs421, but it's all really easy.
+<class
+id=421
+department=eecs
+difficulty=easy
+taken=true>
+
+421 is a weeder class.
+<class
+id=421>
+
+Professor Letty is a huge dork, but he's friendly.
+<instructor
+name=Letty
+link=Letty Ludlum
+sentiment=positive>
+
+I didn't want to take eecs 417, but I had to.
+<class
+id=417
+department=eecs
+want-to-take=false
+taken=true>
+
+I thought that Prof. Woodall was a good lecturer, but none of my classmates agreed.
+<instructor
+name=Woodall
+link=Antonietta Woodall
+sentiment=positive>
+
+eecs 417 was very boring.
+<class
+id=417
+department=eecs
+sentiment=negative
+taken=true>
+
+The material in eecs 388 is very interesting.
+<class
+id=388
+department=eecs
+sentiment=positive
+taken=true>
+
+The way that eecs 388 projects are graded really sucks.  If you mess up even a single like, you fail the test case.
+<class
+id=388
+department=eecs
+sentiment=negative
+taken=true>
+
+388 prepared me well for upper level classes.
+<class
+id=388
+sentiment=positive
+taken=true>
+
+Even though I didn't do well in eecs 388 I liked a lot.
+<class
+id=388
+department=eecs
+performance=poor
+sentiment=positive
+taken=true>
+
+I wish I had worked harder in eecs 388.
+<class
+id=388
+department=eecs
+taken=true>
+
+I liked eecs 388 a lot better than I liked eecs 588.
+<class
+id=388
+department=eecs
+sentiment=positive
+taken=true>
+<class
+id=588
+taken=true>
+
+Professor Works was a really good lecturer.  He obviously likes the course material a lot.
+<instructor
+name=Works
+link=Winford Works
+sentiment=positive>
+
+The eecs 388 projects were cool.
+<class
+id=388
+department=eecs
+sentiment=positive
+taken=true>
+
+Even though I got a C+ in eecs 388, I understood the course material really well.
+<class
+id=388
+department=eecs
+performance=poor
+taken=true>
+
+I think the material taught in eecs 545 is really interesting, but it is poorly taught.
+<class
+id=545
+department=eecs
+sentiment=positive
+taken=true>
+
+EECS 545 was taught by 3 professors; Tod Castaldo, Marlys Dare, and Karyn Woodman.
+<class
+id=545
+department=EECS
+instructor=Tod Castaldo,Marlys Dare,Karyn Woodman>
+<instructor
+name=Tod Castaldo
+link=Tod Castaldo>
+<instructor
+name=Marlys Dare
+link=Marlys Dare>
+<instructor
+name=Karyn Woodman
+link=Karyn Woodman>
+
+The projects in eecs 545 are very disappointing.
+<class
+id=545
+department=eecs
+sentiment=negative>
+
+Professor Castaldo is a really nice guy, but he isn't a good lecturer.
+<instructor
+name=Castaldo
+link=Tod Castaldo
+sentiment=negative>
+
+Professor Castaldo's section of eecs 545 wasn't very good.
+<class
+id=545
+department=eecs
+instructor=Castaldo>
+<instructor
+name=Castaldo
+link=Tod Castaldo
+sentiment=negative>
+
+Professor Castaldo was helpful during office hours.
+<instructor
+name=Castaldo
+link=Tod Castaldo
+sentiment=positive>
+
+I didn't learn very much in eecs 545.
+<class
+id=545
+department=eecs
+sentiment=negative
+taken=true>
+
+Most of the 545 lectures were very boring.
+<class
+id=545
+department=eecs
+sentiment=negative
+taken=true>
+
+eecs 545 was difficult for my classmates who hadn't taken eecs 499.
+<class
+id=545
+department=eecs
+taken=true>
+<class
+id=499
+department=eecs>
+
+Professor Karyn is an interesting guy.
+<instructor
+name=Karyn
+link=Karyn Woodman
+sentiment=positive>
+
+Professor Karyn was always very helpful during office hours.
+<instructor
+name=Karyn
+link=Karyn Woodman
+sentiment=positive>
+
+eecs 430 is the most interesting class I've ever taken.
+<class
+id=430
+department=eecs
+sentiment=positive
+taken=true>
+
+I had Carmon Saito for eecs 430.
+<class
+id=430
+department=eecs
+instructor=Carmon Saito
+taken=true>
+<instructor
+name=Carmon Saito
+link=Carmon Saito>
+
+Professor Saito's lectures are really clear.
+<instructor
+name=Saito
+link=Carmon Saito
+sentiment=positive>
+
+Prof. Saito is always really helpful during office hours
+<instructor
+name=Saito
+link=Carmon Saito
+sentiment=positive>
+
+There is a massive amount of homework in 430.
+<class
+id=430
+sentiment=negative>
+
+The labs for 430 were boring and pointless.
+<class
+id=430
+sentiment=negative
+taken=true>
+
+The final project for 430 takes a huge amount of time, but it was really fun and interesting to work on.
+<class
+id=430
+sentiment=positive
+taken=true>
+
+Carmon Saito always has cool stories during lecture
+<instructor
+name=Carmon Saito
+link=Carmon Saito
+sentiment=positive>
+
+I really enjoyed taking 430.
+<class
+id=430
+sentiment=positive
+taken=true>
+
+I really hated taking eecs 411, but I had to take it.
+<class
+id=411
+department=eecs
+sentiment=negative
+taken=true>
+
+I had professor Santina Nakamura for 411.
+<class
+id=411
+instructor=Santina Nakamura
+taken=true>
+<instructor
+name=Santina Nakamura
+link=Santina Nakamura>
+
+Professor Nakamura is very helpful, but he's not too friendly.
+<instructor
+name=Nakamura
+link=Santina Nakamura
+sentiment=positive>
+
+The lecture slides for eecs 411 were good.
+<class
+id=411
+department=eecs
+sentiment=positive>
+
+Santina Nakamura grades really hard on the homework assignments in 411.
+<class
+id=411
+instructor=Santina Nakamura
+taken=true>
+<instructor
+name=Santina Nakamura
+link=Santina Nakamura>
+
+411 feels like a really pointless class.
+<class
+id=411
+sentiment=negative
+taken=true>
+
+EECS561 was a really interesting class, but it's a lot of work.
+<class
+id=561
+department=EECS
+sentiment=positive
+difficulty=hard
+taken=true>
+
+When I took 561, Rosita Willeford was the professor.
+<class
+id=561
+instructor=Rosita Willeford
+taken=true>
+<instructor
+name=Rosita Willeford
+link=Rosita Willeford>
+
+Professor Willeford was one of the best professors I've had at U of M.
+<instructor
+name=Rosita Willeford
+link=Rosita Willeford
+sentiment=positive>
+
+Professor Willeford is really intelligent and is always willing to help.
+<instructor
+name=Willeford
+link=Rosita Willeford
+sentiment=positive>
+
+561 is graded really tough.
+<class
+id=561
+difficulty=hard>
+
+The GSIs for 561 were really helpful.
+<class
+id=561>
+
+The 561 labs were interesting, but they were time consuming.
+<class
+id=561
+sentiment=positive
+taken=true>
+
+The final project for 561 was really fun.
+<class
+id=561
+sentiment=positive
+taken=true>
+
+Professor Willeford should have had more office hours.
+<instructor
+name=Willeford
+link=Rosita Willeford
+sentiment=negative>
+
+Almost every question asked during class was answered clearly by professor Willeford.
+<instructor
+name=Willeford
+link=Rosita Willeford
+sentiment=positive>
+
+Professor Willeford didn't have enough office hours.
+<instructor
+name=Willeford
+link=Rosita Willeford
+sentiment=negative>
+
+EECS 589 was a really boring class.
+<class
+id=589
+department=EECS
+sentiment=negative
+taken=true>
+
+Lynna Fajardo taught eecs 589 when I took it.
+<class
+id=589
+department=eecs
+instructor=Lynna Fajardo
+taken=true>
+<instructor
+name=Lynna Fajardo
+link=Lynna Fajardo>
+
+The exams in eecs 589 were too hard.
+<class
+id=589
+department=eecs
+difficulty=hard
+sentiment=negative
+taken=true>
+
+Professor Fajardo is really good at answering questions in a clear way
+<instructor
+name=Fajardo
+link=Lynna Fajardo
+sentiment=positive>
+
+Professor Fajardo always had funny stories to tell during class.  Sometimes he would use his funny stories to explain a concept more clearly.
+<instructor
+name=Fajardo
+link=Lynna Fajardo
+sentiment=positive>
+
+Even though I didn't like eecs 589, professor Fajardo was nice.
+<class
+id=589
+department=eecs
+instructor=Fajardo
+taken=true
+sentiment=negative>
+<instructor
+name=Fajardo
+link=Lynna Fajardo
+sentiment=positive>
+
+Professor Fajardo is very patient.
+<instructor
+name=Fajardo
+link=Lynna Fajardo
+sentiment=positive>
+
+Professor Fajardo was always helpful during office hours.
+<instructor
+name=Fajardo
+link=Lynna Fajardo
+sentiment=positive>
+

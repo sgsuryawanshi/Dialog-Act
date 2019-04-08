@@ -1,0 +1,1123 @@
+Advisor: [social-open-close]  Hello there. What can I do for you? 
+Student: Hey! I'm trying to figure out what classes to take next semester. 
+Advisor: [pull-fill]  Well, which classes are you already considering? 
+Student: Well, I'm just coming out of EECS 281 so I'm trying to figure out what upper level CS courses I should take mainly. 
+Advisor: [pull-select]  EECS 281 opens a lot of doors. Do you prefer high level or low level programming? 
+Student: I really liked 370 actually, so I'm thinking something lower level would be more my speed. 
+Advisor: [push-general-info]  Many students who like low level programming take EECS 482, Intro. to Operating Systems. While this is a difficult class, most students consider it to be very helpful later on. 
+Student: Oh! That actually sounds like a good idea. When you say difficult, are you talking in terms of workload? I want to still take some humanites next semester as well. 
+Advisor: [push-conditional]  482 can be a very heavy load and so creates a very busy semester when paired with other EECS classes, but in general most students find it can be comfortably taken with humanities class. 
+Student: That sounds like a plan then! I think that's most of what I was worried about. Thanks for your help! 
+Advisor: [social-open-close]  Of course young man. Always happy to help! 
+
+Student: Hello, I was wondering if I could take any classes outside of EECS next semester? I want to see what other classes are like. 
+Advisor: [push-general-info]  Of course! However, I can't advise any specific courses that are outside of EECS. 
+Student: Okay, do you think I will still be able to fulfill my requirements even if I take a class outside my major? 
+Advisor: [pull-other]  As I can see, you need to take 28 more credits during the next year. So if you take 14 credits each semester, you should be fine. 
+Student: Great, it's good to know that I'm on track for graduating on time. Thanks a lot! 
+Advisor: [social-open-close]  No problem! If you have any other questions, you can come to the office or send me an email. 
+
+Advisor: [social-open-close]  Hello Elaine! 
+Student: Hello 
+Student: I was wondering if you needed to take EECS 203 before taking EECS 281 
+Advisor: [push-general-info]  You do have to take EECS 203 before EECS 281 as it is a requirement 
+Advisor: [pull-fill]  What classes are you thinking of taking this semester 
+Student: I am thinking of taking EECS 203, MATH 216, and Physics 140 
+Student: Maybe a psych class but I'm not sure yet 
+Student: I want to get a dope internship and I feel like all those classes are important 
+Advisor: [pull-bool]  Are you also majoring in Psych? 
+Student: I am thinking of double majoring psych and cs 
+Advisor: [pull-other]  How many classes do you want to take in total 
+Student: I want to take 16 credits 
+Advisor: [pull-bool]  Have you taken that many before? 
+Student: nope 
+Student: But I took 15 one semester so it can't be that different 
+Advisor: [push-tailored-info]  Try taking stats 250 instead of physics 140. It will balance your schedule better. 
+Student: You are the best advisor I have ever had! 
+Advisor: [social-open-close]  I am pretty hype. See you later! 
+
+Student: Hi! 
+Advisor: [pull-other]  Hello 
+Advisor: [pull-other]  What can I help you with today? 
+Student: I am interested in UI and would like to take EECS 493 next semester. 
+Student: Are there any pre-requisites for the class? 
+Advisor: [push-tailored-info]  It looks like you've completed the pre-requisites so you can take the class. 
+Student: Great! 
+Student: I am interested in Web in general. Is there any class you would recommend taking with 493? 
+Advisor: [push-tailored-info]  EECS 485 is Web Database and Information Systems, so it may be a good fit for you. 
+Student: How heavy is the workload for these two classes? 
+Advisor: [push-general-info]  EECS 493 is a low-medium workload, while EECS 485 is medium-high 
+Student: Do you think it is okay to take a third EECS class with these two? 
+Advisor: [push-tailored-info]  If you do, I'd suggest you take something that is easier such as EECS 477 
+Student: I'll look into that. Thank you so much! 
+
+Advisor: [social-open-close]  Hi there! 
+Advisor: [pull-fill]  How may I help you? 
+Student: Hi! I am trying to plan my schedule next semester and I need help selecting courses to take 
+Advisor: [pull-select]  Okay. Are you a Computer Science or Electrical Engineering Major? 
+Student: I am an Electrical Engineering Major 
+Advisor: [pull-fill]  What criteria are you basing your selection off of? 
+Student: I'd like the easiest semester possible, not too many crazy all nighters! 
+Advisor: [push-conditional]  Students that take EECS 281 usually pull all nighters, as the course is project based 
+Advisor: [push-tailored-info]  Based off of your major and your preferences, I recommend taking EECS 470 
+Student: ok, that sounds interesting, any other class that would work alongside that? 
+Advisor: [push-general-info]  EECS 376 is another course that is not project based. 
+Advisor: [push-tailored-info]  However, taking the two together could be difficult 
+Student: OK, thank you. 
+Advisor: [push-conditional]  If you want to base your schedule purely on difficulty, I recommend taking a look at the online course workload survey 
+Student: ok awesome thanks for all your help! 
+Student: bye! 
+Advisor: [social-open-close]  You are welcome. Have a nice day 
+
+Student: hello 
+Student: Hi I was debating when I should take EECS 281 
+Advisor: [push-general-info]  Hi Kevin! EECS 281 is a necessary course if you want to major in CSE. 
+Student: Alright, is it typically a high work load course? 
+
+Student: hello 
+Advisor: [social-open-close]  Hello 
+Student: hi. how difficult is eecs407? 
+Advisor: [push-general-info]  eecs407 is only 1 credit, thus this will be a fairly easy class. 
+Advisor: [push-tailored-info]  I suggest taking another class since you have already taken this class 
+Student: what do you suggest that i take next semester? 
+Advisor: [push-tailored-info]  Eecs493 is a good class if you are interested in front-end developement and need upper level CS credits. 
+Advisor: [pull-bool]  Does this sound like a class you might be interested in? 
+Student: no 
+Advisor: [pull-bool]  Are you looking for an upper level cs class? 
+Student: yes i am 
+Student: what is a good flex tech credit 
+Advisor: [push-general-info]  Classes in School of Information are good for fulfilling flex tech credits 
+Student: great thank you 
+Student: good bye 
+Advisor: [social-open-close]  You're welcome! Bye 
+
+Advisor: [social-open-close]  Hello 
+Student: Hi, 
+Student: How was your weekend? 
+Advisor: [social-open-close]  Good. Thank you. 
+Student: I was wondering what course I can take next term? 
+Advisor: [social]  I see you have taken many math related course. 
+Advisor: [pull-bool]  Are you interested in that? 
+Student: No, I found the math is a little bit hard for me. 
+Student: And it always took me so much time to figure out the homework.... 
+Advisor: [pull-bool]  Are you interested in economy? 
+Student: Sort of 
+Student: And I also took Physics,  the teacher was really good. Most interesting course so far 
+Advisor: [pull-select]  Which one do you like more, physics economics or computer science? 
+Student: Oh I might want to take computer science as a minor. 
+Student: What do you think? 
+Advisor: [social-open-close]  Good. I think that will be a promising area. 
+Student: So, about next term what couse do you think I should take. I meant, based on my course history? 
+Student: Or can I choose the course in other department? 
+Advisor: [push-tailored-info]  Base on your background, I think you should take some basic course such as EECS 281 and 397. 
+Student: ok thank you! I might take EECS281. Project sounds good. 
+
+Student: Hi 
+Advisor: [social-open-close]  Hi Courtney! 
+Student: I'm trying to decide what classes to take next semester. It will be my last semester so I want an easier schedule. 
+Student: What EECS classes could I take? 
+Advisor: [push-tailored-info]  Based on what you have already taken, I would suggest taking Electronic Commerce because it is pretty easy, but also interesting. 
+Student: I haven't heard of this course, can you tell me more about it? 
+Student: I also want to take more than one EECS course next semester. 
+Advisor: [push-general-info]  Electronic Commerce covers a wide variety of important topics drawn from computer science, economics, and other disciplines. We look at how these topics influence the design and analysis of commerce online. 
+Advisor: [push-tailored-info]  Another class I think you would enjoy taking is introduction to cryptography. This class is also meant to be easier, but may be different from any other class you may have taken yet. 
+Student: What are the class numbers for these? 
+Advisor: [push-general-info]  Electronic Commerce is EECS547 and Introduction to Cryptography is EECS475. 
+Student: Okay. Do you know anything about the professors that teach these courses? I don't want to take anything with a really boring professor. 
+Advisor: [push-general-info]  Kevin Fu is the professor for Cryptography. He is a great professor who has a high clarity and helpful rating. 
+Student: Okay cool. Thanks for your help! 
+Advisor: [social-open-close]  No problem! Please let me know if you have any other questions. 
+
+Advisor: [social-open-close]  Hello! Thank you for coming in today. What can I help you with? 
+Student: Hi! I am looking to minor in EECS, and I want to take another elective. 
+Advisor: [push-general-info]  You must take EECS 281 in order to minor in EECS 
+Advisor: [push-general-info]  Since you have taken EECS 280 and EECS 203, you can take EECS 281. 
+Student: Cool, is it offered in the morning? 
+Advisor: [push-tailored-info]  The course guide has not released the times for lectures yet. 
+Advisor: [push-general-info]  However, the lectures are recorded. 
+Student: What is the workload of EECS 281? I will be taking other museum studies courses and want a small workload next semester. 
+Advisor: [push-general-info]  EECS 281 generally has a heavy workload. 
+Advisor: [push-tailored-info]  However, you can just EECS 281 with easier electives next semester. 
+Student: That is great. Thank you so much for all of your help! 
+Student: I will definitely take EECS 281 next semester 
+Advisor: [push-tailored-info]  Perfect! You will be on track to graduate. 
+Advisor: [social-open-close]  Have a good day! 
+
+Student: hello! I need help and NOW 
+Advisor: [pull-fill]  How can I help you today, Samantha? 
+Student: actually, it is pronounced d-a-n-i 
+Student: I think im failing eecs can you check for me? 
+Advisor: [push-tailored-info]  Yes you are in fact failing all your courses. 
+Advisor: [pull-bool]  Would you like advice? 
+Student: I suppose so 
+Student: like..do i drop off 
+Student: out 
+Advisor: [push-conditional]  Given that you are failing, you should likely drop your courses this semester. 
+Advisor: [push-tailored-info]  I suggest you switch major. 
+Student: okay 
+Student: i hear you 
+Student: how about physics? 
+Advisor: [push-general-info]  Physics is harder than computer science 
+Advisor: [push-conditional]  Given your intelligence, I suggest picking an easier major 
+Student: okay 
+Student: im feeling 
+Student: sad and lost 
+Student: what do you suggest i switch to? 
+Advisor: [push-general-info]  Most people are lost, alone and are likely never going to feel better 
+Advisor: [pull-fill]  Can I assist you with anything else? 
+Student: so it sounds like i should either drop out or just do communications 
+Student: i think i get it 
+Student: thats all! 
+Student: bye joanne! 
+Advisor: [social-open-close]  Cya 
+
+Advisor: [social-open-close]  Hello again! 
+Student: Howdy! 
+Advisor: [pull-fill]  What do you need help with today? 
+Student: I am looking for advice on which classes to take next semester 
+Advisor: [pull-fill]  What topics are you interested in? 
+Student: I am equally interested in Software Dev, Theory of Computation, Computing Infrastructure, and Web Dev 
+Advisor: [push-tailored-info]  It looks like you have already taken EECS280, so I suggest that you take EECS281 next since you are interested in software dev 
+Student: How hard is EECS 281? 
+Advisor: [push-general-info]  It is harder than EECS280 but definitely manageable if you start the projects early! 
+Student: Do you know what time of day that is offered? 
+Student: Also, I haven't taken EECS 203. Is that still a pre-req? 
+Advisor: [push-conditional]  Yes, I think that it is.  It sounds like you should take EECS 203 next semester then 
+Student: Alrighty. Thank you! 
+Student: Have a good day! 
+Advisor: [social-other]  You are welcome! 
+Advisor: [social-open-close]  I hope you have a great day as well! 
+
+Advisor: [pull-bool]  Did you enjoy your course, "The Vietnam War, Referencing Iraq"? 
+Student: Yes 
+Advisor: [pull-select]  Do you believe that you, with your knowledge gained in the course, "Introduction to Officership", would've changed the outcome of the Vietnam War? 
+Student: Well... I don't think that would be very likely. I do believe I would have contributed to the well being of my fellow soldiers, however. 
+Advisor: [push-general-info]  Now it sounds like you learned a lot in that course. How do those qualities impact your studies in EECS, which are binary in nature? 
+Student: They instilled with me a great sense of leadership, which are skills that can be used to help binary numbers resolve their differences and see the middle ground. 
+Advisor: [push-general-info]  Oh wow, that's very insightful Joe. I see that you took "What is an American?" in Winter 2007.  What about President elect Barack Obama do you think is American? 
+Student: Well it's not his country of birth, but I'd say his drive to achieve the most powerful office in the country is in line with the nature of the American Spirit. 
+Advisor: [pull-bool]  Similar to how you continue to pursue EECS even with seemingly unconquerable odds. Do you enjoy Computer Science, Joe? 
+Student: Last semester it was great! Now I'm in EECS 281 and I'm starting to rethink my life on a very fundamental level. 
+Advisor: [push-tailored-info]  Well if you'd like to rethink Computer Science on a very fundamental level, I suggest you take EECS 376 - Foundations of Computer Science. 
+Student: That's a good idea actually, the foundations must be really easy! 
+Advisor: [pull-select]  Great, I'll mark you down to take that course.  To balance out the rest of your course load, I'd like to help you select another EECS course.  Which field of Computer Science do you enjoy most? [AI, Computer Hardware, Databases, Game Development] 
+Student: I'd say AI or maybe Game Development. Could I design AI's in games as a compromise? 
+Advisor: [push-general-info]  Wow, that'd be such an advancement in the gaming world.  Since this is game development, might I suggest you take EECS 494 - Computer Game Design and Development? Granted, this class has an easiness rating of 2.5 
+Student: Well since that foundations class won't be so hard then I think I could handle it. Unless the scale is out of 2... 
+Advisor: [push-general-info]  I honestly am not sure what the scale is out of.  Typically I think students are able to handle this courseload.  If you have any concerns, let me know 
+Student: Ok thank you very much for giving me the tools to succeed! 
+
+Advisor: [social-open-close]  Hello! 
+Student: Hello! 
+Advisor: [pull-fill]  What can I help you with? 
+Student: I'm looking for a class to fill my schedule up for next semester. 
+Student: I want a class that doesn't meet on Fridays, do you have any suggestions? 
+Advisor: [pull-bool]  A computer science class? 
+Student: Yes 
+Advisor: [pull-fill]  What classes are you planning on taking? 
+Student: EECS485 and SPANISH987 
+Student: Ideally I'd like 2 more computer science courses with that 
+Advisor: [pull-bool]  Are you interested in web development? 
+Student: Yes! 
+Advisor: [push-tailored-info]  In that case, I suggest taking EECS493: User Interface Development 
+Advisor: [push-general-info]  Classes and discussions are on Tuesday and Thursday 
+Student: That sounds good. I'll backpack that class for this semester. 
+Advisor: [push-general-info]  Additionally, the class teaches CSS, HTML, Javascript, and AngularJS 
+Student: Oh, those sound like skills I'd like to learn 
+Advisor: [push-conditional]  If you are taking a high level language class, I wounldn't recommend more than 2 EECS classes 
+Student: Okay, I think I will just stick to these three classes for now 
+Student: Thank you! 
+Advisor: [social-open-close]  No problem, have a good day 
+Student: You too 
+
+Student: Hi 
+Advisor: [pull-other]  how may I help 
+Student: Is calculus 2 harder than physics 240? 
+Advisor: [push-conditional]  Yes 
+Student: thanks! 
+
+Student: Hello! 
+Advisor: [social-open-close]  Hello jasonnoh! How may I help you today? 
+Student: Hi, I am currently interested in computer science as a major, and I was wondering if you could suggest me what classes I should take next 
+Advisor: [pull-select]  Have you looked into the other requisite courses for Computer Science like EECS 281 and EECS 203? 
+Student: No 
+Advisor: [push-tailored-info]  I suggest you look into taking those courses next semester. However, EECS 281 tends to be a challenging course for many students, so do consider taking courses outside of the department to balance your workload 
+Advisor: [push-general-info]  Note that EECS 281 is a course you can only attempt twice. If you are unable to pass the course in two attempts, you will have to consider other degrees. 
+Student: Will I still be on track to graduate? I know a lot of my friends took both 203 and 280 together and are taking 281 next semester, however I know that I can not since I have not taken 203 quite yet. 
+Advisor: [push-conditional]  As long as you can schedule these courses so that you're able to fit in upper level courses you're interested in, you'll be able to graduate on time. 
+Advisor: [social-continue]  Best of luck with your career! 
+
+Advisor: [push-general-info]  What's your major? 
+Student: Screen Arts 
+Student: Actually. CSE. But I'm considering switching. What do you think? 
+Advisor: [push-tailored-info]  Next semester, you will have Programming and Introductory Data Structures, Discrete Math  and Elementary Programming Concepts to take? 
+Student: But isn't Elementary Programming Concepts a pre-req for the others? 
+Student: Also, I don't like programming. Can't I drop the major? 
+Advisor: [push-tailored-info]  Yeah, you definitely can drop your major. 
+Advisor: [push-tailored-info]  What courses do you want to take for screen arts? 
+Student: What would you recommend? 
+Student: Or maybe I should be a psych major? 
+Advisor: [push-tailored-info]  SAC 190 First Year Film Seminar 
+Advisor: [push-tailored-info]  SAC 210 Intro to Screenwriting 
+Student: Ok, that sounds good thanks 
+Advisor: [push-general-info]  I think you should go for what you want. 
+Student: Thank you. I appreciate that 
+
+Advisor: [social-open-close]  Hello Danielle 
+Student: Hello! I'm about to register for classes, but I'm not sure which classes I should take next semester. Can you help me? 
+Advisor: [push-tailored-info]  Yes! I see you have declared, so there is a pretty straight path for you to take! 
+Student: Great! What should I take? 
+Advisor: [push-tailored-info]  I think 281 and 376 will be the best combination for next semester :) 
+Advisor: [social-open-close]  Hope that helped! 
+Advisor: [social-open-close]  Bye! 
+Student: Yes, that was very helpful! 
+Student: I will do that. 
+Student: Thanks! 
+Student: Bye! 
+
+Student: How are you today 
+Advisor: [social-open-close]  Good, what can I do for you? 
+Student: Can you give some advice to select courses next semester? 
+Advisor: [push-tailored-info]  Based on your previous courses list, I recommend EECS484. 
+Student: What's the class size of this course? 
+Advisor: [push-general-info]  It will be around 130. 
+Student: That's great 
+Advisor: [push-tailored-info]  If you like software development, I suggest you to take EECS482 as well 
+Student: Does this course have much workload? 
+Advisor: [push-general-info]  Yes, this course has much workload. 
+Advisor: [push-conditional]  If you want to take the two courses together, you should take only one more course next semester. 
+Student: OK, thank you for your suggestion 
+Advisor: [social-open-close]  You're welcome. 
+
+Advisor: [social-open-close]  Hello. 
+Student: Hello ther 
+Advisor: [pull-select]  What classes are you interested in taking? 
+Student: I want to take a class in the morning 
+Advisor: [push-tailored-info]  I would suggest taking eecs 280. 
+Student: What eecs classes have the lowest load? 
+Advisor: [push-tailored-info]  Between eecs 280 and eecs 183, eecs 183 has a lighter load but eecs 280 is more helpful. 
+Advisor: [pull-select]  Do you want an easier class or a more helpful one? 
+Student: I would like an easier class 
+Student: What do you suggest? 
+Advisor: [push-tailored-info]  I would suggest taking eecs 183 then as it has a higher easiness rating. 
+Student: Okay I will take that. 
+Advisor: [pull-fill]  Do you know any other classes you want to take? 
+Student: What science classes do you recommend? 
+Advisor: [push-tailored-info]  I would suggest either a chemistry or physics class based on the classes you have previously taken. 
+Student: Okay, thanks for the help! 
+Advisor: [social-open-close]  No problem. See you soon. 
+
+Student: Hello 
+Advisor: [social-open-close]  Hello Brian 
+Student: What should I take next semester? 
+Advisor: [push-tailored-info]  You still need to take one more elective to graduate so you should take one of those. I suggest: EECS 381 
+Student: Why do you suggest EECS 381? 
+Advisor: [push-tailored-info]  I suggest EECS 381 because it is a good class 
+Student: Okay. What other classes should I take with it? 
+Advisor: [push-general-info]  You should take EECS 376 as well. That will fit well and help you graduate 
+Student: Is that all I need to graduate? 
+Advisor: [push-tailored-info]  Those are the only two requirements you have left 
+Student: What other classes do you recommend I take with those two? 
+Advisor: [push-conditional]  If you take EECS 381, I recommend you take an easy class Math 404 
+Student: Are you sure math 404 is an easy class? 
+Advisor: [push-general-info]  Math 404 is a fun math class 
+Student: What is Math 404 about? 
+Advisor: [push-general-info]  If you want to study differential equations, Math 404 is a good class 
+Student: What if I struggle with differential equations? 
+Advisor: [push-conditional]  If you struggle with differential equations, I suggest you drop math 404 
+Student: What should I take instead? 
+Advisor: [pull-bool]  Are you interested in Compilers? 
+Student: Not really. 
+Advisor: [pull-select]  Which do you like more Web or Software Development? 
+Student: I prefer Software Development 
+Advisor: [push-conditional]  If you like software development, I suggest you take EECS 481 
+Student: What time is that class? I prefer afternoon classes. 
+Advisor: [push-general-info]  EECS 481 is in the morning 
+Student: Do you have any afternoon classes I could take 
+Advisor: [push-general-info]  EECS 441 is in the afternoon 
+Student: Okay thank you. I'll take EECS 441, 381, and 376 
+Advisor: [social-open-close]  Okay goodbye student 
+Student: Goodbye 
+
+Advisor: [social-open-close]  Hello, Colin! 
+Student: Nice to meet you Garrett! 
+Advisor: [social-open-close]  Nice to meet you as well 
+Student: I agree 
+Student: I need some help deciding what classes to take next semester. Did I come to the right place? 
+Advisor: [push-general-info]  Yes, you did. 
+Student: Hurray! 
+Advisor: [pull-select]  Do you like Computer Science or History? 
+Student: I like history more but I want to make a lot of money. What should I do?! 
+Advisor: [push-tailored-info]  I suggest you major in Computer Science. Maybe one day you could work at Apple! 
+Student: That's the dream! Based on the classes that I've taken so far what are the next courses I should take to work towards a Computer Science degree? 
+Advisor: [push-tailored-info]  I suggest you take EECS 183. In that class you will create an excellent foundation in Computer Science. 
+Student: I've already taken ENGR 101 so I would I still be able to take EECS 183 for credit? 
+Advisor: [push-tailored-info]  Yes. 
+Student: Dope! 
+
+Advisor: [social-open-close]  Hello 
+Student: Hello! 
+Advisor: [social-continue]  Why have you come to advising today? 
+Student: I am interested in the computer science major. 
+Advisor: [pull-bool]  Have you taken any of the core requirements yet? 
+Student: Yes, I have taken ENGR 101, EECS 280, and EECS 203. 
+Advisor: [social-continue]  What about the math requirements? 
+Student: Yes, I have also finished my math requirements. 
+Advisor: [push-general-info]  You would still have to finish 3 core requirements 
+Student: Which ones? 
+Advisor: [push-general-info]  EECS376, EECS281 and EECS370 
+Student: Is that all I need to do to complete the major? 
+Advisor: [push-general-info]  No you will also need 4 upper level electives and 16 flex techs and finish an MDE 
+Student: Oh. 
+Advisor: [push-tailored-info]  Those are a lot of requirements and you are already a senior 
+Student: Yea, I don't know what to do now. 
+Advisor: [push-general-info]  Have you considered getting the EECS minor instead of doing it as a major? 
+Student: No! What are the requirements for that? 
+Advisor: [push-general-info]  You would just need to take EECS370 and EECS281 and one upper level elective 
+Student: Oh okay. I will do that then. Can I take those three classes next semester? 
+Advisor: [push-tailored-info]  Yes, you can also take it in the summer and graduate in the summer 
+Student: Okay, thank you! 
+
+Student: Hi 
+Advisor: [social-open-close]  Hello! 
+Student: I'd like an easy schedule next semester. What courses should I take? 
+Advisor: [pull-bool]  Are you interested in a Computer Science Major? 
+Student: No, I'm majoring in Chemistry, but I want a Computer Science minor 
+Advisor: [push-tailored-info]  Based on your selected major and minor the next step would be to take EECS 281, but given that you want an easy schedule I suggest you hold off on that course until the following semester 
+Student: What about after EECS 281? 
+Advisor: [pull-fill]  What area of computer science are you interested in studying? 
+Student: I'm interested in cybersecurity 
+Advisor: [push-tailored-info]  I suggest you take EECS 388 or EECS 475, both classes that have EECS 281 as a prerequisite and are in the field you are interested in 
+Student: Okay, thank you! 
+Advisor: [pull-bool]  Is there anything else I can help you with? 
+Student: Not at this time, thanks for askin 
+Advisor: [social-open-close]  Ok, good bye! 
+Advisor: [social-open-close]  Hello how can I help you today? 
+
+Advisor: [pull-fill]  What brings you in today? 
+Student: Hello Professor Lefevre! 
+Student: I am trying to figure out what classes I should take next semester 
+Advisor: [push-general-info]  You have taken EECS281, so you can take most EECS upper electives now. 
+Advisor: [push-general-info]  EECS 370 is a core requirement and you have not taken it yet. 
+Advisor: [push-general-info]  I suggest getting the core requirements done as soon as possible. 
+Student: Ok! I am looking for a schedule with relatively easy classes 
+Student: What is the difficulty of EECS 370? 
+Advisor: [push-general-info]  EECS 370 requires more work than EECS 376, however it is less of a workload than EECS 281. 
+Student: Ok. Are there any other classes that I can take in conjunction with EECS 370? 
+Advisor: [push-conditional]  If you want a lighter workload, you can take just EECS 370 next semester and take your electives senior year. 
+Advisor: [push-general-info]  EECS 484 has a lighter workload relative to other EECS electives. 
+Student: Great, I will take both those classes you suggested! 
+Student: Thank you so much for all of your help. 
+
+Student: hi 
+Advisor: [push]  Whats going on? 
+Student: alright advise me 
+Student: Hello Mr. Shan, I was wondering which upper level CS classes I should take next semester? 
+Advisor: [pull-select]  What areas of CS are you interested in? Web dev, UI dev, DBMS, ... etc 
+Student: Web Dev 
+Student: and also DBMS 
+Advisor: [pull-bool]  Choosing two Upper Level CS courses per semester is a wise choice. Are you other LSA classes heavy in course load? 
+Student: NO 
+Advisor: [push-tailored-info]  Then, I would suggest EECS485, EECS484, and two more LSA classes of your choice that are not heavy on courseload 
+Student: Thanks for your help. Bye! 
+
+Advisor: [social-open-close]  Hello! 
+Student: Hi, I'm looking for information about what options I have for my MDE 
+Advisor: [push-conditional]  You cannot take MDEs yet because you have not completed the pre-requisites for MDE. 
+Student: Okay, what would be 2 good EECS classes for next semester? 
+Advisor: [push-tailored-info]  I would suggest taking EECS 281 and EECS 370 because these two are pre-requisites for many upper level classes. 
+Student: Do they pair well together? 
+Advisor: [push-general-info]  It depends on your schedule. EECS 281 is not an easy class according to statistics collected from past year students, so I recommend pairing it with an easier class. EECS 370 is a good choice. 
+Student: Do I still need to take any Math courses? 
+Advisor: [push-tailored-info]  You have satisfied the Math requirements for your degree. 
+Student: Do you have any recommendations for an ULCS to take the following semester? 
+Advisor: [push-tailored-info]  If you are interested in Computer Hardware, you can look into EECS 478. It is called Logic Circuit Synthesis and Optimization. 
+Student: Okay thanks for the help! 
+Advisor: [social-open-close]  No problem at all! 
+
+Student: Hello Zach, I'm here to get class scheduling advice! 
+Advisor: [pull-fill]  What specifically would you like help with today regarding your schedule? 
+Student: Are there any EECS upper level classes you would recommend? 
+Advisor: [push-tailored-info]  I would suggest EECS493 given the classes that you have previously taken. 
+Student: Oh thats great 
+Advisor: [pull-bool]  Is there anything else you would like help with today? 
+Student: I don't know how to make a mobile app. Is EECS 441 for me? 
+Advisor: [push-tailored-info]  Yes, If you would like to learn mobile development, then 441 is probably the best choice. It seems like you have a lot of programming experience, so you should have no problem with it. 
+Student: Thats Great Zach. I think i'm all set then. 
+Advisor: [social-open-close]  OK. Glad to help. 
+Student: See you later Zach! 
+
+Advisor: [pull-other]  Hi there. What can I help you with today? 
+Student: Hello 
+Student: I need help picking my last class to take next semester 
+Advisor: [pull-other]  Oh, is there a certain type of class your are looking for? Or a certain topic you're interested in? 
+Student: I am debating on taking EECS 445 or not 
+Student: I have heard it is a bit difficult 
+Student: I'm not sure if it is worth taking my last semester 
+Advisor: [push-general-info]  It has been rated as more difficult and to have a higher workload by past students 
+Advisor: [push-general-info]  I also see that you have not taken Linear Algebra which as an advisory prerequisite. I would probably not recommend taking the course because of that. Perhaps you should take MATH 217 first. 
+Student: I think I'll take 214 instead 
+Student: I have plenty of semesters to decide 
+Student: Does EECS 445 count for the Data Science major? 
+Advisor: [push-general-info]  Yes, it counts as a ULCS for Data Science. 
+Student: AWESOME! 
+Student: I think I'll def take 214 so that I can take 445 before I graduate 
+Advisor: [push-general-info]  AWESOME! 
+Student: Thanks so much 
+Advisor: [pull-fill]  That's great. You are so awesome. Is there anything else I can help you with? 
+Student: No and no you are awesome! 
+Student: Bye! 
+Advisor: [push-general-info]  No, you are awesome! 
+
+Advisor: [pull-bool]  Hello, would you like an advising session? 
+Student: Yes 
+Advisor: [pull-bool]  Great. Let's get started. Do you like your major? 
+Student: Yes 
+Advisor: [pull-bool]  Wonderful. Do you have questions about what classes to select next semester? 
+Student: Yes 
+Advisor: [pull-fill]  Is there a specific class you are concerned about? 
+Student: EECS 183 
+Advisor: [pull-fill]  Great. What exactly are you concerned about? 
+Student: My TA is mean 
+Advisor: [push-general-info]  If you have a problem with your TA you should talk to your professor 
+Student: My professor is mean too. 
+Student: She can be very angry sometimes. 
+Advisor: [push-general-info]  I would suggest talking to the dean of engineering then. A therapist may also help 
+Student: Thank you. You are so helpful, in my humble opinion. 
+Advisor: [pull-bool]  Is there anything else I can help you with? 
+Student: Nope, that's all. 
+Advisor: [social-open-close]  Great. Call me beep me if you wanna reach me 
+
+Advisor: [social-open-close]  Hello. How are you? 
+Student: I'm fine, thanks. I wanted to talk about my classes for next year. 
+Advisor: [pull-select]  Okay, great. How many credits are you planning to take? 
+Student: I was hoping to have a relaxed semester, so I'm hoping for somewhere around 12 credits. 
+Advisor: [pull-bool]  Are you interested in programming courses? 
+Student: Yeah, I took engineering 101 and liked it, so I'm hoping to learn more about it. 
+Advisor: [push-tailored-info]  Okay, I would suggest you to take EECS280 then. You will learn a lot of useful stuff there and its only pre-requisite is ENGR101, so you should be fine. 
+
+Student: Hi professor qijun, i have some questions for next semester's class 
+Advisor: [pull-other]  Hi ian, please let me know what specifications are you prefer 
+Student: I'm at senior year, and i want to fulfill my graduation requirement 
+Advisor: [push-general-info]  Got it. How many credits do you need for graduation? 
+Student: i think i'm 4 credits away 
+Advisor: [push-general-info]  OK. I find you have not taken EECS 482: Introduction to Operating system. I will recommend you to take it since it is quite useful as reported 
+Student: That sounds interesting. how's the workload of eecs482 
+Advisor: [push-tailored-info]  The easiness is 2 over 4, so the worklaod is not low. But you have only one course, so I think it is ok 
+Student: Also, I'm only free on Tuesday and Thursday. So does 482 fit? 
+Advisor: [push-conditional]  Then EECS 482 is the right course for you! 
+Student: Great, thank you! 
+Advisor: [social]  My pleasure! 
+
+Advisor: [social-open-close]  Hi!  What can I do for you today? 
+Student: I was wondering what courses I should take for next semester. 
+Advisor: [pull-fill]  I see you've taken some upper level courses.  What fields of CS interest you? 
+Student: I'm very interested in the field of software development 
+Student: also web development and computing infrastructure 
+Advisor: [push-tailored-info]  In that case, I highly recommend EECS 481 since you're interested in software engineering. 
+Student: What would you say the workload is like for that class? 
+Advisor: [push-general-info]  I would say that the workload depends on what project you end up working on. 
+Student: Is it generally considered an easy course? 
+Advisor: [push-general-info]  EECS481 tends to fall somewhere in the middle for easiness 
+Student: Ok, that sounds good. Do you have any suggestions for other courses? 
+Advisor: [push-tailored-info]  I would also recommend EECS485 since you're interested in web development. 
+Student: That sounds like a good choice, is the staff generally helpful for that class? 
+Advisor: [push-general-info]  Yes, the staff is generally quite helpful in that class 
+Student: Awesome, I think that's all I needed. Thanks for the advice! 
+Advisor: [social-open-close]  Sure. No problem! Thanks for coming. 
+
+Student: Hello! 
+Advisor: [pull-fill]  Hi, is there something I can help you with? 
+Student: Yes 
+Advisor: [pull-fill]  What do you need help with? 
+Student: I'm not sure if I should minor is business 
+
+Advisor: [social-open-close]  Hello. How are you doing? 
+Student: I am fine, and you? 
+Advisor: [social-open-close]  I'm doing great! Thanks! 
+Advisor: [pull-fill]  What can I help you with? 
+Student: I'm trying to figure out required courses to take to become a cs major. 
+Advisor: [push-tailored-info]  Well, you need to take EECS 280 and EECS 203. 
+Student: Should I take those two courses together? 
+Advisor: [push-conditional]  if you want to take EECS 281 the following semester, you need them both. 
+Student: Oh, ok.  How difficult are those two courses together? 
+Advisor: [push-tailored-info]  After looking at your courses, I don't think you will have too much trouble with doing them simultanesouly. 
+Student: Are those two the only ones I can take towards my major this semester? 
+Advisor: [push-tailored-info]  Those are the only two engineering courses you could take towards a CS major. 
+Student: Ok, thank you very much.  I will take those. 
+Advisor: [social-open-close]  Glad I could help! Bye! 
+
+Student: Hello 
+Student: I am trying to plan my senior year semester. I am a Junior and for the Fall of 2007 I would like to start taking upper level technical electives, as well as other major requirements. 
+Student: I am interested in Robotics, what courses should I take? 
+Advisor: [push-tailored-info]  I would recommend taking EECS 370 and EECS 281 first and then you could take EECS 478, which is about Logic Circuit Synthesis and Optimization. 
+Student: Okay thank you. 
+Student: Would you recommend that I take both of those in the same semester or is that too much work? 
+Advisor: [push-general-info]  We generally recommend NOT taking 281 and 370 in the same semester because the due dates on projects and exams overlap significantly.  Many people have done it so it is possible, but it is not recommended. 
+Advisor: [pull-bool]  Do you have any other questions for me? 
+Student: Okay, can I take either one of them with 478 or must I wait until I have taken both? 
+Advisor: [push-general-info]  The only prerequisites for 478 are EECS 270 and EECS 203, so you could take it now if you want. 
+Advisor: [push-general-info]  We just usually recommend students take 281 as soon as possible because that class is a prerequisite to most other CS upper-level classes. 
+Advisor: [pull-bool]  Any other questions?! 
+Student: Thank you that was all very helpful. 
+Student: No, you have answered all of my questions. Thanks again. Bye 
+Advisor: [push-general-info]  Sure thing!  I'm glad I could help you; feel free to contact me again if you have any more questions.  Bye. 
+
+Student: Hi Kevin! 
+Advisor: [push-tailored-info]  Hi Shan! How may I help you today? 
+Student: Im deciding between taking 370 and 376 next semester? 
+Student: do you have any suggestions? 
+Advisor: [pull-fill]  Alright, may I know how you performed in 280. 
+Student: i didnt do so well, but I passed the course with a C 
+Advisor: [push-conditional]  That's perfectly alright, I would then suggest you to take 370 and 376 next semester, but you may want to lay off taking 281 till another semester. 
+Student: okay i Will do so. 
+Student: is 370 and 376 a much more lighter course load then? 
+Advisor: [push-general-info]  Both are typically light to medium workload CS classes. 
+Student: so like, half the work of 280? 
+Student: or about the same 
+Student: ?? 
+Advisor: [push-tailored-info]  However it depends on whether you are into computer science theory and low level hardware knowledge 
+Student: im not that into those topics 
+Advisor: [push-general-info]  You can except a similar workload to 280 for both courses 
+Student: ok 
+Student: but i need to take those two courses to get my CSE degree right? 
+Advisor: [push-general-info]  Hmm, you may then find some of the material in 370 and 376 to be challenging, so I advise you make use of office hours a lot 
+Student: thank you, I will register for those two classes now 
+Student: have a good day 
+Advisor: [push-general-info]  These courses consist of lot of longer projects so it is important you keep up with your tasks 
+Student: thanks~ 
+
+Student: Hello, I have some questions 
+Advisor: [social-continue]  Sure! What would you like to know? 
+Student: What classes should I take next semester? 
+Advisor: [push-tailored-info]  It looks like you now need to start upper-level electives 
+Advisor: [push-tailored-info]  And also, you need to take EECS 376 
+Student: I'm interested in Software Development. Is there a good upper-level cs course related to software development? 
+Student: Hello? 
+Advisor: [social-other]  Hi! I'm back now! 
+Student: So any suggestions regarding software development classes? 
+Advisor: [push-conditional]  If you are interested in software development, I recommend that you take EECS 381. 
+Advisor: [push-general-info]  EECS 381 has high helpfulness and clarity ratings. 
+Student: All my friends said that EECS 381 was their least favorite class. Why did they hate it so much? 
+Advisor: [push-general-info]  EECS 381 is also known to be a difficult class, according to the ratings. 
+Student: What classes other that EECS 381 are good for software dev? 
+Advisor: [push-tailored-info]  If you are interested in software development, but not in EECS 381, you should take a look at EECS 481. 
+Student: Okay cool! I'll look into those for sure. Thank you so much! 
+Advisor: [social-other]  No problem! 
+Advisor: [social-other]  Let me know how deciding goes! 
+
+Student: Hey I heard could some cool advising done here? 
+Advisor: [push-general-info]  Yep! That's what we're here for 
+Advisor: [pull-other]  What questions do you have for me? 
+Student: I'm trying to decide what I should major in, I'm an engineering student 
+Advisor: [push-tailored-info]  Ok, well I see you've already taken Engineering 100. 
+Advisor: [pull-fill]  Which section of Engineering 100 were you win? 
+Student: I was in the microprocessors section with Prof. Chen 
+Advisor: [push-conditional]  If you liked that class, computer science is a very popular major! 
+Advisor: [pull-fill]  What did you think of the class? 
+Student: I really enjoyed the logic circuit and processor aspect of the class 
+Advisor: [push-tailored-info]  Then I would suggest looking into electrical engineering and computer engineering as well! 
+Student: Okay! I'm planning to take Physics 240 and a math class next semester, so I'm looking to add another class, what would you suggest then? 
+Advisor: [push-tailored-info]  I would suggest taking EECS 280, because it is a required class for all those majors. 
+Student: Huh, okay 
+Student: I think I'll take it then 
+Student: Thanks! 
+Advisor: [social-other]  You're welcome! 
+Advisor: [pull-bool]  Do you have any other questions? 
+Student: Nope 
+Advisor: [social-open-close]  Ok, goodbye! 
+
+Student: Hi! 
+Advisor: [social-open-close]  Hello! What can I help you with? 
+Student: I would like a morning class. 
+Student: Do you have any suggestions? 
+Advisor: [push-tailored-info]  There are a number of morning classes. 
+Advisor: [pull-fill]  What topics are you interested in? 
+Student: I'm interested in software development and computer hardware. 
+Advisor: [push-conditional]  If you are interested in software development, I would suggest taking EECS 481, Software Engineering 
+Advisor: [push-conditional]  If you are interested in computer hardware, I would suggest taking EECS 470, EECS 478, or EECS 373 
+Student: I've read that EECS 470 is a very time-consuming and difficult class. Is that true? 
+Advisor: [social-other]  Let me think... 
+Advisor: [push-other]  I don't know for sure, but looking at the EECS Undergraduate Workload Survey Results may help. https://www.eecs.umich.edu/eecs/undergraduate/survey/ 
+Student: Okay, I'll take a look at that! 
+Student: Do you know who's teaching EECS 481 next semester? 
+Advisor: [push-general-info]  David R Chesney is teaching EECS 481 next semester. 
+Student: Are there any prerequisites to it besides EECS 281 and EECS 370? 
+Advisor: [push-general-info]  The only prerequisite to EECS 481 is EECS 281. 
+Student: Okay thank you! 
+Student: I'm thinking of taking EECS 481 next semester! 
+Advisor: [social-other]  Good luck! 
+Advisor: [social-continue]  Is there anything else I can help you with? 
+Student: No, but thank you so much! 
+Advisor: [social-open-close]  You are welcome! Goodbye! 
+
+Student: HI 
+Advisor: [pull-other]  How are you? 
+Student: Im fine, what classes should I take next semester? 
+Advisor: [pull-bool]  Do you feel like you did successfully in your class with 3 computer science classes? 
+Student: Yes 
+Advisor: [pull-fill]  What topics interest you within the computer science field? 
+Student: I am interested in artificial intelligence 
+Advisor: [push-conditional]  If you like AI, I highly suggest you take EECS492, Introduction to Machine Learning. 
+Student: Ok, can you tell me how hard that class is? 
+Advisor: [push-tailored-info]  That class is very hard. 
+Advisor: [push-conditional]  If planning to take Machine Learning, students in the past have been successful taking easier classes, such as Software Engineering or Web Databases. 
+Student: I like medium-sized courses, which class would you recommend, Software Engineering or Web Databases? 
+Advisor: [push-conditional]  If you want to take a medium-sized course, I suggest you take Software Engineering. 
+Student: Ok, thank you for your advice. 
+Advisor: [social-open-close]  Good luck! 
+
+Student: Hello! 
+Advisor: [pull-other]  Hello 
+Student: I was wondering if EECS 381 would be a good course to take along with EECS 482? 
+Student: I have heard that is doable 
+Advisor: [push-general-info]  Generally people try to take those in different semester 
+Advisor: [push-tailored-info]  The work load is very strenuous for both of those classes 
+Advisor: [push-general-info]  I suggest you take those in separate semesters 
+Student: Would that delay my graduation? 
+Student: I would like to graduate in 3 years 
+Student: Should I instead drop my EE major? 
+Student: I can just major in CS instead of double majoring 
+Advisor: [pull-select]  If you just major in CS you could graduate in 3 years 
+Advisor: [push-general-info]  With the double major it will be hard to graduate in 3years 
+Student: So instead of EECS 482 is there a class I can take? 
+Advisor: [push-general-info]  I suggest that if you want to graduate in 3 years you chose a single major 
+Advisor: [push-general-info]  you could take 376 with 381 
+Student: Thanks! 
+Advisor: [push-general-info]  376 is a required class 
+Student: Oh I was not aware of that! 
+Student: Thank you for your time 
+
+Advisor: [pull-other]  Hello, what can I do for you today? 
+Student: Hey, I wanted to ask some questions about my class schedule for the next semester. 
+Advisor: [pull-other]  Sure, what do you want to know? 
+Student: What can you suggest me after taking EECS270 or EECS370? My preferences are a small class size and group project. 
+Advisor: [pull-bool]  Have you already taken your MDE course? 
+Student: No. 
+Advisor: [push-tailored-info]  Alright, I think EECS470 might be a good class then. It looks like you have fulfilled the requirements, and the class size is small like you wanted. 
+Student: Okay, awesome. I heard from my friends that the workload for this class is really heavy. What do you think? 
+Advisor: [push-tailored-info]  I think you should be able to handle it given your past performance, but the decision is up to you. 
+Student: Alright, I need to think about this a little bit more. If I have any other questions, I'll stop by again. Thank you very much! 
+
+Advisor: [social-open-close]  Hello 
+Student: Hello 
+Advisor: [social-continue]  What is your name? 
+Student: My name is Patrick. 
+Advisor: [pull-fill]  What are you planning on taking next semester? 
+Student: I think I am done with all the pre-requisites for Computer Science. 
+Student: I would like to take electives. 
+Advisor: [pull-fill]  What topics interest you? 
+Student: I am interested in computer security and machine learning. 
+Advisor: [push-general-info]  Our school has an excellent security class called EECS 388 intro to security 
+Advisor: [push-general-info]  There is also a machine learning class EECS545 
+Student: Okay, cool. I would like to take EECS 388 and EECS 545 next semester. 
+Advisor: [pull-bool]  Would you also be interested in artificial intelligence? 
+Student: Yes! 
+Advisor: [push-general-info]  Great! We also offer an AI class called EECS 492 
+Student: Okay awesome. I will take that after. 
+Advisor: [push-general-info]  I would also recommend taking EECS 482 
+Student: Why should I take EECS 482? 
+Advisor: [push-general-info]  Many students really like the class and it is very helpful 
+Student: Oh okay. Is it hard? 
+Advisor: [push-tailored-info]  It is a harder class, however since you are only a junior and have finished all your requirement you can take it with a lighter course load 
+Student: Okay great. Thank you! 
+Advisor: [social-open-close]  you're welcome 
+
+Advisor: [social-open-close]  Hello, what can I help you with? 
+Student: I need help deciding what classes to take next semester 
+Student: I am currently a junior in computer science 
+Advisor: [pull-fill]  Okay, which classes did you enjoy most that you've already taken? 
+Student: So far, 281 has been my favorite! 
+Student: along with EECS376 
+Advisor: [push-tailored-info]  In that case, you might be interested in EECS477. It's the introduction to algorithms course. 
+Advisor: [push-tailored-info]  You might also be interested in EECS445, the machine learning class. 
+Student: What is the workload like for EECS445? 
+Advisor: [push-tailored-info]  It's slightly on the harder side, but pretty manageable. 
+Advisor: [push-conditional]  If you're interested in web development, EECS485 might also be a good choice of a class. 
+Student: I have never done web development but I am eager to learn 
+Advisor: [pull-fill]  Also, is there any particular reason you haven't taken EECS370 yet? 
+Student: I haven't really been very interested in hardware 
+Student: Since that is a requirement maybe I will take EECS370 with either EECS445 or EECS485 
+Advisor: [push-general-info]  Well don't put it off too long, it is an important part of the EECS curriculum. 
+Student: Will definitely be taking EECS370 next semester 
+Student: thanks for your help 
+Advisor: [social-open-close]  Sure, have a nice day! 
+
+Student: Hi! 
+Advisor: [social-open-close]  Hello! 
+Advisor: [pull-bool]  Do you know what courses you want to take next semester? 
+Student: I like Japanese & computers ... 
+Advisor: [pull-select]  Cool, have you taken eecs 280 or eecs 281? 
+Student: I have taken both, aced em 
+Advisor: [pull-fill]  Are you more interested in front-end programming or back-end systems? 
+Student: What's the difference? 
+Advisor: [push-general-info]  Most students like front-end because it is less tedious.  Students that like back-end systems usually use "vim" for their text editors 
+Student: I use vim because I don't know how to use emacs 
+Advisor: [push-conditional]  In that case eecs 485 or eecs 493 might be good classes to check out 
+Student: Ok cool I'll do both 
+Advisor: [push-general-info]  Okay, I recommend against taking eecs 481 or eecs 441 because those classes are for seniors 
+Student: I'll hold off on those ones 
+Advisor: [social-open-close]  Sounds like a plan.  I am going to my next appointment 
+Student: Thank you for yr help 
+
+Advisor: [social-open-close]  Hi Ian! 
+Student: Hi professor qijun 
+Advisor: [push-general-info]  Would you like to talking about your course selection for next semester 
+Student: yes 
+Advisor: [pull-select]  I find you are the junior student and have took a lot of courses in EE and CS. Do you prefer EE or CS? 
+Student: I prefer CS 
+Advisor: [pull-bool]  Great! Are you interested in database? I recommend you to take EECS 484 as one of the courses for next semester? 
+Student: Yes, I'm interested in database. How's the workload for EECS 484? Since I will need more time to find a job, I might not choose taking multiple courses with heavy workloads 
+Advisor: [push-tailored-info]  The course is not quite hard. The easiness rating is 3 over 4 and the past students find it is quite helpful! 
+Student: That sounds great. What's the class time? 
+Advisor: [push-general-info]  The course is at 9-10 am on Monday and Wednesday. 
+Student: I can work with that. Thank you professor! 
+
+Advisor: [social-open-close]  Hello! 
+Advisor: [pull-other]  What can I help you with today? 
+Student: Hello! Could you suggest any classes that I might want to take? 
+Advisor: [push-tailored-info]  Hum, I see you are graduating soon.  You need a few more Eecs classes. How about 484? It's a database class 
+Student: Oh yeah that sounds very interesting! What is the course load for EECS 484? 
+Advisor: [push-general-info]  Moderate. There are no big end of semester projects 
+Advisor: [pull-select]  Are you more interested in hardware or software? 
+Student: Okay that sounds perfect! Uhm I am the most interested in software. Are there any other courses you could suggest? 
+Advisor: [push-conditional]  Sure! If you're interested in being part of a semester long project where you interact with a real world customer, I suggest Eecs 481 
+Student: Oh wow that sounds very interesting! Do you think taking EECS 481 and EECS 484 together would be manageable? 
+Advisor: [push-general-info]  Yes only those two are manageable. You could take another light class too, if you can manage a heavier semester 
+Student: Oh okay yeah I would want to take another class, are there any other EECS courses that have a lighter load? 
+Advisor: [push-tailored-info]  Eecs 492 which is artificial intelligence is relatively light. You could also try the sp is, ppp 
+Student: Okay artificial intelligence sounds very interesting, I will consider taking it. 
+Student: Is EECS 492 a project based course? 
+Advisor: [push-other]  No. it has programming assignments and theory application assignments but no big projects. 
+
+Student: Hi 
+Advisor: [pull-fill]  Hello, what do you need help with? 
+Student: i don't know what classes to take next semester 
+Student: do you have any suggestions 
+Advisor: [push-tailored-info]  Sure, there are many possible courses for you to take. EECS 492 and 494 are possible choices 
+Student: eecs492 sounds interesting 
+Student: what is the workload for eecs494 
+Advisor: [push-conditional]  If you're looking for a easier workload, I also suggest EECS 376 
+Student: how many hours do i need to devote to eecs376? 
+Advisor: [push-tailored-info]  494 probably requires around 12 hours per week and 376 requires around 5 hours per week 
+Student: okay i'll take eecs492 and eecs376 
+Student: thanks for your help 
+Advisor: [push-tailored-info]  Ok, I will register you for these classes 
+
+Advisor: [pull-bool]  Have you taken EECS280 before? 
+Student: Yes 
+Advisor: [pull-fill]  What topics are you interested in? 
+Student: Practice coding 
+Student: Can I take EECS482 next semester? 
+Advisor: [push-tailored-info]  Given your background, you have to take EECS281 first 
+Student: Could you tell me something about EECS376 
+Advisor: [push-general-info]  EECS376 is an introduction to computing theory 
+Advisor: [pull-select]  Which one do you like more, web or software development? 
+Student: I have no preference. 
+Student: Can I select EECS281 in some other semesters? 
+Student: Can I select EECS281 in some other semesters? 
+Advisor: [push-general-info]  I strongly suggest sophomores take 281 
+
+Student: Hello! 
+Advisor: [social-open-close]  Hi! 
+Student: I am looking for a moderately difficult class. Not too difficult, however. Do you have any suggestions? 
+Advisor: [push-tailored-info]  I suggest that you take EECS281 which has an Easiness Rating of 2.53. 
+Student: Okay, great! How many people are in that class? I don't like classes that are very small. 
+Advisor: [push-general-info]  EECS 281 course has a class size of about 81 students. 
+Student: Hmm, okay. Is the information about the time of day that the class will take place available? I like morning classes. 
+Advisor: [push-general-info]  I suggest referring to the course guide available at http://www.lsa.umich.edu/cg/ 
+Student: Siiiiiick. Thanks for your help, advisor guy. I appreciate it! 
+Advisor: [social-open-close]  I'm glad I could help! 
+
+Advisor: [social-open-close]  Hi! Shall we get started? 
+Student: Hello, I have most of my requirements done and am figuring out which classes are left for me to take. 
+Advisor: [push-conditional]  You seem to be just about done, if you're majoring in computer science. 
+Advisor: [pull-fill]  What are you looking for specificly? 
+Student: Any ULCS courses that would help me in the job world? 
+Advisor: [push-conditional]  If you enjoyed computer vision and artifical intelligence, I would suggest taking graduate level machine. learning EECS 545. 
+Student: That's interesting, are there any other courses? 
+Advisor: [push-conditional]  If you enjoyed the classes related to computer system architecture, then you might want to try EECS 582 or EECS 570. 
+Student: What are those courses on? 
+Advisor: [push-general-info]  570 is Parallel Computer Architecture, while 582 is Advanced Operating Systems. 
+Student: Those both sound very interesting, thank you. 
+Advisor: [social-other]  No problem! 
+Advisor: [pull-bool]  Do you have any more questions? 
+Student: No, that is all 
+Advisor: [social-open-close]  Glad I could help, bye! 
+
+Student: Hello 
+Advisor: [social-open-close]  Hello student 
+Student: My name is Kaushik 
+Advisor: [social-other]  Hello student named Kaushik 
+Student: Should I take 281 or 370 
+Advisor: [push-general-info]  I would suggest 281 as it is a more important class. 
+Student: Is that in the morning? I prefer morning classes. 
+Advisor: [push-general-info]  Unfortunately the time for the class has not been decided yet. 
+Student: Okay. 
+Student: Can I take 370 with that class? 
+Advisor: [push-general-info]  The work load of 281 and 370 is fairly high. I would not suggest taking both together. 
+Student: What other class should I take then? 
+Advisor: [push-tailored-info]  You need 376 to graduate. I would suggest taking 376. 
+Student: Okay 
+Student: I'm interested in Artificial Intelligence. Are there any classes related to taht? 
+Advisor: [push-conditional]  There is EECS 492 which is a class on artificial intelligence. 
+Student: Are there any other classes? 
+Advisor: [push-conditional]  There is also EECS 445 which is Machine Learning which may relate. Otherwise, there are special topics which may be related to AI. 
+Student: Okay. Are there any other classes I can take? I like easy classes. 
+Advisor: [push-tailored-info]  EECS 478 has a difficulty rating of 2. It may fit your requirements. 
+Student: What is that class? 
+Advisor: [push-general-info]  EECS 478 is a class about Logic circuit synthesis and optimization. 
+Student: Okay that sounds interesting. I have taken 270. Will that be enough? 
+Advisor: [push-tailored-info]  The class involves finite state machines so 370 may be helpful. 
+Student: Okay. I will take that first. thank you! 
+Student: Bye! 
+Advisor: [social-open-close]  Goodbye 
+
+Student: Hola 
+Advisor: [social-open-close]  Hello there 
+Student: Como estas? 
+Advisor: [social-continue]  How can I help you today? 
+Student: How hard is EECS281? 
+Advisor: [push-general-info]  EECS 281 is not as challenging as it is made out to be 
+Advisor: [push-general-info]  It is mostly a matter of time management 
+Student: Should I take EECS 281 next semester? 
+Advisor: [push-tailored-info]  Yes I think taking EECS 281 would be a good decision 
+Student: What could I take with it? 
+Advisor: [push-general-info]  You could also take EECS 281 with either EECS 370 or EECS 376 
+Student: Which would you recommend? 
+Student: Could I take all 3? 
+Advisor: [push-tailored-info]  If you are comfortable with your time management skills I believe this is doable 
+Student: Okay sounds great! 
+Student: Sign me up! 
+Advisor: [push-general-info]  However this could turn out to be a challenging semester so think it through 
+Student: Should I also take my upper level spanish class? 
+Advisor: [push-tailored-info]  I don't think that would be wise, consider taking only 2 of the 4 if at all possible 
+Student: okay, thank you! 
+Advisor: [social-open-close]  You are welcome! 
+
+Advisor: [social-open-close]  How can i help you today? 
+Student: Is Atul Prakash a cool professor? 
+Advisor: [social-continue]  Absolutely. He teaches our 484 class! 
+Student: Sounds lame, I want to take 381, am I eligible? 
+Advisor: [push-tailored-info]  No you are not. You need to complete the major pre requisites before that class. You can start with EECS 183. 
+Student: I guess 183 is 381 backwards 
+Advisor: [social-continue]  You know I've never noticed this. 
+Advisor: [social-continue]  You seem good at puzzles. 
+Student: Okay so do you think I'm on track to graduate with a CS degree within 2 semester? 
+Advisor: [push-tailored-info]  Unfortunately, this is not the case. The only course you may take next semester is 183, then the following you can take 183 and 203. Then you will need to fulfill the major requirements and the ULCS courses. 
+Advisor: [push-tailored-info]  You are in for the long haul. 
+Student: Wow, this major is too demanding. I think I might get a minor, what are the requires for a CS minor? 
+Advisor: [push-general-info]  The requirements are 183, 203, 280, and 281, and one ulcs. 
+Student: Sounds gross, it looks like 281 is a tough class. I don't think I'll be doing anything in CS. Hope you have a good day! 
+Advisor: [social-open-close]  Have a good day! 
+
+Student: Hello 
+Advisor: [social-open-close]  hey! What's up 
+Student: What are the remaining requirements for me to graduate? 
+Advisor: [push-tailored-info]  You need to take a capstone course. I suggest EECS 481. 
+Student: How many credits do I have remaining in order to graudate? 
+Advisor: [push-tailored-info]  you need 420 more credits in order to graduate 
+Student: How many EECS courses do you suggest taking next semester? 
+Advisor: [push-general-info]  I suggest taking 2 to 3 EECS courses in 1 semester. 
+Student: Thanks for your help 
+Advisor: [social-open-close]  Okay great! Farewell. 
+
+Advisor: [social-open-close]  Hello Anna 
+Student: Hello! 
+Advisor: [push-general-info]  I think you should take EECS 484 next semester 
+Student: How many credits is that? 
+Advisor: [push-conditional]  It is only 4 credits! 
+Student: Oh... Well I only need two more credits of flex tech next semester. Are there any other classes you would recommend? 
+Advisor: [push-conditional]  No, I suggest you go over your 18 credit limit 
+Student: I heard EECS 481 is a terrible class, but I was planning on taking it for my MDE. What should I do? 
+Advisor: [push-tailored-info]  I suggest you do take 481! 
+Advisor: [push-tailored-info]  481 doesn't have a lab so it's not very hard 
+Student: You are not being helpful. 
+Advisor: [social-other]  I am so sorry you feel this way? Can I give you better help? 
+Student: I'm trying to decide between EECS 445 and EECS 442. Which one is harder? 
+Advisor: [pull-bool]  Do you like AI? 
+Student: I dunno 
+Student: I want to try something new 
+Student: Also, I really want to work at Google. Which classes will get me a job at Google? 
+Advisor: [push-general-info]  EECS 445 and EECS 442 are both the same difficulty 
+Student: What is the easiest class I could take to fulfill my requirements? 
+Advisor: [push-tailored-info]  I recommend taking 492 for a job at google 
+Student: Oh really? Why? 
+Advisor: [push-tailored-info]  I suggest you take 494 
+Advisor: [pull-bool]  Did you enjoy Asian 325? That was a hard class 
+Student: I tend to enjoy all Asians 
+Advisor: [social-open-close]  Awesome, I'm glad this session was helpful to you. Good bye 
+Student: Just so you know, you were not very helpful at all. 
+
+Student: Hello 
+Advisor: [social-open-close]  Hello Varsha! 
+Advisor: [pull-fill]  What can I help you with today? 
+Student: I'm a junior and I'm in 280 and I don't know what to take next 
+Advisor: [push-general-info]  Most people take EECS 281 after EECS 280. 
+Advisor: [push-general-info]  They also also usually pair EECS 281 with EECS 370 or EECS 376. 
+Student: What is EECS 370? 
+Advisor: [push-general-info]  EECS 370 is Intro to Computer Organization. You will learn how low-level language interact with computer hardware. 
+Student: What is EECS 376? 
+Advisor: [push-general-info]  EECS 376 is Foundations of Computer Science. It's kind of like an extension of EECS 203. 
+Student: Which would be easier to take with 281? 
+Advisor: [push-tailored-info]  It seems like you really like math classes so EECS 376 might be easier for you to take with EECS 281. 
+Student: Ok that makes sense 
+
+Advisor: [social-open-close]  hi, how can I help you today? 
+Student: Hi, I need help choosing what classes to take next semester. 
+Advisor: [pull-bool]  Would you like to take your MDE next semester? 
+Student: Yes. What classes can I take as my MDE? 
+Advisor: [push-general-info]  i recommend you take software engineering (EECS 481) 
+Student: Ok, have I met the prerequisites for EECS 481? 
+Advisor: [push-conditional]  Yes, because you are a senior and you've completed eecs 281 
+Student: What other classes could I take as my MDE? 
+Advisor: [push-tailored-info]  well, you could take EECS 441 if you are interested in mobile development 
+Student: Yes I am. How difficult is this class? 
+Advisor: [push-general-info]  Yes, becuase you go to this school and so you are a capable student 
+Student: I am worried that this is too heavy of a workload. 
+Advisor: [social-continue]  You can do it. Just work regularly 
+Student: Thank you for your help 
+Advisor: [social-open-close]  Great! Have a good day! 
+
+Student: Hi! I have a few quick questions about next semester 
+Student: I'm looking for a class with a low to moderate workload with a helpful professor to fulfill some of my upper-level CS courses. Any suggestions? 
+Advisor: [social-other]  Good question! 
+Advisor: [pull-bool]  Are you interested in web technology and applications? 
+Student: YESSSSSS! I am SUPER excited about web tech and apps!!! 
+Advisor: [push-tailored-info]  Then I suggest EECS 485, given your interests! 
+Student: What's a good class to take with EECS 485? 
+Advisor: [pull-select]  What type of workload are you looking for (low, moderate, or heavy)? 
+Student: I really need to take a light load next semester because I am working and applying for jobs. 
+Advisor: [push-tailored-info]  If you are looking for an easy class, how about EECS 373? 
+Advisor: [push-general-info]  EECS 373 has high easiness ratings. 
+Student: I'm not interested in eecs 373 really :/ 
+Advisor: [pull-other]  Why are you not interested in EECS 373? 
+Student: Because I don't like computer hardware 
+Advisor: [social-other]  Okay 
+Advisor: [social-other]  Let me think... 
+Advisor: [pull-other]  What else are you interested in besides web applications? 
+Student: I'm looking for a very helpful professor 
+Advisor: [push-general-info]  Introduction to Artificial Intelligence (EECS 492) with Edmund Durfee has a high helpfulness rating! 
+Student: OOOOOOH that sounds so cool! I think that's all I need. 
+Student: Thank you! 
+Advisor: [social-other]  No problem! 
+
+Advisor: [social-open-close]  Good evening, stefan 
+Advisor: [social-continue]  I see that you are at a loss for words 
+Student: Sorry, I was just finishing writing a text message to my friend. Anyway, I came here to discuss my final semester here at the school. 
+Advisor: [pull-fill]  Why did you schedule an advising appoitnment? 
+Student: I need to plan my last semester. I am thinking about taking three 400-level EECS courses. 
+Advisor: [pull-fill]  Which EECS classes in particular were you thinking of? 
+Student: Probably something like two software engineering courses, and one other EECS course that is not too code-heavy. 
+Advisor: [pull-bool]  Have you thought about 484 or 441? 
+Student: 441 is mobile development, right? 
+Advisor: [push-tailored-info]  Yes, and it is not too code-heavy. 
+Student: How about 484? Is that code-heavy? 
+Advisor: [push-tailored-info]  Since you have taken some fairly software oriented classes, I would not say that it is code-heavy. 
+Student: Okay, and for my third EECS class, what do you think about EECS 486? 
+Advisor: [push-general-info]  486 is well liked and it is not too code-heavy. 
+Student: Do you know if it has a final project? 
+Advisor: [push-general-info]  Yes 
+Student: Okay thank you for providing me with this information. I think I'll sign up for these three. 
+Advisor: [social-open-close]  Enjoy your final semester 
+
+Advisor: [social-open-close]  Hello! 
+Student: muenster cheese quesadillas 
+Advisor: [pull-fill]  What are you interested in taking next semester? 
+Student: I do not know. Can you give me some suggestions? 
+Advisor: [pull-bool]  Have you ever taken a programming class before? 
+Student: According to my transcript, apparently not. 
+Advisor: [push-tailored-info]  Since you have no prior programming experience, I suggest that you take EECS183 
+Student: But wait, I forgot! I took Engin 101!!! 
+Student: Also, I'm in Engineering. So I can't take EECS 183 
+Advisor: [push-tailored-info]  Then I suggest that you take EECS280 for your next programming course 
+Student: Ok thanks! 
+Student: Have a good day!!! 
+Advisor: [social-open-close]  Let me know if you have any other questions! 
+
+Advisor: [pull-bool]  Do you have problems with course selection, qijun? 
+Student: Yes! 
+Student: I wondered whether you could give me any recommendations. I will need 4 credits for next semester but I do not know which is good 
+Advisor: [push-tailored-info]  I noticed that you haven't taken any senior design courses, I wound suggest you to take one to fulfill your graduation requirements 
+Student: yes I should. What design course do you think is good? 
+Advisor: [push-tailored-info]  I noticed that you took many courses for hardware and physics, I would suggest you to take EECS470. It's a very helpful course for your career after graduation 
+Student: May I know the description of the course? 
+Advisor: [push-general-info]  Class Overview EECS 470 is an introductory graduate-level course in computer architecture. This course is intended to do two things: to give you a solid, detailed understanding of how computers are designed and implemented, including the central processor and memory and I/O interfaces; and to make you aware of the numerous tradeoffs in design and implementation, their interaction, their realization in both historical and state-of-the-art systems, and trends that will affect them in future systems. 
+Student: It looks good. I like that. 
+Student: How many credits the course will count? 
+Advisor: [push-general-info]  It's a 4 credit course and counts as senior design course 
+Student: Does the course have lab? I like labs a lot! 
+Advisor: [push-general-info]  Yes, it has lab sessions for doing interesting experiments 
+Student: Thank you! I will take the course 
+Student: Good Bye! 
+Advisor: [social-open-close]  Thank you. Byebye! 
+
+Advisor: [social-open-close]  Hi 
+Student: Hey, I think I wanna take Physics 140 
+Advisor: [push-tailored-info]  I've noticed that you've already taken Physics 140 
+Student: Oh, whoops.  Silly me.  I'm thinking about IOE 474 to finish up my IOE reqs. 
+Student: I meant EECS 482 
+Advisor: [push-general-info]  Well in order to take EECS 482, you need to have taken EECS 281 and 370 
+Advisor: [push-general-info]  You seem to have only taken EECS 100 and 280, so it seems you havent even finished your prerequistes 
+Student: Which class should I take next? 
+Advisor: [push-tailored-info]  Well in order to finish the prereqs, you need to take EECS 203 
+Advisor: [push-tailored-info]  After that, I suggest that you take EECS 281 and 370, and then you can take 482 
+Student: Good idea!  Is EECS 203 hard? 
+Advisor: [push-general-info]  It doesn't seem that difficult, so I think you should be fine! 
+Student: Thanks! 
+Advisor: [social-other]  Yeah no problem! 
+Advisor: [social-open-close]  Have a nice day. 
+
+Student: Hello, how are you? 
+Advisor: [social-open-close]  hello, I'm doing well, how are you? 
+Student: Fine, thanks! I am looking for courses that you would recommend I take next semester 
+Advisor: [pull-bool]  Are you a pursuing a CS major? 
+Student: No, so far most of the classes I have taken are IOE classes 
+Advisor: [pull-bool]  ok, are you interested in taking computer science classes? 
+Student: No, I did not like ENGR 101 very much. 
+Advisor: [push-tailored-info]  EECS 183 is a more in-depth exploration of the programming topics covered in 101. Maybe that will suit you better 
+Student: Ok, that sounds good. Are there any other courses you would recommend? 
+Advisor: [pull-bool]  Are you ok with taking larger classes? 
+Student: Yes, I am fine with that 
+Advisor: [pull-bool]  Do you think you could handle another relatively difficult class next semester? 
+Student: No, I would prefer a medium workload. I also have a slight interest in computer hardware 
+Advisor: [push-tailored-info]  EECS 280 is required for many computer engineering courses 
+Advisor: [push-tailored-info]  I suggest that you take EECS 280 in order to gain access to taking those upper level CE classes 
+Student: Ok, what other EECS classes would I need to take? I have not taken any yet 
+Advisor: [push-general-info]  EECS 281 would be required for most CE upper level electives 
+Advisor: [push-general-info]  But you need to take EECS 280 before you can take EECS 281 
+Student: Are there any others I can take next semester? 
+Advisor: [push-general-info]  You could also take EECS 203 
+Advisor: [push-tailored-info]  given your math background I think you will do well in EECS 203 
+Student: Ok, thank you! 
+Advisor: [social-open-close]  you're welcome, goodbye! 
+
+Student: HI 
+Student: Can I take EECS 381? 
+Student: Who should take EECS 381? 
+Advisor: [social-open-close]  Hello! 
+Advisor: [push-tailored-info]  Yes you can take EECS 381 according to the classes you have previously taken 
+Student: Would you recommend any other classes? 
+Student: I am interested in NLP 
+Advisor: [push-general-info]  EECS 381 is a challenging course and should be taken only if you are highly motivated towards Software Development 
+Advisor: [push-tailored-info]  Unfortunately there are no NLP courses being offered in the 300 or 400 level next semester 
+Advisor: [push-tailored-info]  You could consider taking EECS 595 if you eventually do take EECS 445 
+Student: That sounds very interesting 
+Student: Can I take EECS 445? 
+Student: Next semester? 
+Advisor: [push-tailored-info]  You could if you feel like you have a strong Math or Statistics background 
+Student: I don't think I have the math background 
+Student: Is there another similar course? 
+Advisor: [push-tailored-info]  I see that you have taken MATH 425 so that may not necessarily be true 
+Advisor: [push-general-info]  EECS 492 goes over similar topics that may interest you 
+Student: Thank you I will think about 
+Student: it 
+Advisor: [social-open-close]  You are welcome. Glad I could help 
+
+Student: Hey, i'm looking for classes that I can take next semester. Do you have any suggestions? 
+Advisor: [push-tailored-info]  Yup, I would suggest one of the following classes: EECS 376, EECS 281, EECS 478, EECS 475, or EECS 370 
+Student: Hm, what class has the teacher with the highest clarity rating? 
+Advisor: [push-tailored-info]  EECS 370. 
+Student: In addition to that, which class has the teacher with the highest helpfulness rating? 
+Advisor: [push-tailored-info]  EECS 370 has the highest clarity rating teacher wise as well as the highest helpfulness rating. 
+
